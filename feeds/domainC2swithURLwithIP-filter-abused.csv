@@ -34,7 +34,6 @@ arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/ptj,103.109.192.66
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html,147.78.47.219
-atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/fam_cart.css,5.42.66.28
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/fam_cart.css,66.59.199.180
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,5.42.66.28
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,66.59.199.180
@@ -356,6 +355,7 @@ service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,82.157.110.128
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,101.43.165.220
+service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,82.157.110.128
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-mph8ibgh-1309275416.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.148.219
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
@@ -419,6 +419,7 @@ www.360safengine.club,Possible Cobalt Strike C2 Fronted Domain,/api/3,43.139.4.1
 www.abchina.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,119.45.167.101
 www.amz123.world,Possible Cobalt Strike C2 Domain,/dpixel,82.157.177.73
 www.amz123.world,Possible Cobalt Strike C2 Domain,/j.ad,82.157.177.73
+www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/activity,120.132.81.18
 www.cnaec.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info,121.5.117.173
 www.cufinancialservices.com,Possible Cobalt Strike C2 Domain,/ptj,20.83.202.127
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout,39.101.1.147

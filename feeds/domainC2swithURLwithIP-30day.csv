@@ -55,7 +55,6 @@ artztech.dyndns.info,Possible Cobalt Strike C2 Domain,/dot.gif,118.100.230.147
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html,147.78.47.219
-atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/fam_cart.css,5.42.66.28
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/fam_cart.css,66.59.199.180
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,5.42.66.28
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,66.59.199.180
@@ -539,8 +538,8 @@ service-k34gi85k-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.223.3.171
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,82.157.110.128
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/btn_bg.css,82.157.110.128
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,101.43.165.220
+service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,82.157.110.128
 service-kqjz2v9d-1252551592.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,175.178.77.232
 service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.58.185
 service-lteuokof-1317231554.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.221.123.55
@@ -659,6 +658,7 @@ www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/viewerng/meta,124.223.7.26
 www.amz123.world,Possible Cobalt Strike C2 Domain,/dpixel,82.157.177.73
 www.amz123.world,Possible Cobalt Strike C2 Domain,/j.ad,82.157.177.73
+www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/activity,120.132.81.18
 www.bgn.sc.cn,Possible Cobalt Strike C2 Domain,/fwlink,42.192.38.240
 www.blueteam.asia,Possible Cobalt Strike C2 Domain,/api/3,47.245.117.155
 www.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_,45.136.245.12

@@ -231,3 +231,4 @@
 \.dbappsecurity\.com\.cn,
 ^jspassport\.ssl\.qhimg\.com,
 ^http,
+^https,
