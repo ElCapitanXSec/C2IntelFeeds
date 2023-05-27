@@ -115,6 +115,7 @@ dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
 eas.cqivc.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_
 ec2-cs01-verify.ossaliyun.info,Possible Cobalt Strike C2 Domain,/dot.gif
+edgesupporttd.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
@@ -132,7 +133,6 @@ gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1
 gxxdd.xyz,Possible Cobalt Strike C2 Domain,/search
 healthstats.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/live
 home-hsf2czcghwhjg7fh.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/3C4j21xN/xijqb2bWP9tK63lwqNALftwPDYo70
-hommyy-ekfvfwcpe7c0g0dk.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/6yvf/Uz0noyZgzz084x56ZJyQN1h6qNLuCoI
 huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain,/eso.html
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 id1.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -360,7 +360,6 @@ ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 topronet.com,Possible Cobalt Strike C2 Domain,/dz.css
-tvchanel.org,Possible Cobalt Strike C2 Domain,/www/handle/doc
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/pixel.gif
 upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
