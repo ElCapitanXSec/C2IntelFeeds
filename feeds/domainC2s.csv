@@ -65,6 +65,7 @@ cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain
+cf-cs-cloudfuctions-rkkwaxzxjd.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain
 check.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 cheetah.s3exchange-sec.live,Possible Cobalt Strike C2 Domain
@@ -348,6 +349,7 @@ service-jnbjutxg-1304098235.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-k34gi85k-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mph8ibgh-1309275416.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -386,6 +388,7 @@ update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
 update.micsoft365.online,Possible Cobalt Strike C2 Domain
+update.qq.com,Possible Cobalt Strike C2 Fronting Domain
 update.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
@@ -398,6 +401,7 @@ vindowsupdt.ru,Possible Cobalt Strike C2 Domain
 webcopy.cloud,Possible Cobalt Strike C2 Domain
 weixin.smartedu.cn,Possible Cobalt Strike C2 Fronting Domain
 windowsupdate.social,Possible Cobalt Strike C2 Domain
+windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain
 www.16-fa.pw,Possible Cobalt Strike C2 Domain
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain
 www.300.cn,Possible Cobalt Strike C2 Fronted Domain

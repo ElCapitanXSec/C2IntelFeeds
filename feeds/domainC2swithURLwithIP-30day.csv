@@ -100,6 +100,7 @@ cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.1
 cdn.loca1host.cf,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.219.67.133
 cdn.sncyhkttp.nl,Possible Cobalt Strike C2 Domain,/image/,45.81.243.125
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,106.14.94.149
+cf-cs-cloudfuctions-rkkwaxzxjd.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/static/js/jquery3.2.1.js,121.40.51.138
 check.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,204.48.24.224
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/pixel,45.76.90.103
 cheetah.s3exchange-sec.live,Possible Cobalt Strike C2 Domain,/pixel,115.78.164.87
@@ -543,6 +544,7 @@ service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,82.157.110.128
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,82.157.110.128
+service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact,119.91.219.240
 service-kqjz2v9d-1252551592.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,175.178.77.232
 service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.58.185
 service-lteuokof-1317231554.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.221.123.55
@@ -613,6 +615,7 @@ update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel,45.12.138.94
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/cm,45.12.138.95
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/dpixel,45.12.138.95
 update.micsoft365.online,Possible Cobalt Strike C2 Domain,/5eN1bjq8AAUYm2zgoY3K/ll_9354efa.js,43.156.232.7
+update.qq.com,Possible Cobalt Strike C2 Fronting Domain,/fwlink,47.92.70.151
 update.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,204.48.24.224
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/messages/S6ecjL9HUMKRKtjfZZDfrXU,47.242.177.154
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/messages/S6ecjL9HUMKRKtjfZZDfrXU,47.242.177.154
@@ -642,6 +645,7 @@ wewutif.online,Possible Cobalt Strike C2 Fronted Domain,/posting,172.93.181.61
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,39.100.40.99
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,120.79.64.164
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/,103.159.206.151
+windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink,47.92.70.151
 wordpress.com,Possible Cobalt Strike C2 Fronting Domain,/av,23.108.57.159
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout,43.154.88.249
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout,43.154.88.249
