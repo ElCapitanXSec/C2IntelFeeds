@@ -36,6 +36,7 @@ api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
+app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain,/css/bootstrap.min.css
 app.professional-survey.com,Possible Cobalt Strike C2 Domain,/api/Updates
 app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates
 apps.executivegiftcards.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -334,6 +335,7 @@ ns1.micsoft.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 ns1.niggerasssys.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.norahomespace.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.ossqianxin.co,Possible Cobalt Strike C2 Domain,/updates
 ns1.push-alibaba.com,Possible Cobalt Strike C2 Domain,/update/image/
 ns1.pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ns1.rememdam.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -371,6 +373,7 @@ ns2.mammothspoon.xyz,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns2.microtimezone.com,Possible Cobalt Strike C2 Domain,/match
 ns2.niggerasssys.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.norahomespace.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns2.ossqianxin.co,Possible Cobalt Strike C2 Domain,/updates
 ns2.rememdam.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.rtsafetech.com,Possible Cobalt Strike C2 Domain,/search
 ns2.scant.online,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -380,6 +383,7 @@ ns3.007work.icu,Possible Cobalt Strike C2 Domain,/cm
 ns3.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 ns3.jojoieadd.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns3.michiganlocking.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
+ns3.ossqianxin.co,Possible Cobalt Strike C2 Domain,/updates
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load
 ns4.michiganlocking.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 ns_1.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
@@ -540,7 +544,7 @@ upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
-update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_ogb
+update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_promos
 update.h4ck3r.workers.dev,Possible Cobalt Strike C2 Domain,/match
 update.huorongsec.com,Possible Cobalt Strike C2 Fronted Domain,/zjservicezj/front/index/page.do
 update.kernel-service.workers.dev,Possible Cobalt Strike C2 Domain,/www/handle/doc
@@ -569,6 +573,7 @@ web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home
+weixin.smartedu.cn,Possible Cobalt Strike C2 Fronting Domain,/css/bootstrap.min.css
 westus.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/owa/auth/logon.aspx
 wewutif.online,Possible Cobalt Strike C2 Fronted Domain,/posting
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
