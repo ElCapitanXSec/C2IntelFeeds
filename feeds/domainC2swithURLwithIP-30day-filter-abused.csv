@@ -51,10 +51,10 @@ artztech.dyndns.info,Possible Cobalt Strike C2 Domain,/dot.gif,118.100.230.147
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html,147.78.47.219
-asdfgasd.com,Possible Cobalt Strike C2 Domain,/dpixel,107.161.50.178
-asdfgasd.com,Possible Cobalt Strike C2 Domain,/dpixel,107.161.50.180
-asdfgasd.com,Possible Cobalt Strike C2 Domain,/dpixel,107.161.50.181
-asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel.gif,107.161.50.180
+asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.178
+asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.180
+asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.181
+asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel,107.161.50.180
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,5.42.66.28
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,66.59.199.180
 aurorawenters.com,Possible Cobalt Strike C2 Domain,/updates,103.74.192.249
@@ -156,6 +156,7 @@ def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_
 dev.msndla.com,Possible Cobalt Strike C2 Fronted Domain,/owa/,107.189.6.139
 dev04.ruok.org,Possible Cobalt Strike C2 Fronted Domain,/owa/zQyMZ6snZqtfL9PAP3R6iR72e,85.208.107.148
 devicepartner.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
+devnetapp.com,Possible Cobalt Strike C2 Domain,/jp,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/jp,213.232.114.22
 devnetapp.com,Possible Cobalt Strike C2 Domain,/panel,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/panel,213.232.114.22
@@ -646,6 +647,7 @@ www.dxszl.tk,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta,124.223.7.2
 www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html,47.243.22.29
 www.googleupdatetask.com,Possible Cobalt Strike C2 Domain,/ptj,8.217.27.28
 www.hinet-dns.tw,Possible Cobalt Strike C2 Domain,/msdownload/update/2022/04/windows6.1-kb3172605-v4-x86_b0731.psf,118.193.62.133
+www.icbci.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
 www.ilovechina.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.142.13.132
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3,121.4.111.221
 www.khjw.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info,121.5.117.173

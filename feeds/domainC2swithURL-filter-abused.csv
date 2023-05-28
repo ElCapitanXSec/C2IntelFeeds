@@ -27,8 +27,8 @@ arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
-asdfgasd.com,Possible Cobalt Strike C2 Domain,/dpixel
-asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel.gif
+asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css
 australiansuper.xyz,Possible Cobalt Strike C2 Fronted Domain,/owa
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab
@@ -401,6 +401,7 @@ www.cufinancialservices.com,Possible Cobalt Strike C2 Domain,/ptj
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.dhksblog.top,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
+www.icbci.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.ilovechina.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
 www.khjw.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info
