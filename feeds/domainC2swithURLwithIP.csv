@@ -361,6 +361,7 @@ service-8lfc508b-1307231181.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-98cbalut-1302394400.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,43.142.18.173
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.143.132.119
+service-cejxd4w6-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.60.27
 service-d27rg2y2-1256209700.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,81.71.45.160
 service-dijaz85p-1318228220.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,114.55.144.23
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
