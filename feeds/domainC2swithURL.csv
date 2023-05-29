@@ -26,7 +26,6 @@ app.professional-survey.com,Possible Cobalt Strike C2 Domain,/api/Updates
 app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates
 apt007.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
-as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -308,7 +307,6 @@ qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 qqns.asdasd33.info,Possible Cobalt Strike C2 Domain,/ga.js
 qqns1.asdasd33.info,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-qw.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 qw.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 qw.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
@@ -443,6 +441,5 @@ xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownlo
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 yahoo.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.css
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3
-zx.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 zx.tackhostw.com,Possible Cobalt Strike C2 Domain,/da
 zx.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html

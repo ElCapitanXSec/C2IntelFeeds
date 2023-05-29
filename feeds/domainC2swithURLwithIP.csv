@@ -29,7 +29,6 @@ app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates,37.157.155.
 app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates,78.111.100.170
 apt007.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,106.14.94.149
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,103.87.48.24
-as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html,147.78.47.219
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.178
@@ -323,7 +322,6 @@ qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.55.180.1
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,111.230.194.172
 qqns.asdasd33.info,Possible Cobalt Strike C2 Domain,/ga.js,172.247.14.76
 qqns1.asdasd33.info,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,172.247.14.76
-qw.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 qw.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
 qw.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html,147.78.47.219
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
@@ -473,6 +471,5 @@ xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownlo
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js,43.138.10.232
 yahoo.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.css,108.62.118.122
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3,129.211.217.209
-zx.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 zx.tackhostw.com,Possible Cobalt Strike C2 Domain,/da,147.78.47.235
 zx.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html,147.78.47.219
