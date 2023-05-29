@@ -383,10 +383,12 @@ ns2.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/owa/auth/token_api.as
 ns2.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns3.007work.icu,Possible Cobalt Strike C2 Domain,/cm
 ns3.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
+ns3.aliyunapis.com,Possible Cobalt Strike C2 Domain,/static/js/jquery3.2.1.js
 ns3.jojoieadd.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns3.michiganlocking.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 ns3.ossqianxin.co,Possible Cobalt Strike C2 Domain,/updates
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load
+ns4.aliyunapis.com,Possible Cobalt Strike C2 Domain,/static/js/jquery3.2.1.js
 ns4.michiganlocking.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 ns_1.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
 ns_2.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
@@ -585,18 +587,18 @@ windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout
-www.300.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.360safengine.club,Possible Cobalt Strike C2 Domain,/Quit/cv/IPI9U4OF
 www.360safengine.club,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.abchina.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+www.ajzq.com,Possible Cobalt Strike C2 Fronted Domain,/info
 www.amz123.world,Possible Cobalt Strike C2 Domain,/dpixel
 www.amz123.world,Possible Cobalt Strike C2 Domain,/j.ad
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/activity
 www.bgn.sc.cn,Possible Cobalt Strike C2 Domain,/fwlink
 www.blueteam.asia,Possible Cobalt Strike C2 Domain,/api/3
 www.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
-www.cnaec.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info
+www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.crowdstk.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 www.cufinancialservices.com,Possible Cobalt Strike C2 Domain,/ptj
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
@@ -609,9 +611,8 @@ www.googleupdatetask.com,Possible Cobalt Strike C2 Domain,/ptj
 www.hinet-dns.tw,Possible Cobalt Strike C2 Domain,/msdownload/update/2022/04/windows6.1-kb3172605-v4-x86_b0731.psf
 www.icbci.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.ilovechina.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.j-j-j.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
-www.khjw.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info
-www.lanzouw.com,Possible Cobalt Strike C2 Fronted Domain,/info
 www.linkkedin.life,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.lion3.life,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/css
 www.miamibankingrates.com,Possible Cobalt Strike C2 Domain,/login
