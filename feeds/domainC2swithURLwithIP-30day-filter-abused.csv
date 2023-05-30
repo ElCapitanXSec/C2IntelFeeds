@@ -226,6 +226,7 @@ home-hsf2czcghwhjg7fh.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrow
 home.firefoxchina.cn,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js,39.98.77.34
 hommyy-ekfvfwcpe7c0g0dk.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/6yvf/Uz0noyZgzz084x56ZJyQN1h6qNLuCoI,134.122.102.8
 htc.ccb.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js,43.138.10.93
+huanjing.chinaeic.net,Possible Cobalt Strike C2 Fronting Domain,/css/bootstrap.min.css,110.40.201.49
 hunter.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,123.249.75.105
 hunter.qianxin.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,123.249.75.105
 huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain,/eso.html,172.93.201.58
@@ -515,6 +516,7 @@ service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,150.158.180.97
 service-hklg6utm-1304313899.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.137.35.105
 service-hohlyv8m-1300389563.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,8.130.27.236
+service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.138.212.90
 service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.139.15.98
 service-i4suy2ku-1257582847.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,129.211.212.75
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,139.199.3.221
@@ -613,7 +615,6 @@ web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink,34.240.17.59
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad,43.131.232.238
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js,179.60.146.11
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home,179.60.146.11
-weixin.smartedu.cn,Possible Cobalt Strike C2 Fronting Domain,/css/bootstrap.min.css,110.40.201.49
 westus.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/owa/auth/logon.aspx,156.241.132.32
 wewutif.online,Possible Cobalt Strike C2 Fronted Domain,/posting,172.93.181.61
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,39.100.40.99

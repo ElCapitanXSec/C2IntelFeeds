@@ -213,6 +213,7 @@ home-hsf2czcghwhjg7fh.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrow
 home.firefoxchina.cn,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 hommyy-ekfvfwcpe7c0g0dk.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/6yvf/Uz0noyZgzz084x56ZJyQN1h6qNLuCoI
 htc.ccb.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
+huanjing.chinaeic.net,Possible Cobalt Strike C2 Fronting Domain,/css/bootstrap.min.css
 hunter.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 hunter.qianxin.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain,/eso.html
@@ -483,6 +484,7 @@ service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-hklg6utm-1304313899.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-hohlyv8m-1300389563.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-i4suy2ku-1257582847.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
@@ -575,7 +577,6 @@ web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home
-weixin.smartedu.cn,Possible Cobalt Strike C2 Fronting Domain,/css/bootstrap.min.css
 westus.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/owa/auth/logon.aspx
 wewutif.online,Possible Cobalt Strike C2 Fronted Domain,/posting
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
