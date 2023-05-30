@@ -90,6 +90,7 @@ dangofil.xyz,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 dash.congluanz.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 devnetapp.com,Possible Cobalt Strike C2 Domain,/jp
+devnetapp.com,Possible Cobalt Strike C2 Domain,/ky
 devnetapp.com,Possible Cobalt Strike C2 Domain,/panel
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -331,6 +332,7 @@ service-dijaz85p-1318228220.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
 service-dmasysh1-1309196782.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
+service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-g50k7rwo-1307267846.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login

@@ -147,6 +147,7 @@ dev.msndla.com,Possible Cobalt Strike C2 Fronted Domain,/owa/
 dev04.ruok.org,Possible Cobalt Strike C2 Fronted Domain,/owa/zQyMZ6snZqtfL9PAP3R6iR72e
 devicepartner.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js
 devnetapp.com,Possible Cobalt Strike C2 Domain,/jp
+devnetapp.com,Possible Cobalt Strike C2 Domain,/ky
 devnetapp.com,Possible Cobalt Strike C2 Domain,/panel
 deyanggov.cf,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0
@@ -476,6 +477,7 @@ service-dmasysh1-1309196782.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-e6qj5a3r-1251769991.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 service-elsvu1ds-1308206226.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
+service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-g50k7rwo-1307267846.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
 service-g8z6boiv-1302310300.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/contact/v1.51/WE0KXOL8
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
