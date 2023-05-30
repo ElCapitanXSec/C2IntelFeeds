@@ -82,7 +82,7 @@ c.kalilinux.net,Possible Cobalt Strike C2 Domain,/push,172.105.125.49
 c1.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js,170.187.252.14
 c2.digitalriverinfosec.com,Possible Cobalt Strike C2 Domain,/zOMGAPT,66.119.15.225
 c2.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js,170.187.252.14
-c2.maccc.xyz,Possible Cobalt Strike C2 Domain,/common.js,43.142.176.16
+c2.iamabhacker.tk,Possible Cobalt Strike C2 Domain,/admin,96.45.164.179
 c2.ststjst.shop,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg,43.159.38.188
 c3.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js,170.187.252.14
 cancel.soupandselfcare.com,Possible Cobalt Strike C2 Domain,/dpixel,18.212.255.134
@@ -154,8 +154,8 @@ def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_
 dev.msndla.com,Possible Cobalt Strike C2 Fronted Domain,/owa/,107.189.6.139
 dev04.ruok.org,Possible Cobalt Strike C2 Fronted Domain,/owa/zQyMZ6snZqtfL9PAP3R6iR72e,85.208.107.148
 devicepartner.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
-devnetapp.com,Possible Cobalt Strike C2 Domain,/jp,194.50.153.2
-devnetapp.com,Possible Cobalt Strike C2 Domain,/jp,213.232.114.22
+devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,194.50.153.2
+devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,213.232.114.22
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/panel,213.232.114.22
 deyanggov.cf,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,120.48.124.220
@@ -605,8 +605,7 @@ vindowsupdt.ru,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021
 visitor_info.thet0urist.cf,Possible Cobalt Strike C2 Fronting Domain,/sg/passport_requirements,18.139.159.151
 vx.hypersploit.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.33.117.154
 w.yobuy01.com,Possible Cobalt Strike C2 Domain,/api/v1/nsquery,45.125.64.251
-w.yobuy01.com,Possible Cobalt Strike C2 Domain,/api/v1/nsquery,45.125.67.129
-w.yobuy01.com,Possible Cobalt Strike C2 Domain,/api/v1/nsquery,45.125.67.253
+wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js,112.213.125.213
 web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink,34.240.17.59
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad,43.131.232.238
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js,179.60.146.11

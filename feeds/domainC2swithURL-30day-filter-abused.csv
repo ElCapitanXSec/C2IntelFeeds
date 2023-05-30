@@ -74,7 +74,7 @@ c.kalilinux.net,Possible Cobalt Strike C2 Domain,/push
 c1.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js
 c2.digitalriverinfosec.com,Possible Cobalt Strike C2 Domain,/zOMGAPT
 c2.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js
-c2.maccc.xyz,Possible Cobalt Strike C2 Domain,/common.js
+c2.iamabhacker.tk,Possible Cobalt Strike C2 Domain,/admin
 c2.ststjst.shop,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg
 c3.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js
 cancel.soupandselfcare.com,Possible Cobalt Strike C2 Domain,/dpixel
@@ -145,7 +145,7 @@ def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_
 dev.msndla.com,Possible Cobalt Strike C2 Fronted Domain,/owa/
 dev04.ruok.org,Possible Cobalt Strike C2 Fronted Domain,/owa/zQyMZ6snZqtfL9PAP3R6iR72e
 devicepartner.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js
-devnetapp.com,Possible Cobalt Strike C2 Domain,/jp
+devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky
 devnetapp.com,Possible Cobalt Strike C2 Domain,/panel
 deyanggov.cf,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -568,6 +568,7 @@ vindowsupdt.ru,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021
 visitor_info.thet0urist.cf,Possible Cobalt Strike C2 Fronting Domain,/sg/passport_requirements
 vx.hypersploit.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 w.yobuy01.com,Possible Cobalt Strike C2 Domain,/api/v1/nsquery
+wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js
 web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js
