@@ -22,6 +22,8 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 aerosunelectric.com,Possible Cobalt Strike C2 Domain,/br.css
 aerosunelectric.com,Possible Cobalt Strike C2 Domain,/mt
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user
 alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel
@@ -576,6 +578,7 @@ upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
+update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_ogb
 update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_promos
 update.h4ck3r.workers.dev,Possible Cobalt Strike C2 Domain,/match
 update.huorongsec.com,Possible Cobalt Strike C2 Fronted Domain,/zjservicezj/front/index/page.do
@@ -606,7 +609,6 @@ web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home
-westus.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/owa/auth/logon.aspx
 wewutif.online,Possible Cobalt Strike C2 Fronted Domain,/posting
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/

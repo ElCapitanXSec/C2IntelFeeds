@@ -13,6 +13,8 @@ actistesting.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/16
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout,43.154.88.249
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload,114.115.160.181
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js,213.232.112.218
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js,213.232.112.218
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,106.14.94.149
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel,110.40.229.133
@@ -100,6 +102,7 @@ d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 da.fulim.top,Possible Cobalt Strike C2 Domain,/push,111.230.242.129
 dangofil.xyz,Possible Cobalt Strike C2 Fronted Domain,/api/logout,39.101.1.147
+dash.congluanz.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.30.59
 def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,23.21.52.245
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,213.232.114.22
@@ -418,6 +421,7 @@ upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
+update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_ogb,47.242.105.249
 update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_promos,47.242.105.249
 update.kernel-service.workers.dev,Possible Cobalt Strike C2 Domain,/www/handle/doc,45.154.14.249
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel,45.12.138.94

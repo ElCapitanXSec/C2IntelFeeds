@@ -13,6 +13,8 @@ actistesting.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/16
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user
 alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel
@@ -92,6 +94,7 @@ d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 da.fulim.top,Possible Cobalt Strike C2 Domain,/push
 dangofil.xyz,Possible Cobalt Strike C2 Fronted Domain,/api/logout
+dash.congluanz.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky
@@ -389,6 +392,7 @@ upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
+update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_ogb
 update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_promos
 update.kernel-service.workers.dev,Possible Cobalt Strike C2 Domain,/www/handle/doc
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel

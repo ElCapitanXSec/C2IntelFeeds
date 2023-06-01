@@ -22,6 +22,8 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
 aerosunelectric.com,Possible Cobalt Strike C2 Domain,/br.css,179.60.146.10
 aerosunelectric.com,Possible Cobalt Strike C2 Domain,/mt,179.60.146.10
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload,114.115.160.181
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js,213.232.112.218
+aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js,213.232.112.218
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,106.14.94.149
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel,110.40.229.133
@@ -611,6 +613,7 @@ upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
+update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_ogb,47.242.105.249
 update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_promos,47.242.105.249
 update.h4ck3r.workers.dev,Possible Cobalt Strike C2 Domain,/match,175.178.81.164
 update.huorongsec.com,Possible Cobalt Strike C2 Fronted Domain,/zjservicezj/front/index/page.do,42.192.54.106
@@ -641,7 +644,6 @@ web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink,34.240.17.59
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad,43.131.232.238
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js,179.60.146.11
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home,179.60.146.11
-westus.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/owa/auth/logon.aspx,156.241.132.32
 wewutif.online,Possible Cobalt Strike C2 Fronted Domain,/posting,172.93.181.61
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,39.100.40.99
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/,103.159.206.151
