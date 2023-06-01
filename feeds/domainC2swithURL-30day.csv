@@ -589,6 +589,7 @@ test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 thetechnicalassistant.com,Possible Cobalt Strike C2 Domain,/tab_home_active.html
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon
+tongwl.top,Possible Cobalt Strike C2 Domain,/pixel
 topronet.com,Possible Cobalt Strike C2 Domain,/dz.css
 traffic.vip2-nice.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 transcash-recharge.sytes.net,Possible Cobalt Strike C2 Domain,/cm
@@ -698,6 +699,7 @@ xls.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 yahoo.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.css
+yestcoin.com,Possible Cobalt Strike C2 Domain,/visit.js
 zatabax.online,Possible Cobalt Strike C2 Fronted Domain,/da.js
 zekoyofugu.network,Possible Cobalt Strike C2 Domain,/undo/wp-content/5D6J9ZDOY
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3

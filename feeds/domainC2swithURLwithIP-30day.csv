@@ -625,6 +625,7 @@ test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 thetechnicalassistant.com,Possible Cobalt Strike C2 Domain,/tab_home_active.html,213.59.116.181
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon,23.108.57.191
+tongwl.top,Possible Cobalt Strike C2 Domain,/pixel,115.126.113.81
 topronet.com,Possible Cobalt Strike C2 Domain,/dz.css,193.233.134.70
 topronet.com,Possible Cobalt Strike C2 Domain,/dz.css,47.87.129.127
 traffic.vip2-nice.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,35.79.20.213
@@ -741,6 +742,7 @@ xls.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.8
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_,121.37.117.19
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js,43.138.10.232
 yahoo.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.css,108.62.118.122
+yestcoin.com,Possible Cobalt Strike C2 Domain,/visit.js,45.63.53.9
 zatabax.online,Possible Cobalt Strike C2 Fronted Domain,/da.js,23.106.215.224
 zekoyofugu.network,Possible Cobalt Strike C2 Domain,/undo/wp-content/5D6J9ZDOY,23.19.58.237
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3,129.211.217.209

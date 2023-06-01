@@ -400,6 +400,7 @@ ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon
+tongwl.top,Possible Cobalt Strike C2 Domain,/pixel
 trendmicro.96html.com,Possible Cobalt Strike C2 Fronted Domain,/en-us/silentauth
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/pixel.gif
 upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
@@ -462,6 +463,7 @@ xls.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 yahoo.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.css
+yestcoin.com,Possible Cobalt Strike C2 Domain,/visit.js
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3
 zh.servicesest.services,Possible Cobalt Strike C2 Domain,/visit.js
 zx.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
