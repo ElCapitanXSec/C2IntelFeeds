@@ -207,6 +207,7 @@ fg56ds.azurewebsites.net,Possible Cobalt Strike C2 Domain,/api/checkout
 financeht.com,Possible Cobalt Strike C2 Domain,/dot.gif
 financialeducationconsultants.com,Possible Cobalt Strike C2 Domain,/push
 flash-dl.cloudns.ph,Possible Cobalt Strike C2 Domain,/api/v3
+fms.myftp.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 forcorpor.com,Possible Cobalt Strike C2 Domain,/fwlink
 fortunefountainllc.com,Possible Cobalt Strike C2 Domain,/updates
 gifhamburgers.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
@@ -247,7 +248,6 @@ jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
 ji31j6ul4283183.com,Possible Cobalt Strike C2 Domain,/Reactivate/mrtg/7YO56X3S7V1J
 jp.motex-inc.com,Possible Cobalt Strike C2 Domain,/latest/pip-check
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/__utm.gif
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jspassport.ssl.qhimg.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
@@ -284,6 +284,7 @@ midasusme.uk,Possible Cobalt Strike C2 Domain,/cx
 midasusme.uk,Possible Cobalt Strike C2 Domain,/j.ad
 money.china.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 mosterra.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
+mpls.myvnc.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 ms1.msndla.com,Possible Cobalt Strike C2 Fronted Domain,/owa/
 msdn.ajax-microsoft.com,Possible Cobalt Strike C2 Domain,/link/v3.22/4EN738VY
 msdwn.herokuapp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -303,7 +304,7 @@ neweastsystem.com,Possible Cobalt Strike C2 Domain,/ee.html
 neweastsystem.com,Possible Cobalt Strike C2 Domain,/media
 neweastsystem.com,Possible Cobalt Strike C2 Domain,/ny
 newspaper.s3exchange-sec.live,Possible Cobalt Strike C2 Domain,/pixel
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/fwlink
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/dot.gif
 note1.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 note2.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 note3.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
@@ -448,6 +449,7 @@ qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 qq.com,Possible Cobalt Strike C2 Fronting Domain,/en.html
 qqns.asdasd33.info,Possible Cobalt Strike C2 Domain,/ga.js
 qqns1.asdasd33.info,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+quote.swalter.com,Possible Cobalt Strike C2 Domain,/archive/list/v4.73/77GM1A6XWEH
 quote.swalter.com,Possible Cobalt Strike C2 Domain,/dot.gif
 qw.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 qw.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
@@ -654,6 +656,7 @@ www.happynewgamewx.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.hinet-dns.tw,Possible Cobalt Strike C2 Domain,/msdownload/update/2022/04/windows6.1-kb3172605-v4-x86_b0731.psf
 www.icbci.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.ilovechina.site,Possible Cobalt Strike C2 Domain,/en_US/all.js
+www.ilovechina.site,Possible Cobalt Strike C2 Domain,/ptj
 www.j-j-j.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
 www.linkkedin.life,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
