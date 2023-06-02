@@ -55,6 +55,7 @@ as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css
+atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css
 australiansuper.xyz,Possible Cobalt Strike C2 Fronted Domain,/owa
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -127,6 +128,7 @@ cs.svchost.pro,Possible Cobalt Strike C2 Domain,/ptj
 cs.svchostok.pro,Possible Cobalt Strike C2 Domain,/match
 cs.svchostok.pro,Possible Cobalt Strike C2 Domain,/pixel
 csklo06p.slt.sched.intlscdn.com,Possible Cobalt Strike C2 Fronted Domain,/OTSI/OTSI-update-list.jsp
+csremote.duckdns.org,Possible Cobalt Strike C2 Domain,/dot.gif
 cyberanalysis.io,Possible Cobalt Strike C2 Domain,/updates.rss
 cyberwf.cf,Possible Cobalt Strike C2 Domain,/cx
 d12lysxt2c11pc.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/sg/passport_requirements
@@ -228,6 +230,7 @@ google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gxxdd.xyz,Possible Cobalt Strike C2 Domain,/search
+hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss
 hackerwei.com,Possible Cobalt Strike C2 Domain,/updates.rss
 hashmap.tw,Possible Cobalt Strike C2 Fronted Domain,/restapi/soa2/21881/json/gethotdestination
 healthstats.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/live
@@ -525,6 +528,7 @@ service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-98cbalut-1302394400.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 service-996gjd0l-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
+service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-besjnih9-1307114390.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink
 service-bqyqfp5u-1310046338.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s

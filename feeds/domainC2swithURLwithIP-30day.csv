@@ -61,6 +61,7 @@ asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.181
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel,107.161.50.180
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,5.42.66.28
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,66.59.199.180
+atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css,47.87.131.22
 australiansuper.xyz,Possible Cobalt Strike C2 Fronted Domain,/owa,13.55.24.36
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab,185.105.1.233
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/__utm.gif,20.94.177.31
@@ -135,6 +136,7 @@ cs.svchost.pro,Possible Cobalt Strike C2 Domain,/ptj,154.38.91.30
 cs.svchostok.pro,Possible Cobalt Strike C2 Domain,/match,61.14.233.132
 cs.svchostok.pro,Possible Cobalt Strike C2 Domain,/pixel,61.14.233.132
 csklo06p.slt.sched.intlscdn.com,Possible Cobalt Strike C2 Fronted Domain,/OTSI/OTSI-update-list.jsp,43.139.110.18
+csremote.duckdns.org,Possible Cobalt Strike C2 Domain,/dot.gif,132.145.49.27
 cyberanalysis.io,Possible Cobalt Strike C2 Domain,/updates.rss,66.29.134.142
 cyberwf.cf,Possible Cobalt Strike C2 Domain,/cx,172.247.38.157
 d12lysxt2c11pc.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/sg/passport_requirements,18.139.159.151
@@ -241,6 +243,7 @@ google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html,172.93.201.58
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R,23.108.57.227
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
 gxxdd.xyz,Possible Cobalt Strike C2 Domain,/search,207.148.111.137
+hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss,27.157.113.61
 hackerwei.com,Possible Cobalt Strike C2 Domain,/updates.rss,1.116.4.48
 hashmap.tw,Possible Cobalt Strike C2 Fronted Domain,/restapi/soa2/21881/json/gethotdestination,154.213.64.87
 healthstats.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/live,3.219.188.21
@@ -553,6 +556,7 @@ service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-98cbalut-1302394400.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,43.142.18.173
 service-996gjd0l-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,106.52.86.32
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
+service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.143.132.119
 service-besjnih9-1307114390.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,121.37.189.43
 service-bqyqfp5u-1310046338.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s,1.12.62.80
