@@ -258,6 +258,7 @@ ld3.mobilecsssync.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 leopard.s3exchange-sec.live,Possible Cobalt Strike C2 Domain,/cm
+light.tsinghua.fyi,Possible Cobalt Strike C2 Domain,/owa/LXnpttWVHHt2PDiF2JCq
 lo.tkkls.ml,Possible Cobalt Strike C2 Domain,/activity
 lo.tkkls.ml,Possible Cobalt Strike C2 Domain,/j.ad
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -504,7 +505,6 @@ service-dijaz85p-1318228220.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
 service-dmasysh1-1309196782.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-e6qj5a3r-1251769991.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
-service-elsvu1ds-1308206226.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-g50k7rwo-1307267846.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
@@ -521,14 +521,12 @@ service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-j7rl21xg-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-jivrpccg-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/x/getit
 service-jj2b7hxn-1303919683.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-jjmi43bc-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-jnbjutxg-1304098235.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-k34gi85k-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
-service-kqjz2v9d-1252551592.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-lteuokof-1317231554.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
