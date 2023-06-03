@@ -1,4 +1,5 @@
 #domain,ioc
+360sec.site,Possible Cobalt Strike C2 Domain
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain
@@ -35,6 +36,7 @@ baidu.moonsir.cf,Possible Cobalt Strike C2 Domain
 bid.skhystec.com,Possible Cobalt Strike C2 Domain
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain
 binsmob.com,Possible Cobalt Strike C2 Domain
+blacktulip.tk,Possible Cobalt Strike C2 Domain
 bot.qianxinsecurity.com,Possible Cobalt Strike C2 Domain
 br.claughs.ga,Possible Cobalt Strike C2 Domain
 br.claughs.ga,Possible Cobalt Strike C2 Fronting Domain
@@ -175,6 +177,8 @@ mx.weixin3.bond,Possible Cobalt Strike C2 Domain
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
+note.jianshu.com,Possible Cobalt Strike C2 Fronting Domain
+note.jianshu.com.wsdvs.com,Possible Cobalt Strike C2 Fronted Domain
 note1.mcuweb.cf,Possible Cobalt Strike C2 Domain
 note2.mcuweb.cf,Possible Cobalt Strike C2 Domain
 note3.mcuweb.cf,Possible Cobalt Strike C2 Domain

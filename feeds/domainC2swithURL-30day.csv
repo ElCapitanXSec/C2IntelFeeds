@@ -4,6 +4,7 @@
 16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 2snrw9bgtk0qv.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/k/msdownload/update/others/2023/03/88363192_
 360safengine.club,Possible Cobalt Strike C2 Fronting Domain,/api/3
+360sec.site,Possible Cobalt Strike C2 Domain,/restapi/soa2/21881/json/gethotdestination
 404.zoominfo.click,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -67,6 +68,7 @@ bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js
 binsmob.com,Possible Cobalt Strike C2 Domain,/pixel.gif
+blacktulip.tk,Possible Cobalt Strike C2 Domain,/__utm.gif
 booksfortress.sytes.net,Possible Cobalt Strike C2 Fronted Domain,/sg/passport_requirements
 bot.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/pixel
 br.claughs.ga,Possible Cobalt Strike C2 Domain,/api/3
@@ -314,6 +316,8 @@ neweastsystem.com,Possible Cobalt Strike C2 Domain,/media
 neweastsystem.com,Possible Cobalt Strike C2 Domain,/ny
 newspaper.s3exchange-sec.live,Possible Cobalt Strike C2 Domain,/pixel
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/dot.gif
+note.jianshu.com,Possible Cobalt Strike C2 Fronting Domain,/azure/api/v2/userinfo/get
+note.jianshu.com.wsdvs.com,Possible Cobalt Strike C2 Fronted Domain,/azure/api/v2/userinfo/get
 note1.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 note2.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 note3.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
