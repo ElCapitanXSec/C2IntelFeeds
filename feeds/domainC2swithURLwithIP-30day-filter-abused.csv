@@ -228,7 +228,6 @@ gitinab.xyz,Possible Cobalt Strike C2 Domain,/Retrieve/image/FJEJ73OX633,23.163.
 giyelido.xyz,Possible Cobalt Strike C2 Domain,/Record/pdfs/1H6FY36DC2,172.93.193.206
 go.maga0.tk,Possible Cobalt Strike C2 Domain,/g.pixel,124.223.44.152
 google.co.jp,Possible Cobalt Strike C2 Fronting Domain,/FAQ.html,172.93.181.184
-google.co.jp,Possible Cobalt Strike C2 Fronting Domain,/posting,172.93.181.61
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R,23.108.57.227
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
 gxxdd.xyz,Possible Cobalt Strike C2 Domain,/search,207.148.111.137
@@ -557,7 +556,6 @@ service-hklg6utm-1304313899.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hohlyv8m-1300389563.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,8.130.27.236
 service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.138.212.90
 service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.139.15.98
-service-i4suy2ku-1257582847.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,129.211.212.75
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,139.199.3.221
 service-j7rl21xg-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,111.230.98.119
 service-jivrpccg-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/x/getit,8.134.159.113
@@ -654,7 +652,6 @@ web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink,34.240.17.59
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad,43.131.232.238
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js,179.60.146.11
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home,179.60.146.11
-wewutif.online,Possible Cobalt Strike C2 Fronted Domain,/posting,172.93.181.61
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,39.100.40.99
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/,103.159.206.151
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink,47.92.70.151
