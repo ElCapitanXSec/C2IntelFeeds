@@ -97,6 +97,7 @@ cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload
 cdn.sncyhkttp.nl,Possible Cobalt Strike C2 Domain,/image/
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+cdn_1.cnnvd.club,Possible Cobalt Strike C2 Domain,/visit.js
 cf-cs-cloudfuctions-rkkwaxzxjd.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/static/js/jquery3.2.1.js
 cf.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -259,6 +260,7 @@ leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 leopard.s3exchange-sec.live,Possible Cobalt Strike C2 Domain,/cm
 light.tsinghua.fyi,Possible Cobalt Strike C2 Domain,/owa/LXnpttWVHHt2PDiF2JCq
+light.tsinghua.fyi,Possible Cobalt Strike C2 Domain,/owa/vl-ZuQkOaCsXGGGokO0Qinkb
 lo.tkkls.ml,Possible Cobalt Strike C2 Domain,/activity
 lo.tkkls.ml,Possible Cobalt Strike C2 Domain,/j.ad
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
