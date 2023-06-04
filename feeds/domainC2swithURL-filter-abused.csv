@@ -159,7 +159,6 @@ jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/dz
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/mk
 jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
 jp.motex-inc.com,Possible Cobalt Strike C2 Domain,/latest/pip-check
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/g.pixel
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM
@@ -352,6 +351,7 @@ service-3mgi5kkg-1318387972.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-3rlc1z29-1318191688.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cx
 service-3rlc1z29-1318191688.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/SpringG
+service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/check
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-6pm512hu-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
