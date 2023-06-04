@@ -4,6 +4,7 @@
 16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 2snrw9bgtk0qv.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/k/msdownload/update/others/2023/03/88363192_
 360safengine.club,Possible Cobalt Strike C2 Fronting Domain,/api/3
+360sec.site,Possible Cobalt Strike C2 Domain,/restapi/soa2/21881/json/gethotdestination
 404.zoominfo.click,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif

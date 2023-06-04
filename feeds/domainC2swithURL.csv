@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+360sec.site,Possible Cobalt Strike C2 Domain,/restapi/soa2/21881/json/gethotdestination
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
