@@ -9,6 +9,7 @@
 404.zoominfo.click,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
+6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 a.connection-78d5500d66aea.nl,Possible Cobalt Strike C2 Domain,/7da75226-667a-4bee-acc4-305a9630ecc3/
 a.oobcsilent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -242,6 +243,7 @@ icmp-expert.info,Possible Cobalt Strike C2 Fronting Domain,/OTSI/OTSI-update-lis
 id1.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 id2.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 id3.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search
 imperialback.com,Possible Cobalt Strike C2 Domain,/Detect/devs/NJYO2MUY4V
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js
 ionscapir.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -558,6 +560,7 @@ service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohddx02s-1300389563.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-pzmjnxrc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qgpkja1x-1310046338.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s
 service-rb9ef747-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rrswgbwn-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -653,6 +656,7 @@ www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.darkerstan.top,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.dhksblog.top,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
+www.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg
 www.dxszl.tk,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta
 www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html
 www.googleupdatetask.com,Possible Cobalt Strike C2 Domain,/ptj
@@ -683,6 +687,7 @@ www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 xls.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
+xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain,/cr.css
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 yestcoin.com,Possible Cobalt Strike C2 Domain,/visit.js

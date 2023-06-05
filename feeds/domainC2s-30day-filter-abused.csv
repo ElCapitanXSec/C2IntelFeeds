@@ -9,6 +9,7 @@
 404.zoominfo.click,Possible Cobalt Strike C2 Fronted Domain
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
+6pen.art,Possible Cobalt Strike C2 Fronted Domain
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain
 a.connection-78d5500d66aea.nl,Possible Cobalt Strike C2 Domain
 a.oobcsilent.com,Possible Cobalt Strike C2 Domain
@@ -230,6 +231,7 @@ icmp-expert.info,Possible Cobalt Strike C2 Fronting Domain
 id1.opstionery.com,Possible Cobalt Strike C2 Domain
 id2.opstionery.com,Possible Cobalt Strike C2 Domain
 id3.opstionery.com,Possible Cobalt Strike C2 Domain
+image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain
 imperialback.com,Possible Cobalt Strike C2 Domain
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain
 ionscapir.com,Possible Cobalt Strike C2 Domain
@@ -533,6 +535,7 @@ service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohddx02s-1300389563.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-pzmjnxrc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-qgpkja1x-1310046338.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-rb9ef747-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-rrswgbwn-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -621,6 +624,7 @@ www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain
 www.darkerstan.top,Possible Cobalt Strike C2 Domain
 www.dhksblog.top,Possible Cobalt Strike C2 Domain
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain
+www.dnehtb.cn,Possible Cobalt Strike C2 Domain
 www.dxszl.tk,Possible Cobalt Strike C2 Fronted Domain
 www.edge-chrome.com,Possible Cobalt Strike C2 Domain
 www.googleupdatetask.com,Possible Cobalt Strike C2 Domain
@@ -648,6 +652,7 @@ www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
 xls.freeonline-office.com,Possible Cobalt Strike C2 Domain
+xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain
 yestcoin.com,Possible Cobalt Strike C2 Domain
 zekoyofugu.network,Possible Cobalt Strike C2 Domain
