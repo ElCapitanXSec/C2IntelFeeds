@@ -476,7 +476,7 @@ onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload,20.190.42.1
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3,123.249.104.83
 open.alipay.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,39.98.77.34
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,47.108.239.81
-oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/push,89.117.63.195
+oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/ga.js,89.117.63.195
 outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa,13.55.24.36
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca,45.76.90.103
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
@@ -690,7 +690,7 @@ visitor_info.thet0urist.cf,Possible Cobalt Strike C2 Fronting Domain,/sg/passpor
 vx.hypersploit.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.33.117.154
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js,112.213.125.213
 web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink,34.240.17.59
-webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad,43.131.232.238
+webcopy.cloud,Possible Cobalt Strike C2 Domain,/dot.gif,43.131.232.238
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js,179.60.146.11
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home,179.60.146.11
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,39.100.40.99

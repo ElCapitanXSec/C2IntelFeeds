@@ -316,7 +316,7 @@ nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js
 ntlm.duckdns.org,Possible Cobalt Strike C2 Domain,/XEVendor
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
-oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/push
+oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/ga.js
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
@@ -365,6 +365,7 @@ service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -427,7 +428,7 @@ velmeded.com,Possible Cobalt Strike C2 Domain,/push
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/__utm.gif
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js
-webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad
+webcopy.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink
 www.abchina.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js

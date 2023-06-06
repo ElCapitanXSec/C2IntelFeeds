@@ -335,7 +335,7 @@ one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/stati
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,195.133.23.90
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload,20.190.42.122
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,47.108.239.81
-oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/push,89.117.63.195
+oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/ga.js,89.117.63.195
 outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa,13.55.24.36
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca,45.76.90.103
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
@@ -397,6 +397,7 @@ service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.73.232
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js,82.156.151.200
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.60.27
+service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.143.132.119
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,120.46.177.219
@@ -466,7 +467,7 @@ velmeded.com,Possible Cobalt Strike C2 Domain,/push,31.44.184.88
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js,31.44.184.63
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.90.103
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js,112.213.125.213
-webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad,43.131.232.238
+webcopy.cloud,Possible Cobalt Strike C2 Domain,/dot.gif,43.131.232.238
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/,103.159.206.151
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink,47.92.70.151
 www.abchina.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,119.45.167.101

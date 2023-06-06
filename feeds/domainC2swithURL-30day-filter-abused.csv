@@ -441,7 +441,7 @@ one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/stati
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3
 open.alipay.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
-oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/push
+oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/ga.js
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 pay.cyplahy.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -628,7 +628,7 @@ visitor_info.thet0urist.cf,Possible Cobalt Strike C2 Fronting Domain,/sg/passpor
 vx.hypersploit.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js
 web.the-briar-patch.cc,Possible Cobalt Strike C2 Domain,/fwlink
-webcopy.cloud,Possible Cobalt Strike C2 Domain,/j.ad
+webcopy.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home
 wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
