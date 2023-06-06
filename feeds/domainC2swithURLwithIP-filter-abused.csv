@@ -318,8 +318,8 @@ ns98.0xgg.eu.org,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get,193
 ns99.0xgg.eu.org,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get,193.134.209.247
 ns_1.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_,45.136.245.12
 ns_2.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_,45.136.245.12
-nsa1.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/g.pixel,103.39.78.208
-nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/pixel,103.39.78.208
+nsa1.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js,103.39.78.208
+nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js,103.39.78.208
 ntlm.duckdns.org,Possible Cobalt Strike C2 Domain,/XEVendor,37.23.155.169
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,104.200.67.121
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,195.133.23.90

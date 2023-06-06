@@ -319,8 +319,8 @@ ns98.0xgg.eu.org,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get
 ns99.0xgg.eu.org,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get
 ns_1.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
 ns_2.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
-nsa1.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/g.pixel
-nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/pixel
+nsa1.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js
+nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js
 ntlm.duckdns.org,Possible Cobalt Strike C2 Domain,/XEVendor
 office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
