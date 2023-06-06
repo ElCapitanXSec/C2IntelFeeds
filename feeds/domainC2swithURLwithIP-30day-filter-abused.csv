@@ -172,7 +172,6 @@ devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,213.232.114.22
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky,213.232.114.22
-deyanggov.cf,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,120.48.124.220
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0,3.77.8.200
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -460,7 +459,7 @@ one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/stati
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3,123.249.104.83
 open.alipay.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,39.98.77.34
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,47.108.239.81
-oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/cm,89.117.63.195
+oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,89.117.63.195
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca,45.76.90.103
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
 pay.cyplahy.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,66.42.43.179
@@ -474,7 +473,6 @@ plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity,3.221.16.19
 pop2000.ddns.net,Possible Cobalt Strike C2 Domain,/dpixel,197.36.176.82
 pop2000.ddns.net,Possible Cobalt Strike C2 Domain,/dpixel,197.36.247.242
 post.deadbeef.zip,Possible PoshC2 Domain,/utag/lbg/main/prod/utag.15.js/,34.105.151.117
-post.i.api.ahrtv.cn,Possible Cobalt Strike C2 Domain,/themes/default/js/js.cookie_8.js,175.178.53.131
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,146.70.79.23
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/ptj,68.183.112.159
@@ -550,7 +548,6 @@ service-996gjd0l-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.143.132.119
-service-besjnih9-1307114390.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,121.37.189.43
 service-bqyqfp5u-1310046338.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s,1.12.62.80
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,120.46.177.219
 service-d27rg2y2-1256209700.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,81.71.45.160
@@ -654,7 +651,6 @@ updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/messages/S6ecjL9HUMKRKtjfZZDfrXU,47.242.177.154
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.95.15.23
 us-central1-marine-base-383719.cloudfunctions.net,Possible Cobalt Strike C2 Domain,/HA-function,164.92.78.168
-usdt.lat,Possible Cobalt Strike C2 Domain,/fo,47.243.44.143
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain,/favicon,23.108.57.191
 vbp950269936.softether.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,82.157.136.219
 vbp950269936.softether.net,Possible Cobalt Strike C2 Domain,/dpixel,82.157.136.219
