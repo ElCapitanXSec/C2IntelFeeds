@@ -449,7 +449,6 @@ pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 pay.cyplahy.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
-pesigoh.org,Possible Cobalt Strike C2 Fronted Domain,/av
 pfizer.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/angularjs/angular.1.1.3.js
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 pingan.microsoft-ppe.cn,Possible Cobalt Strike C2 Domain,/ga.js
@@ -685,7 +684,6 @@ www.shazambatman.xyz,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.shazambatman.xyz,Possible Cobalt Strike C2 Domain,/updates.rss
 www.strategigears.com,Possible Cobalt Strike C2 Domain,/en/home/search
 www.tools-bitget.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
-www.windows-updates.ga,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
