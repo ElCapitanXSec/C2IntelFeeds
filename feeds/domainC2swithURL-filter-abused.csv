@@ -74,7 +74,7 @@ cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
-cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/match
+cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/j.ad
 cs.server.bike,Possible Cobalt Strike C2 Domain,/dot.gif
 csremote.duckdns.org,Possible Cobalt Strike C2 Domain,/dot.gif
 cyberwf.cf,Possible Cobalt Strike C2 Domain,/cx
@@ -306,7 +306,7 @@ nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js
 ntlm.duckdns.org,Possible Cobalt Strike C2 Domain,/XEVendor
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
-oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/ga.js
+oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/load
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
@@ -371,6 +371,7 @@ service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-j7rl21xg-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-j815x7l4-1302505002.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-jivrpccg-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/x/getit
+service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
@@ -421,6 +422,7 @@ wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/boo
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink
+www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.ajzq.com,Possible Cobalt Strike C2 Fronted Domain,/info
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/en_US/all.js
