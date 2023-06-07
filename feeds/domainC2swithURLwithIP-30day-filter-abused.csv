@@ -63,6 +63,7 @@ asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.181
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel,107.161.50.180
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,5.42.66.28
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css,66.59.199.180
+atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css,45.92.127.141
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css,47.87.131.22
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css,5.42.66.28
 australiansuper.xyz,Possible Cobalt Strike C2 Fronted Domain,/owa,13.55.24.36
@@ -589,6 +590,7 @@ service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact,119.91.219.240
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact,175.178.115.15
 service-li2y5xbg-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.92.128.8
+service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.35.196.8
 service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.58.185
 service-lteuokof-1317231554.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.221.123.55
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
@@ -616,6 +618,7 @@ smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.22
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.227.249
 sovodeceni.online,Possible Cobalt Strike C2 Domain,/select/v5.28/Y8FVXTKNZ,23.106.215.140
 sprintmedia.xyz,Possible Cobalt Strike C2 Domain,/remove,45.63.7.212
+srvupdate.duckdns.org,Possible Cobalt Strike C2 Domain,/load,132.145.49.27
 strategigears.com,Possible Cobalt Strike C2 Domain,/en/home/search,46.101.121.62
 study.accesscam.org,Possible Cobalt Strike C2 Domain,/www/handle/doc,103.42.214.102
 study.gleeze.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,103.42.214.102
