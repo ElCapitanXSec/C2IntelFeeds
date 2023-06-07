@@ -104,6 +104,7 @@ cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain,/__utm.gif,98.71.232.2
 cdn.dns-response.net,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.122
 cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.122
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,213.61.251.56
+cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.142.52
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,193.42.32.19
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.122
 cdn.sncyhkttp.nl,Possible Cobalt Strike C2 Domain,/image/,45.81.243.125
@@ -364,6 +365,7 @@ ns1.hammercdntech.com,Possible Cobalt Strike C2 Domain,/search,65.20.73.176
 ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js,192.144.198.126
 ns1.hkappdev.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,45.76.149.227
 ns1.icbci.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
+ns1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 ns1.jojoieadd.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.77.249.85
 ns1.jpgureai.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.76.219.254
 ns1.kirs1234.top,Possible Cobalt Strike C2 Domain,/match,103.74.192.143
@@ -413,6 +415,7 @@ ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/ptj,123.207.51.53
 ns2.glthub.icu,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.146.41
 ns2.hkappdev.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,45.76.149.227
 ns2.icbci.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
+ns2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 ns2.jojoieadd.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.77.249.85
 ns2.jpgureai.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.76.219.254
 ns2.kirs1234.top,Possible Cobalt Strike C2 Domain,/__utm.gif,103.74.192.143
@@ -435,6 +438,7 @@ ns3.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min
 ns3.aliyunapis.com,Possible Cobalt Strike C2 Domain,/static/js/jquery3.2.1.js,121.40.51.138
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 ns3.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/pixel,123.207.51.53
+ns3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 ns3.jojoieadd.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.77.249.85
 ns3.m1crosoft.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,111.90.149.239
 ns3.michiganlocking.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js,193.36.119.209
@@ -625,6 +629,9 @@ test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details,101.200.197.112
+test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
+test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
+test3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 thetechnicalassistant.com,Possible Cobalt Strike C2 Domain,/tab_home_active.html,213.59.116.181
 tongwl.top,Possible Cobalt Strike C2 Domain,/pixel,115.126.113.81
 topronet.com,Possible Cobalt Strike C2 Domain,/dz.css,193.233.134.70
