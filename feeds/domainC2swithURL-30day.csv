@@ -10,10 +10,10 @@
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search
-a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
+a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 a.connection-78d5500d66aea.nl,Possible Cobalt Strike C2 Domain,/7da75226-667a-4bee-acc4-305a9630ecc3/
 a.oobcsilent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
+a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 abc.hvd9qquq.top,Possible Cobalt Strike C2 Domain,/api/getit
 abc.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 abcdefguvw.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -229,6 +229,7 @@ go.maga0.tk,Possible Cobalt Strike C2 Domain,/g.pixel
 google.co.jp,Possible Cobalt Strike C2 Fronting Domain,/FAQ.html
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html
+greencorp.pro,Possible Cobalt Strike C2 Domain,/___utm.gif
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gxxdd.xyz,Possible Cobalt Strike C2 Domain,/search

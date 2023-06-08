@@ -5,9 +5,9 @@
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search
-a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
+a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 a.oobcsilent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
+a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 abc.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 abcdefguvw.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
@@ -145,6 +145,7 @@ forcorpor.com,Possible Cobalt Strike C2 Domain,/fwlink
 fukuoka.cloud-maste.com,Possible Cobalt Strike C2 Fronting Domain,/5aq/XP/SY75Qyw.htm
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html
+greencorp.pro,Possible Cobalt Strike C2 Domain,/___utm.gif
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss
 hashmap.tw,Possible Cobalt Strike C2 Fronted Domain,/restapi/soa2/21881/json/gethotdestination
@@ -458,6 +459,7 @@ www.ilovechina.site,Possible Cobalt Strike C2 Domain,/ptj
 www.j-j-j.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
 www.linkkedin.life,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js
 www.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/en-us/silentauth
 www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY

@@ -4,9 +4,9 @@
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC,1.15.74.201
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif,150.158.75.102
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search,39.104.76.226
-a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.155.75.235
+a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/include/template/isx.php,43.155.75.235
 a.oobcsilent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,64.176.45.219
-a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.155.75.235
+a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,43.155.75.235
 abc.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/pixel.gif,114.132.67.32
 abcdefguvw.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,124.71.77.10
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,146.70.79.23
@@ -145,6 +145,7 @@ exl.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu
 fms.myftp.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,103.174.104.8
 forcorpor.com,Possible Cobalt Strike C2 Domain,/fwlink,31.44.184.73
 fukuoka.cloud-maste.com,Possible Cobalt Strike C2 Fronting Domain,/5aq/XP/SY75Qyw.htm,3.22.70.55
+greencorp.pro,Possible Cobalt Strike C2 Domain,/___utm.gif,20.102.113.195
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
 hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss,27.157.113.61
 hashmap.tw,Possible Cobalt Strike C2 Fronted Domain,/restapi/soa2/21881/json/gethotdestination,154.213.64.87
@@ -465,6 +466,7 @@ www.ilovechina.site,Possible Cobalt Strike C2 Domain,/ptj,8.142.13.132
 www.j-j-j.cn,Possible Cobalt Strike C2 Fronted Domain,/info,121.5.117.173
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3,121.4.111.221
 www.linkkedin.life,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.223.165.16
+www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js,49.232.90.103
 www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY,43.228.91.212
 www.strategigears.com,Possible Cobalt Strike C2 Domain,/en/home/search,46.101.121.62
