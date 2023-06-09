@@ -230,5 +230,6 @@
 ^www\.dbappsecurity\.com\.cn,
 \.dbappsecurity\.com\.cn,
 ^jspassport\.ssl\.qhimg\.com,
+^m\.ctrip\.com,
 ^http,
 ^https,
