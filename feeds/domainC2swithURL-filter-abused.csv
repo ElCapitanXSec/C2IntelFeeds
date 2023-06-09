@@ -44,6 +44,7 @@ bot1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/cx
 br.claughs.ga,Possible Cobalt Strike C2 Domain,/api/3
 br.claughs.ga,Possible Cobalt Strike C2 Fronting Domain,/api/3
 bravo.minutes-men.com,Possible Cobalt Strike C2 Domain,/fo
+brownderbys.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 cancel.soupandselfcare.com,Possible Cobalt Strike C2 Domain,/dpixel
 cc.claughs.ga,Possible Cobalt Strike C2 Fronted Domain,/api/3
 cce.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
@@ -294,9 +295,11 @@ pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity
+powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/bg.js
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 primary.dreamwellfarms.com,Possible Cobalt Strike C2 Domain,/j.ad
+primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/dpixel
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 qaq.blog.happysec.cn,Possible Cobalt Strike C2 Fronting Domain,/info
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3
@@ -315,6 +318,7 @@ riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/fo
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
+sanjianke.tech,Possible Cobalt Strike C2 Domain,/api/3
 scervice.shop,Possible Cobalt Strike C2 Domain,/visit.js
 search.scant.online,Possible Cobalt Strike C2 Domain,/ga.js
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
@@ -410,6 +414,7 @@ www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg
+www.ggcsg.live,Possible Cobalt Strike C2 Domain,/api/3
 www.guestwhoami.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.happynewgamewx.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.ilovechina.site,Possible Cobalt Strike C2 Domain,/en_US/all.js
