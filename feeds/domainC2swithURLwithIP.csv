@@ -175,7 +175,6 @@ lecture.liveritehealthcare.com,Possible Cobalt Strike C2 Domain,/j.ad,52.90.87.2
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,23.106.122.69
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 light.tsinghua.fyi,Possible Cobalt Strike C2 Domain,/api/3,103.97.178.13
-light.tsinghua.fyi,Possible Cobalt Strike C2 Domain,/owa/LXnpttWVHHt2PDiF2JCq,103.97.178.13
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 login.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab,185.105.1.233
 lxnft.org,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,173.249.196.234
@@ -428,7 +427,6 @@ test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 test3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon,23.108.57.191
-tongwl.top,Possible Cobalt Strike C2 Domain,/pixel,115.126.113.81
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
@@ -476,7 +474,6 @@ www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67
 xls.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85
 xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain,/cr.css,23.108.57.45
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js,43.138.10.232
-yestcoin.com,Possible Cobalt Strike C2 Domain,/visit.js,45.63.53.9
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3,129.211.217.209
 zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,39.107.32.219
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,39.107.32.219
