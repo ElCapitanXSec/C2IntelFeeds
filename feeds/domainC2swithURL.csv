@@ -73,6 +73,7 @@ cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
+consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
@@ -132,6 +133,7 @@ dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
 dww.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
+edusupport.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lib/v2/wcp-consent.js
 energy.steelcdn.com,Possible Cobalt Strike C2 Domain,/j.ad
 eu-1.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
@@ -159,7 +161,6 @@ ivukwzbzfw.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/b
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/dz
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/mk
 jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/dot.gif
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/g.pixel
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM
@@ -372,6 +373,7 @@ service-gt4aitdw-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
+service-ivfpu96s-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/x/getit
 service-j7rl21xg-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-j815x7l4-1302505002.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-jcetme20-1314507962.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
