@@ -126,6 +126,7 @@ content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain
+cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain
 cs.hacker.wang,Possible Cobalt Strike C2 Domain
 cs.imalloc.cn,Possible Cobalt Strike C2 Domain
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain
@@ -523,6 +524,7 @@ service-3rlc1z29-1318191688.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-4qt7wcxz-1315517919.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain
 service-536yrr0s-1305465584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-5xjib65m-1300464441.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -595,6 +597,8 @@ smss.svchost.co,Possible Cobalt Strike C2 Domain
 sovodeceni.online,Possible Cobalt Strike C2 Domain
 sprintmedia.xyz,Possible Cobalt Strike C2 Domain
 srvupdate.duckdns.org,Possible Cobalt Strike C2 Domain
+static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain
+static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain
 stop.lycanfinance.com,Possible Cobalt Strike C2 Domain
 strategigears.com,Possible Cobalt Strike C2 Domain
@@ -684,6 +688,7 @@ www.dbappsecurity.com.cn,Possible Cobalt Strike C2 Fronting Domain
 www.dhksblog.top,Possible Cobalt Strike C2 Domain
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain
+www.docker-compose-update.com,Possible Cobalt Strike C2 Fronting Domain
 www.dxszl.tk,Possible Cobalt Strike C2 Fronted Domain
 www.ggcsg.live,Possible Cobalt Strike C2 Domain
 www.guestwhoami.xyz,Possible Cobalt Strike C2 Domain

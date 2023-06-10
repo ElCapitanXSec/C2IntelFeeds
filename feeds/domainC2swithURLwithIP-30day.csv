@@ -147,6 +147,7 @@ content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/push,8.140.135.
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push,8.140.135.23
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain,/j.ad,3.80.37.26
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,101.42.223.86
+cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa,143.92.59.14
 cs.hacker.wang,Possible Cobalt Strike C2 Domain,/__utm.gif,211.149.255.196
 cs.imalloc.cn,Possible Cobalt Strike C2 Domain,/be.html,101.35.143.108
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/j.ad,103.149.200.79
@@ -583,6 +584,7 @@ service-3rlc1z29-1318191688.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/SpringG,8.130.106.206
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/check,38.147.172.79
 service-4qt7wcxz-1315517919.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.48.211
+service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 service-536yrr0s-1305465584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,8.134.15.56
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,116.62.176.156
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,129.211.222.142
@@ -664,6 +666,8 @@ smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.22
 sovodeceni.online,Possible Cobalt Strike C2 Domain,/select/v5.28/Y8FVXTKNZ,23.106.215.140
 sprintmedia.xyz,Possible Cobalt Strike C2 Domain,/remove,45.63.7.212
 srvupdate.duckdns.org,Possible Cobalt Strike C2 Domain,/load,132.145.49.27
+static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA,43.143.145.131
+static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/Display/chan/IB61I7MYA,43.143.145.131
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js,120.79.64.164
 stop.lycanfinance.com,Possible Cobalt Strike C2 Domain,/j.ad,18.233.102.241
 strategigears.com,Possible Cobalt Strike C2 Domain,/en/home/search,46.101.121.62
@@ -767,6 +771,7 @@ www.dbappsecurity.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1
 www.dhksblog.top,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,124.223.96.251
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js,43.138.10.232
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg,139.155.145.128
+www.docker-compose-update.com,Possible Cobalt Strike C2 Fronting Domain,/aaaaaaaaa,143.92.59.14
 www.dxszl.tk,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta,124.223.7.26
 www.ggcsg.live,Possible Cobalt Strike C2 Domain,/api/3,43.139.114.134
 www.guestwhoami.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,220.173.24.251
