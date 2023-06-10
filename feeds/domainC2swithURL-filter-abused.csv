@@ -318,6 +318,7 @@ recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain,/o/dVBxSwCHul2OKAe41C
 resysmon.net,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/fo.html
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get
+rtlab-zeus.com,Possible PoshC2 Fronting Domain,/GoPro5/black/2018/
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
 sanjianke.tech,Possible Cobalt Strike C2 Domain,/api/3
