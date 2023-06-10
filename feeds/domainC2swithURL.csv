@@ -122,7 +122,6 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
-dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/Docs
 down.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 download.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
@@ -425,7 +424,6 @@ wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/boo
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.ajzq.com,Possible Cobalt Strike C2 Fronted Domain,/info
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css

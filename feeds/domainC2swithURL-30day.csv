@@ -203,7 +203,6 @@ doc.bluework.ink,Possible Cobalt Strike C2 Domain,/en_US/all.js
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 dopubopigo.us,Possible Cobalt Strike C2 Domain,/produce/Linux/AG6LTWHIFM8C
-dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/Docs
 down.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 download.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
 download.visualstudio.microsoft.com,Possible Cobalt Strike C2 Fronted Domain,/live
@@ -693,7 +692,6 @@ windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.360safengine.club,Possible Cobalt Strike C2 Domain,/Quit/cv/IPI9U4OF
 www.360safengine.club,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.abchina.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js

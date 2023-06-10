@@ -668,7 +668,6 @@ windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.360safengine.club,Possible Cobalt Strike C2 Domain,/Quit/cv/IPI9U4OF
 www.360safengine.club,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.abchina.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js

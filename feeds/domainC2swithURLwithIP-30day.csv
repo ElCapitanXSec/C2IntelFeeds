@@ -218,7 +218,6 @@ doc.bluework.ink,Possible Cobalt Strike C2 Domain,/en_US/all.js,8.218.129.91
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.218.129.91
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85
 dopubopigo.us,Possible Cobalt Strike C2 Domain,/produce/Linux/AG6LTWHIFM8C,46.30.190.12
-dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/Docs,106.52.236.88
 down.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
 download.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_,45.136.245.12
 download.visualstudio.microsoft.com,Possible Cobalt Strike C2 Fronted Domain,/live,3.219.188.21
@@ -735,7 +734,6 @@ windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/,103.159.206.151
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink,47.92.70.151
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout,43.154.88.249
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout,43.154.88.249
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs,106.52.236.88
 www.360safengine.club,Possible Cobalt Strike C2 Domain,/Quit/cv/IPI9U4OF,1.116.10.227
 www.360safengine.club,Possible Cobalt Strike C2 Fronted Domain,/api/3,43.139.4.101
 www.abchina.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,119.45.167.101
