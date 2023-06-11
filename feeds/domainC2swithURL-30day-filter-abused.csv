@@ -233,6 +233,7 @@ hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss
 hackerwei.com,Possible Cobalt Strike C2 Domain,/updates.rss
 hashmap.tw,Possible Cobalt Strike C2 Fronted Domain,/restapi/soa2/21881/json/gethotdestination
 healthstats.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/live
+heastings.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 helloworld.testediliyoruz.workers.dev,Possible Cobalt Strike C2 Domain,/poll
 highway.steelcdn.org,Possible Cobalt Strike C2 Domain,/w/index.php
 home-hsf2czcghwhjg7fh.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/3C4j21xN/xijqb2bWP9tK63lwqNALftwPDYo70
@@ -465,6 +466,7 @@ oss-update.duckdns.org,Possible Cobalt Strike C2 Domain,/load
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca
 pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 pay.cyplahy.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+payload.su,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 pfizer.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/angularjs/angular.1.1.3.js
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -620,6 +622,7 @@ support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
 surplusofer.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 takaelot.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 tavositaru.co,Possible Cobalt Strike C2 Domain,/Multiply/v8.7/36MCFOMPE5F4
+telegramexport.xyz,Possible Cobalt Strike C2 Domain,/dpixel
 ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
