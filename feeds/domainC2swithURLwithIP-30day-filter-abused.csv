@@ -22,8 +22,6 @@ actistesting.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/16
 active.clarusbank.com,Possible Cobalt Strike C2 Domain,/j.ad,52.90.160.176
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout,43.154.88.249
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
-aerosunelectric.com,Possible Cobalt Strike C2 Domain,/br.css,179.60.146.10
-aerosunelectric.com,Possible Cobalt Strike C2 Domain,/mt,179.60.146.10
 agency.baidubet.com,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get,178.236.45.67
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload,114.115.160.181
 alarm.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain,/j.ad,18.234.34.31
@@ -55,7 +53,6 @@ arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,103.8
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/cm,103.194.248.232
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink,202.92.5.12
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/ptj,103.109.192.66
-artztech.dyndns.info,Possible Cobalt Strike C2 Domain,/dot.gif,118.100.230.147
 as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml,46.161.27.133
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
@@ -386,6 +383,7 @@ ns1.linkein.org,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,45.135
 ns1.m1crosoft.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,111.90.149.239
 ns1.maxvps.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,81.68.248.37
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,66.29.131.147
+ns1.micsoft.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.103.195
 ns1.micsoft.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.76.161.184
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 ns1.msnsiccs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,207.148.121.184
@@ -573,7 +571,6 @@ service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fro
 service-536yrr0s-1305465584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,8.134.15.56
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,116.62.176.156
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,129.211.222.142
-service-5xjib65m-1300464441.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,1.116.148.81
 service-6pm512hu-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,175.178.61.109
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,81.70.29.244
 service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.138.215.2
@@ -647,7 +644,6 @@ slow.digisert-telemetry.com,Possible Cobalt Strike C2 Domain,/XEVendor,185.149.1
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.227.219
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.227.249
 sovodeceni.online,Possible Cobalt Strike C2 Domain,/select/v5.28/Y8FVXTKNZ,23.106.215.140
-sprintmedia.xyz,Possible Cobalt Strike C2 Domain,/remove,45.63.7.212
 srvupdate.duckdns.org,Possible Cobalt Strike C2 Domain,/load,132.145.49.27
 static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA,43.143.145.131
 static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/Display/chan/IB61I7MYA,43.143.145.131

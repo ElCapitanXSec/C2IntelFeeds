@@ -22,8 +22,6 @@ actistesting.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/16
 active.clarusbank.com,Possible Cobalt Strike C2 Domain,/j.ad
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
-aerosunelectric.com,Possible Cobalt Strike C2 Domain,/br.css
-aerosunelectric.com,Possible Cobalt Strike C2 Domain,/mt
 agency.baidubet.com,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
 alarm.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -50,7 +48,6 @@ arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/cm
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/ptj
-artztech.dyndns.info,Possible Cobalt Strike C2 Domain,/dot.gif
 as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
@@ -541,7 +538,6 @@ service-4qt7wcxz-1315517919.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 service-536yrr0s-1305465584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
-service-5xjib65m-1300464441.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-6pm512hu-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -611,7 +607,6 @@ skywalker.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/jquery-
 slow.digisert-telemetry.com,Possible Cobalt Strike C2 Domain,/XEVendor
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 sovodeceni.online,Possible Cobalt Strike C2 Domain,/select/v5.28/Y8FVXTKNZ
-sprintmedia.xyz,Possible Cobalt Strike C2 Domain,/remove
 srvupdate.duckdns.org,Possible Cobalt Strike C2 Domain,/load
 static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA
 static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/Display/chan/IB61I7MYA
