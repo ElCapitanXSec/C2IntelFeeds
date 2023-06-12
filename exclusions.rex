@@ -11,6 +11,7 @@
 ^github\.com,
 \.live\.com,
 \.bing\.com,
+^google\.co\.jp,
 ^google\.com,
 ^google\.com\.br,
 ^google\.com\.mx,
