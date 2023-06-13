@@ -554,7 +554,6 @@ service-d27rg2y2-1256209700.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dijaz85p-1318228220.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
 service-dmasysh1-1309196782.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-e6qj5a3r-1251769991.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -583,7 +582,6 @@ service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-li2y5xbg-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-lteuokof-1317231554.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mph8ibgh-1309275416.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -702,6 +700,7 @@ www.ggcsg.live,Possible Cobalt Strike C2 Domain,/api/3
 www.guestwhoami.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.happynewgamewx.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.hinet-dns.tw,Possible Cobalt Strike C2 Domain,/msdownload/update/2022/04/windows6.1-kb3172605-v4-x86_b0731.psf
+www.hkuspace.site,Possible Cobalt Strike C2 Domain,/jquery-3.4.2.min.js
 www.icbci.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.ilovechina.site,Possible Cobalt Strike C2 Domain,/en_US/all.js
 www.ilovechina.site,Possible Cobalt Strike C2 Domain,/ptj
