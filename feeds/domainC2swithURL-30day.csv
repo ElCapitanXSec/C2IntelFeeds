@@ -36,6 +36,7 @@ alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel
 antegivi.com,Possible Cobalt Strike C2 Domain,/updates.rss
 antliveplay.alicdn.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/cm
 api.linkein.org,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 api.map.ahrtv.cn,Possible Cobalt Strike C2 Domain,/qianxinniubi666
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
@@ -54,7 +55,6 @@ as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
-asdcw.oracleup.cc,Possible Cobalt Strike C2 Domain,/__utm.gif
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/pixel
 ask.healthgurues.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -239,6 +239,8 @@ go.maga0.tk,Possible Cobalt Strike C2 Domain,/g.pixel
 google.co.jp,Possible Cobalt Strike C2 Fronting Domain,/FAQ.html
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/match
 greencorp.pro,Possible Cobalt Strike C2 Domain,/___utm.gif
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

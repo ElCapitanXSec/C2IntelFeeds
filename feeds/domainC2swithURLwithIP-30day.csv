@@ -39,6 +39,7 @@ alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel,110.40.229.133
 antegivi.com,Possible Cobalt Strike C2 Domain,/updates.rss,216.219.86.212
 antliveplay.alicdn.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,106.14.94.149
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/cm,47.75.108.68
 api.linkein.org,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,45.135.134.183
 api.map.ahrtv.cn,Possible Cobalt Strike C2 Domain,/qianxinniubi666,42.193.37.101
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel,54.199.248.162
@@ -60,7 +61,6 @@ as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml,46.161.27.133
 as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html,147.78.47.219
-asdcw.oracleup.cc,Possible Cobalt Strike C2 Domain,/__utm.gif,47.75.108.68
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.178
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.180
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.161.50.181
@@ -257,6 +257,8 @@ go.maga0.tk,Possible Cobalt Strike C2 Domain,/g.pixel,124.223.44.152
 google.co.jp,Possible Cobalt Strike C2 Fronting Domain,/FAQ.html,172.93.181.184
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css,23.108.57.187
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html,172.93.201.58
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,137.184.137.107
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/match,137.184.137.107
 greencorp.pro,Possible Cobalt Strike C2 Domain,/___utm.gif,20.102.113.195
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R,23.108.57.227
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
