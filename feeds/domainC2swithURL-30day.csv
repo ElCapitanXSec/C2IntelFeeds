@@ -126,6 +126,7 @@ cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
+configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -133,7 +134,7 @@ cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa
 cs.hacker.wang,Possible Cobalt Strike C2 Domain,/__utm.gif
 cs.imalloc.cn,Possible Cobalt Strike C2 Domain,/be.html
-cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/j.ad
+cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 cs.server.bike,Possible Cobalt Strike C2 Domain,/dot.gif
 cs.siakapkeli.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cs.svchostok.pro,Possible Cobalt Strike C2 Domain,/match
@@ -535,7 +536,6 @@ s2.mieccm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 s8.svchostok.pro,Possible Cobalt Strike C2 Domain,/fwlink
 safe.safesecuredns.co,Possible Cobalt Strike C2 Domain,/fd/ls/l
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
-sanjianke.tech,Possible Cobalt Strike C2 Domain,/api/3
 santas-secret.ru,Possible Cobalt Strike C2 Domain,/messages/1xpLFc-UUjM6JqBXJ5CDMUzAUznAaxeKIiIwtv
 sapocijo.xyz,Possible Cobalt Strike C2 Fronted Domain,/FAQ.html
 scervice.shop,Possible Cobalt Strike C2 Domain,/visit.js
