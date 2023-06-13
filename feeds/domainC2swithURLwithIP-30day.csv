@@ -138,6 +138,7 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/ca,67.198.232.217
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3,101.35.4.152
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,43.142.175.45
+code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,64.176.37.64
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js,192.144.198.126
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.19
@@ -198,6 +199,7 @@ dn4d1v1ofq2j1.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_
 dnht95ajef6hr.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/RQXcm/nbpp4qlDy-S9TfjlCq7rXcxoFzlNfhlf71IfORkTuih,165.232.135.194
 dns.alidns1.tk,Possible Cobalt Strike C2 Domain,/csdn-footer.css,81.68.170.165
 dns.antegivi.com,Possible Cobalt Strike C2 Domain,/pixel,216.219.86.212
+dns.azurelive-dns.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,64.176.37.64
 dns.binsmob.com,Possible Cobalt Strike C2 Domain,/pixel,31.44.184.74
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/push,67.198.232.217
@@ -762,6 +764,7 @@ www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/en_US/all.js,120.132.81.18
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,104.238.153.140
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,23.105.210.39
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,65.20.68.128
+www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.13.100
 www.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_,45.136.245.12
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info,121.5.117.173
 www.crowdstk.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_,64.52.80.231
@@ -790,6 +793,7 @@ www.lion3.life,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/s
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js,49.232.90.103
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg,8.210.2.157
 www.microsofer.top,Possible Cobalt Strike C2 Domain,/image/,43.154.27.211
+www.microsoft-info.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.39.64.39
 www.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/en-us/silentauth,155.138.255.64
 www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/,81.71.68.50
