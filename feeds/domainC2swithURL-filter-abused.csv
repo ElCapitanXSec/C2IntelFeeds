@@ -10,6 +10,7 @@ abc1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/g.pixel
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 accessdevsolutions.com,Possible Cobalt Strike C2 Domain,/ku.js
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/FAQ
+accessinfonet.com,Possible Cobalt Strike C2 Domain,/bm
 active.clarusbank.com,Possible Cobalt Strike C2 Domain,/j.ad
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
@@ -134,6 +135,8 @@ eu-1.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
 exl.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
+external.myazureonline.com,Possible Cobalt Strike C2 Domain,/dot.gif
+external.myazureonline.com,Possible Cobalt Strike C2 Domain,/push
 forcorpor.com,Possible Cobalt Strike C2 Domain,/load
 fukuoka.cloud-maste.com,Possible Cobalt Strike C2 Fronting Domain,/5aq/XP/SY75Qyw.htm
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -179,6 +182,7 @@ nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 news.komitemedical.com,Possible Cobalt Strike C2 Domain,/j.ad
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/cm
+njohsp.gov,Possible Cobalt Strike C2 Fronting Domain,/remove
 nn.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 note.jianshu.com,Possible Cobalt Strike C2 Fronting Domain,/azure/api/v2/userinfo/get
 note.jianshu.com.wsdvs.com,Possible Cobalt Strike C2 Fronted Domain,/azure/api/v2/userinfo/get
@@ -385,6 +389,7 @@ test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details
 test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 test3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
+trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink
 tvchanel.org,Possible Cobalt Strike C2 Domain,/www/handle/doc
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
