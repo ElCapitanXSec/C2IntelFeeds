@@ -1,5 +1,4 @@
 #domain,ioc
-0c422952587f892b.azureedge.net,Possible Cobalt Strike C2 Domain
 16-fa.pw,Possible Cobalt Strike C2 Fronted Domain
 2snrw9bgtk0qv.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 360.cn,Possible Cobalt Strike C2 Fronting Domain
@@ -159,6 +158,7 @@ d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain
 da.fulim.top,Possible Cobalt Strike C2 Domain
 dangofil.xyz,Possible Cobalt Strike C2 Fronted Domain
 dash.congluanz.net,Possible Cobalt Strike C2 Domain
+datacloudprocessing.com,Possible Cobalt Strike C2 Domain
 ddc6e733wcyh7.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain
 des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
@@ -171,7 +171,6 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 discover.myegov.eu,Possible Cobalt Strike C2 Domain
 dn4d1v1ofq2j1.cloudfront.net,Possible Cobalt Strike C2 Domain
-dnht95ajef6hr.cloudfront.net,Possible Cobalt Strike C2 Domain
 dns.alidns1.tk,Possible Cobalt Strike C2 Domain
 dns.antegivi.com,Possible Cobalt Strike C2 Domain
 dns.azurelive-dns.com,Possible Cobalt Strike C2 Fronted Domain
@@ -668,6 +667,7 @@ wh.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 windowsupdate.social,Possible Cobalt Strike C2 Domain
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain
+www.0nedriveup.com,Possible Cobalt Strike C2 Domain
 www.16-fa.pw,Possible Cobalt Strike C2 Domain
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain
