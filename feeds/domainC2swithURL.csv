@@ -67,6 +67,7 @@ check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/pixel
 chidao.icu,Possible Cobalt Strike C2 Domain,/ga.js
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
+coalafoods.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
