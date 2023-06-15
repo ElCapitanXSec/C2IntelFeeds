@@ -11,7 +11,9 @@ abc1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/g.pixel
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 accessdevsolutions.com,Possible Cobalt Strike C2 Domain,/ku.js
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/FAQ
+accessinfonet.com,Possible Cobalt Strike C2 Domain,/an
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/bm
+accessinfonet.com,Possible Cobalt Strike C2 Domain,/favicon
 active.clarusbank.com,Possible Cobalt Strike C2 Domain,/j.ad
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
@@ -367,8 +369,8 @@ service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ivfpu96s-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/x/getit
 service-j7rl21xg-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-jcetme20-1314507962.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dot.gif
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
+service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink
+service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
 service-li2y5xbg-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
