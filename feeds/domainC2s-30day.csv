@@ -128,6 +128,7 @@ cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain
 cs.hacker.wang,Possible Cobalt Strike C2 Domain
 cs.imalloc.cn,Possible Cobalt Strike C2 Domain
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain
+cs.p0dan.site,Possible Cobalt Strike C2 Fronting Domain
 cs.server.bike,Possible Cobalt Strike C2 Domain
 cs.siakapkeli.net,Possible Cobalt Strike C2 Domain
 cs.svchostok.pro,Possible Cobalt Strike C2 Domain
@@ -534,6 +535,7 @@ service-4qt7wcxz-1315517919.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain
 service-536yrr0s-1305465584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-6pm512hu-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -685,7 +687,7 @@ www.appinn.com,Possible Cobalt Strike C2 Fronting Domain
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain
 www.certinstall.cc,Possible Cobalt Strike C2 Domain
-www.chanenergy.com,Possible Cobalt Strike C2 Domain
+www.city-optikhaus.shop,Possible Cobalt Strike C2 Fronted Domain
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain
 www.csair.cloud,Possible Cobalt Strike C2 Domain
 www.cufinancialservices.com,Possible Cobalt Strike C2 Domain

@@ -136,6 +136,7 @@ cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa
 cs.hacker.wang,Possible Cobalt Strike C2 Domain,/__utm.gif
 cs.imalloc.cn,Possible Cobalt Strike C2 Domain,/be.html
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+cs.p0dan.site,Possible Cobalt Strike C2 Fronting Domain,/async/ddljson
 cs.server.bike,Possible Cobalt Strike C2 Domain,/dot.gif
 cs.siakapkeli.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cs.svchostok.pro,Possible Cobalt Strike C2 Domain,/match
@@ -563,6 +564,7 @@ service-4qt7wcxz-1315517919.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 service-536yrr0s-1305465584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6pm512hu-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -602,8 +604,8 @@ service-jj2b7hxn-1303919683.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-jnbjutxg-1304098235.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
+service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink
+service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
 service-li2y5xbg-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -724,7 +726,7 @@ www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/en_US/all.js
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-www.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
+www.city-optikhaus.shop,Possible Cobalt Strike C2 Fronted Domain,/async/ddljson
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.csair.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.cufinancialservices.com,Possible Cobalt Strike C2 Domain,/ptj
