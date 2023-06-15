@@ -613,7 +613,6 @@ service-jj2b7hxn-1303919683.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-jnbjutxg-1304098235.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,182.255.45.211
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.180.115
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.223.3.171
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,82.157.110.128
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,82.157.110.128
@@ -631,6 +630,7 @@ service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohddx02s-1300389563.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,8.130.27.236
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.42.254.219
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,82.156.188.211
+service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,1.117.57.7
 service-pzmjnxrc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.138.215.2
 service-qgpkja1x-1310046338.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s,43.137.16.69
 service-rb9ef747-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,116.196.106.71
@@ -768,6 +768,8 @@ www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY,4
 www.shazambatman.xyz,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,129.226.92.29
 www.shazambatman.xyz,Possible Cobalt Strike C2 Domain,/updates.rss,129.226.92.29
 www.strategigears.com,Possible Cobalt Strike C2 Domain,/en/home/search,46.101.121.62
+www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain,/api/v2/json/resources/modules/list,192.241.155.134
+www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain,/api/v2/json/resources/modules/list,192.241.155.134
 www.tools-bitget.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,13.231.129.5
 www.zuimeitianqi.com,Possible Cobalt Strike C2 Fronted Domain,/owa,190.92.227.227
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162

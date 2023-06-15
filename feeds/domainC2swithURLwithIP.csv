@@ -383,7 +383,6 @@ service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ivfpu96s-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/x/getit,8.134.159.113
 service-j7rl21xg-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,111.230.98.119
 service-jcetme20-1314507962.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dot.gif,1.13.249.191
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,82.157.110.128
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,82.157.110.128
@@ -397,6 +396,7 @@ service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jk-aging/bundle.js?v=20220517,123.207.72.97
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.42.254.219
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,82.156.188.211
+service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,1.117.57.7
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
 skywalker.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,20.40.249.105
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.227.219
@@ -475,6 +475,8 @@ www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa,190.92.227.227
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 www.strategigears.com,Possible Cobalt Strike C2 Domain,/en/home/search,46.101.121.62
+www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain,/api/v2/json/resources/modules/list,192.241.155.134
+www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain,/api/v2/json/resources/modules/list,192.241.155.134
 www.zuimeitianqi.com,Possible Cobalt Strike C2 Fronted Domain,/owa,190.92.227.227
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162

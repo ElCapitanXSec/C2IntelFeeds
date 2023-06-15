@@ -377,6 +377,7 @@ service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jk-aging/bundle.js?v=20220517
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 skywalker.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -450,6 +451,8 @@ www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain,/api/x
 www.strategigears.com,Possible Cobalt Strike C2 Domain,/en/home/search
+www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain,/api/v2/json/resources/modules/list
+www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain,/api/v2/json/resources/modules/list
 www.zuimeitianqi.com,Possible Cobalt Strike C2 Fronted Domain,/owa
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
