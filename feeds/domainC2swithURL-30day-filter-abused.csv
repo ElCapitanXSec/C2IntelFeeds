@@ -259,7 +259,7 @@ jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/mk
 jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
 jp.motex-inc.com,Possible Cobalt Strike C2 Domain,/latest/pip-check
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/cx
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/load
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/fwlink
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM
 kenipaxi.us,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.css
@@ -631,6 +631,7 @@ test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 test3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 thetechnicalassistant.com,Possible Cobalt Strike C2 Domain,/tab_home_active.html
+tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x
 tongwl.top,Possible Cobalt Strike C2 Domain,/pixel
 topronet.com,Possible Cobalt Strike C2 Domain,/dz.css
 trendmicro.96html.com,Possible Cobalt Strike C2 Fronted Domain,/en-us/silentauth
