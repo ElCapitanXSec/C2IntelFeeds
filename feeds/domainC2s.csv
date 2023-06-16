@@ -23,6 +23,7 @@ antegivi.com,Possible Cobalt Strike C2 Domain
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain
 api.tanksw.top,Possible Cobalt Strike C2 Domain
+app.dbapp.xyz,Possible Cobalt Strike C2 Domain
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain
@@ -73,7 +74,6 @@ cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain
-cs.p0dan.site,Possible Cobalt Strike C2 Fronting Domain
 cyberwf.cf,Possible Cobalt Strike C2 Domain
 d1672414.azureedge.net,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
@@ -415,7 +415,6 @@ www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain
 www.certinstall.cc,Possible Cobalt Strike C2 Domain
-www.city-optikhaus.shop,Possible Cobalt Strike C2 Fronted Domain
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain

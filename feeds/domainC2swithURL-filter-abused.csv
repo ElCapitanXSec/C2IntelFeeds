@@ -24,6 +24,7 @@ antegivi.com,Possible Cobalt Strike C2 Domain,/updates.rss
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/cm
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif
+app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
@@ -73,7 +74,6 @@ cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-cs.p0dan.site,Possible Cobalt Strike C2 Fronting Domain,/async/ddljson
 cyberwf.cf,Possible Cobalt Strike C2 Domain,/cx
 d1672414.azureedge.net,Possible Cobalt Strike C2 Domain,/rn
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/cm
@@ -159,6 +159,7 @@ ivukwzbzfw.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/b
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/dz
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/mk
 jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/cx
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/load
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM
@@ -419,7 +420,6 @@ www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.51menke.com,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-www.city-optikhaus.shop,Possible Cobalt Strike C2 Fronted Domain,/async/ddljson
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg

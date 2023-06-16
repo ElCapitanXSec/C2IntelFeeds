@@ -46,6 +46,7 @@ api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,198.199.90.49
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,2604:A880:0400:00D0:0000:0000:1739:8001
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.92.67.152
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.67.152
+app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.97.120.142
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,110.40.201.49
 app.professional-survey.com,Possible Cobalt Strike C2 Domain,/api/Updates,37.157.155.205
 app.professional-survey.com,Possible Cobalt Strike C2 Domain,/api/Updates,78.111.100.170
@@ -144,7 +145,6 @@ cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,101.42.223.86
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa,143.92.59.14
 cs.hacker.wang,Possible Cobalt Strike C2 Domain,/__utm.gif,211.149.255.196
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.149.200.79
-cs.p0dan.site,Possible Cobalt Strike C2 Fronting Domain,/async/ddljson,192.144.231.244
 cs.server.bike,Possible Cobalt Strike C2 Domain,/dot.gif,154.204.59.208
 cs.siakapkeli.net,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.107.177
 csremote.duckdns.org,Possible Cobalt Strike C2 Domain,/dot.gif,132.145.49.27
@@ -276,7 +276,7 @@ jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/dz,23.106.215.194
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/mk,23.106.215.194
 jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif,44.200.210.210
 jp.motex-inc.com,Possible Cobalt Strike C2 Domain,/latest/pip-check,45.77.170.65
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/load,8.212.44.149
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/cx,8.212.44.149
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/load,8.212.49.116
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html,47.93.51.191
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM,158.247.221.28
@@ -732,7 +732,6 @@ www.amz123.world,Possible Cobalt Strike C2 Domain,/j.ad,82.157.177.73
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,47.108.239.81
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/en_US/all.js,120.132.81.18
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.13.100
-www.city-optikhaus.shop,Possible Cobalt Strike C2 Fronted Domain,/async/ddljson,192.144.231.244
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info,121.5.117.173
 www.csair.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.134.99.117
 www.cufinancialservices.com,Possible Cobalt Strike C2 Domain,/ptj,20.83.202.127

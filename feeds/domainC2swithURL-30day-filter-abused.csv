@@ -40,6 +40,7 @@ api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
+app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 app.professional-survey.com,Possible Cobalt Strike C2 Domain,/api/Updates
 app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates
@@ -128,7 +129,6 @@ cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa
 cs.hacker.wang,Possible Cobalt Strike C2 Domain,/__utm.gif
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-cs.p0dan.site,Possible Cobalt Strike C2 Fronting Domain,/async/ddljson
 cs.server.bike,Possible Cobalt Strike C2 Domain,/dot.gif
 cs.siakapkeli.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 csremote.duckdns.org,Possible Cobalt Strike C2 Domain,/dot.gif
@@ -258,6 +258,7 @@ jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/dz
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/mk
 jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
 jp.motex-inc.com,Possible Cobalt Strike C2 Domain,/latest/pip-check
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/cx
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/load
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM
@@ -688,7 +689,6 @@ www.amz123.world,Possible Cobalt Strike C2 Domain,/j.ad
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/en_US/all.js
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-www.city-optikhaus.shop,Possible Cobalt Strike C2 Fronted Domain,/async/ddljson
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.csair.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.cufinancialservices.com,Possible Cobalt Strike C2 Domain,/ptj

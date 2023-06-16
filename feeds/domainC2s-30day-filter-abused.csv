@@ -38,6 +38,7 @@ api.mmmllkps.tk,Possible Cobalt Strike C2 Domain
 api.tanksw.top,Possible Cobalt Strike C2 Domain
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
+app.dbapp.xyz,Possible Cobalt Strike C2 Domain
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain
 app.professional-survey.com,Possible Cobalt Strike C2 Domain
 app.towerfinancial.net,Possible Cobalt Strike C2 Domain
@@ -123,7 +124,6 @@ cs.aabyss.cn,Possible Cobalt Strike C2 Domain
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain
 cs.hacker.wang,Possible Cobalt Strike C2 Domain
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain
-cs.p0dan.site,Possible Cobalt Strike C2 Fronting Domain
 cs.server.bike,Possible Cobalt Strike C2 Domain
 cs.siakapkeli.net,Possible Cobalt Strike C2 Domain
 csremote.duckdns.org,Possible Cobalt Strike C2 Domain
@@ -649,7 +649,6 @@ www.amz123.world,Possible Cobalt Strike C2 Domain
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain
 www.certinstall.cc,Possible Cobalt Strike C2 Domain
-www.city-optikhaus.shop,Possible Cobalt Strike C2 Fronted Domain
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain
 www.csair.cloud,Possible Cobalt Strike C2 Domain
 www.cufinancialservices.com,Possible Cobalt Strike C2 Domain
