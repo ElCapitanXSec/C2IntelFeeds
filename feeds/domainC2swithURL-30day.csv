@@ -295,6 +295,7 @@ lxnft.org,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
 m.ctrip.com,Possible Cobalt Strike C2 Fronting Domain,/restapi/soa2/21881/json/gethotdestination
 m.xinwen8.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 master.drobenhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css
@@ -629,6 +630,7 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/g.pixel
 skywalker.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 slow.digisert-telemetry.com,Possible Cobalt Strike C2 Domain,/XEVendor
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 srvupdate.duckdns.org,Possible Cobalt Strike C2 Domain,/load
 static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA
 static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/Display/chan/IB61I7MYA
@@ -686,7 +688,7 @@ v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vbp950269936.softether.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 vbp950269936.softether.net,Possible Cobalt Strike C2 Domain,/dpixel
-velmeded.com,Possible Cobalt Strike C2 Domain,/g.pixel
+velmeded.com,Possible Cobalt Strike C2 Domain,/ptj
 velmeded.com,Possible Cobalt Strike C2 Domain,/push
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -700,6 +702,7 @@ webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/fam_cart.js
 webtoolsmedia.com,Possible Cobalt Strike C2 Domain,/tab_home
 windowsupdate.social,Possible Cobalt Strike C2 Domain,/static/
 windowsupdate.test.upcdn.net,Possible Cobalt Strike C2 Fronted Domain,/fwlink
+wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout
