@@ -151,14 +151,12 @@ csremote.duckdns.org,Possible Cobalt Strike C2 Domain,/dot.gif,132.145.49.27
 cyberanalysis.io,Possible Cobalt Strike C2 Domain,/updates.rss,66.29.134.142
 cyberwf.cf,Possible Cobalt Strike C2 Domain,/cx,172.247.38.157
 d1672414.azureedge.net,Possible Cobalt Strike C2 Domain,/rn,165.22.10.64
-d194zjmj02lpmi.cloudfront.net,Possible Cobalt Strike C2 Domain,/ml.css,54.92.103.160
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/cm,194.135.17.31
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/j.ad,194.135.17.31
 d1j6ynnkkyzn6b.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year,3.231.199.164
 d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year,34.235.195.209
 d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.235.195.209
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html,43.206.63.126
-d2dsya5bkwoi1u.cloudfront.net,Possible Cobalt Strike C2 Domain,/nl,54.178.175.181
 d2h7014tid4d1y.cloudfront.net,Possible Cobalt Strike C2 Domain,/case,35.74.29.162
 d2r7zxxp94uuq9.cloudfront.net,Possible Cobalt Strike C2 Domain,/ny,35.75.239.134
 d2tm7b3g7gf7d5.cloudfront.net,Possible Cobalt Strike C2 Domain,/fo,18.176.136.197
@@ -302,11 +300,9 @@ mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85
 master.drobenhealth.com,Possible Cobalt Strike C2 Domain,/j.ad,23.22.83.86
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css,23.108.57.187
-mgt.microsoft-cdn.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,103.27.186.74
 microsoft-cucreza6fjbpc5ag.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/ugrOfixMX/bL7MkkGJlY8PYKt6avb0j7,139.59.70.232
 microsoftservice.ml,Possible Cobalt Strike C2 Domain,/owa/,185.80.202.72
 midasusme.uk,Possible Cobalt Strike C2 Domain,/cx,45.139.186.25
-midasusme.uk,Possible Cobalt Strike C2 Domain,/j.ad,185.183.94.24
 mosterra.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,5.9.224.206
 mpls.myvnc.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,103.174.104.8
 msdwn.herokuapp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.87.137.200
@@ -552,7 +548,6 @@ rtlab-zeus.com,Possible PoshC2 Domain,/GoPro5/black/2018/,3.11.55.197
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha,45.152.115.139
 s1.mieccm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.251.19
 s2.mieccm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.251.19
-s8.svchostok.pro,Possible Cobalt Strike C2 Domain,/fwlink,198.40.55.171
 safe.safesecuredns.co,Possible Cobalt Strike C2 Domain,/fd/ls/l,153.92.5.225
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad,54.196.194.166
 santas-secret.ru,Possible Cobalt Strike C2 Domain,/messages/1xpLFc-UUjM6JqBXJ5CDMUzAUznAaxeKIiIwtv,212.233.92.129
@@ -623,7 +618,6 @@ service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact,175.178.115.15
 service-li2y5xbg-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.92.128.8
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.35.196.8
-service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.58.185
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-mph8ibgh-1309275416.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.148.219
@@ -673,7 +667,6 @@ test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details,101.200.197.112
 test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 test3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
-thetechnicalassistant.com,Possible Cobalt Strike C2 Domain,/tab_home_active.html,213.59.116.181
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x,121.5.102.72
 tongwl.top,Possible Cobalt Strike C2 Domain,/pixel,115.126.113.81
 topronet.com,Possible Cobalt Strike C2 Domain,/dz.css,193.233.134.70
@@ -689,7 +682,6 @@ update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_n
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_ogb,47.242.105.249
 update.edgeupdates.com,Possible Cobalt Strike C2 Domain,/updata/newtab_promos,47.242.105.249
-update.huorongsec.com,Possible Cobalt Strike C2 Fronted Domain,/zjservicezj/front/index/page.do,42.192.54.106
 update.kernel-service.workers.dev,Possible Cobalt Strike C2 Domain,/www/handle/doc,45.154.14.249
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel,45.12.138.94
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/updates.rss,45.12.138.95
@@ -788,7 +780,6 @@ zenzero-hqa4hxebf8hjejhg.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/firep
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3,129.211.217.209
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,39.107.32.219
 zh.servicesest.services,Possible Cobalt Strike C2 Domain,/visit.js,46.29.165.123
-zjzwfw.gov.cn,Possible Cobalt Strike C2 Fronting Domain,/zjservicezj/front/index/page.do,42.192.54.106
 zx.sortx2.com,Possible Cobalt Strike C2 Domain,/ml,46.161.27.133
 zx.sveexec.com,Possible Cobalt Strike C2 Domain,/nv,45.227.253.20
 zx.tackhostw.com,Possible Cobalt Strike C2 Domain,/da,147.78.47.235

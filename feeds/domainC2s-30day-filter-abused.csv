@@ -130,12 +130,10 @@ csremote.duckdns.org,Possible Cobalt Strike C2 Domain
 cyberanalysis.io,Possible Cobalt Strike C2 Domain
 cyberwf.cf,Possible Cobalt Strike C2 Domain
 d1672414.azureedge.net,Possible Cobalt Strike C2 Domain
-d194zjmj02lpmi.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 d1j6ynnkkyzn6b.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain
-d2dsya5bkwoi1u.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2h7014tid4d1y.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2r7zxxp94uuq9.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2tm7b3g7gf7d5.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -266,7 +264,6 @@ mail.cncb.info,Possible Cobalt Strike C2 Domain
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain
 master.drobenhealth.com,Possible Cobalt Strike C2 Domain
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain
-mgt.microsoft-cdn.org,Possible Cobalt Strike C2 Domain
 microsoft-cucreza6fjbpc5ag.z01.azurefd.net,Possible Cobalt Strike C2 Domain
 microsoftservice.ml,Possible Cobalt Strike C2 Domain
 midasusme.uk,Possible Cobalt Strike C2 Domain
@@ -488,7 +485,6 @@ rtlab-zeus.com,Possible PoshC2 Domain
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain
 s1.mieccm.com,Possible Cobalt Strike C2 Domain
 s2.mieccm.com,Possible Cobalt Strike C2 Domain
-s8.svchostok.pro,Possible Cobalt Strike C2 Domain
 safe.safesecuredns.co,Possible Cobalt Strike C2 Domain
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain
 santas-secret.ru,Possible Cobalt Strike C2 Domain
@@ -553,7 +549,6 @@ service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-li2y5xbg-1314775489.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mph8ibgh-1309275416.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -598,7 +593,6 @@ test.gxzf.site,Possible Cobalt Strike C2 Domain
 test1.imortal.icu,Possible Cobalt Strike C2 Domain
 test2.imortal.icu,Possible Cobalt Strike C2 Domain
 test3.imortal.icu,Possible Cobalt Strike C2 Domain
-thetechnicalassistant.com,Possible Cobalt Strike C2 Domain
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain
 tongwl.top,Possible Cobalt Strike C2 Domain
 topronet.com,Possible Cobalt Strike C2 Domain
@@ -612,7 +606,6 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain
 update.edgeupdates.com,Possible Cobalt Strike C2 Domain
-update.huorongsec.com,Possible Cobalt Strike C2 Fronted Domain
 update.kernel-service.workers.dev,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
@@ -701,7 +694,6 @@ zenzero-hqa4hxebf8hjejhg.z01.azurefd.net,Possible Cobalt Strike C2 Domain
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 zh.servicesest.services,Possible Cobalt Strike C2 Domain
-zjzwfw.gov.cn,Possible Cobalt Strike C2 Fronting Domain
 zx.sortx2.com,Possible Cobalt Strike C2 Domain
 zx.sveexec.com,Possible Cobalt Strike C2 Domain
 zx.tackhostw.com,Possible Cobalt Strike C2 Domain
