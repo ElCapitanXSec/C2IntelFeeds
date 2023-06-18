@@ -24,6 +24,7 @@ active.clarusbank.com,Possible Cobalt Strike C2 Domain,/j.ad
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js
+adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
 agency.baidubet.com,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
 alarm.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -586,6 +587,7 @@ service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-pzmjnxrc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qgpkja1x-1310046338.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s
 service-rb9ef747-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
 services-us-texas-m-1.skytap.com,Possible Cobalt Strike C2 Domain,/j.ad
 settingdata.com,Possible Cobalt Strike C2 Domain,/ce.js
 settingdata.com,Possible Cobalt Strike C2 Domain,/profile.html
@@ -627,6 +629,7 @@ trendmicro.96html.com,Possible Cobalt Strike C2 Fronted Domain,/en-us/silentauth
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink
 tvchanel.org,Possible Cobalt Strike C2 Domain,/www/handle/doc
+uhtincswa.cf,Possible Cobalt Strike C2 Domain,/visit.js
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/load
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/pixel.gif
 upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js

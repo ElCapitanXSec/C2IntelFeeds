@@ -15,6 +15,7 @@ accessinfonet.com,Possible Cobalt Strike C2 Domain,/favicon,194.50.153.24
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout,43.154.88.249
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js,104.168.53.18
+adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js,104.168.53.18
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload,114.115.160.181
 aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js,194.50.153.1
 aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js,213.232.112.218
@@ -337,6 +338,7 @@ service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.42.254.219
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,82.156.188.211
 service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,1.117.57.7
+service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit,47.120.12.203
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.227.219
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.227.249
@@ -358,6 +360,7 @@ tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x,121.5.102.72
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove,52.70.254.144
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink,194.87.46.87
 tvchanel.org,Possible Cobalt Strike C2 Domain,/www/handle/doc,65.20.70.242
+uhtincswa.cf,Possible Cobalt Strike C2 Domain,/visit.js,172.247.38.157
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/load,88.214.27.53
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel,45.12.138.94

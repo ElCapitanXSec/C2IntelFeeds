@@ -14,6 +14,7 @@ accessinfonet.com,Possible Cobalt Strike C2 Domain,/favicon
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js
+adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
 aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js
 aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js
@@ -331,6 +332,7 @@ service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
@@ -351,6 +353,7 @@ tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink
 tvchanel.org,Possible Cobalt Strike C2 Domain,/www/handle/doc
+uhtincswa.cf,Possible Cobalt Strike C2 Domain,/visit.js
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/load
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel

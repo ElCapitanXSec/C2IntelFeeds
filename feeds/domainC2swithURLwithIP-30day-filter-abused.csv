@@ -27,6 +27,7 @@ active.clarusbank.com,Possible Cobalt Strike C2 Domain,/j.ad,52.90.160.176
 admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout,43.154.88.249
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js,104.168.53.18
+adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js,104.168.53.18
 agency.baidubet.com,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get,178.236.45.67
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload,114.115.160.181
 alarm.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain,/j.ad,18.234.34.31
@@ -625,6 +626,7 @@ service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-pzmjnxrc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.138.215.2
 service-qgpkja1x-1310046338.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s,43.137.16.69
 service-rb9ef747-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,116.196.106.71
+service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit,47.120.12.203
 services-us-texas-m-1.skytap.com,Possible Cobalt Strike C2 Domain,/j.ad,20.189.26.53
 settingdata.com,Possible Cobalt Strike C2 Domain,/ce.js,91.238.181.240
 settingdata.com,Possible Cobalt Strike C2 Domain,/profile.html,91.238.181.240
@@ -670,6 +672,7 @@ trendmicro.96html.com,Possible Cobalt Strike C2 Fronted Domain,/en-us/silentauth
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove,52.70.254.144
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink,194.87.46.87
 tvchanel.org,Possible Cobalt Strike C2 Domain,/www/handle/doc,65.20.70.242
+uhtincswa.cf,Possible Cobalt Strike C2 Domain,/visit.js,172.247.38.157
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/load,88.214.27.53
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/pixel.gif,88.214.27.53
 upd232.windowservicecentar.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js,5.188.86.235
