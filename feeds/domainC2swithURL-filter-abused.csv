@@ -111,7 +111,6 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/push
-dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
@@ -205,8 +204,6 @@ ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.hammercdntech.com,Possible Cobalt Strike C2 Domain,/search
 ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js
 ns1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery3.2.1.js
-ns1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
-ns1.m1crosoft.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 ns1.micsoft.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
@@ -240,8 +237,6 @@ ns2.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/dot.gif
 ns2.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery3.2.1.js
-ns2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
-ns2.m1crosoft.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.mammothspoon.xyz,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns2.microtimezone.com,Possible Cobalt Strike C2 Domain,/match
 ns2.niggerasssys.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -256,9 +251,7 @@ ns3.007work.icu,Possible Cobalt Strike C2 Domain,/cm
 ns3.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns3.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/dot.gif
-ns3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 ns3.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns3.m1crosoft.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns3.michiganlocking.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 ns3.ossqianxin.co,Possible Cobalt Strike C2 Domain,/updates
 ns3.peermanshuus.bio,Possible Cobalt Strike C2 Domain,/ptj
@@ -350,9 +343,6 @@ ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details
-test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
-test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
-test3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink

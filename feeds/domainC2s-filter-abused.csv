@@ -104,7 +104,6 @@ dns.greypsecurity.training,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.velmeded.com,Possible Cobalt Strike C2 Domain
 dns.veriernano.com,Possible Cobalt Strike C2 Domain
-dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain
@@ -192,8 +191,6 @@ ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain
 ns1.hammercdntech.com,Possible Cobalt Strike C2 Domain
 ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain
 ns1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
-ns1.imortal.icu,Possible Cobalt Strike C2 Domain
-ns1.m1crosoft.cloud,Possible Cobalt Strike C2 Domain
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain
 ns1.micsoft.org,Possible Cobalt Strike C2 Domain
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
@@ -226,8 +223,6 @@ ns2.dnehtb.cn,Possible Cobalt Strike C2 Domain
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain
 ns2.gxyy77.xyz,Possible Cobalt Strike C2 Domain
 ns2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
-ns2.imortal.icu,Possible Cobalt Strike C2 Domain
-ns2.m1crosoft.cloud,Possible Cobalt Strike C2 Domain
 ns2.mammothspoon.xyz,Possible Cobalt Strike C2 Domain
 ns2.microtimezone.com,Possible Cobalt Strike C2 Domain
 ns2.niggerasssys.com,Possible Cobalt Strike C2 Domain
@@ -242,9 +237,7 @@ ns3.007work.icu,Possible Cobalt Strike C2 Domain
 ns3.ace3.ru,Possible Cobalt Strike C2 Domain
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns3.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain
-ns3.imortal.icu,Possible Cobalt Strike C2 Domain
 ns3.kagotsurube.org,Possible Cobalt Strike C2 Domain
-ns3.m1crosoft.cloud,Possible Cobalt Strike C2 Domain
 ns3.michiganlocking.com,Possible Cobalt Strike C2 Domain
 ns3.ossqianxin.co,Possible Cobalt Strike C2 Domain
 ns3.peermanshuus.bio,Possible Cobalt Strike C2 Domain
@@ -334,9 +327,6 @@ ternocorg.cf,Possible Cobalt Strike C2 Domain
 test.227api.com,Possible Cobalt Strike C2 Domain
 test.g-security.cn,Possible Cobalt Strike C2 Domain
 test.gxzf.site,Possible Cobalt Strike C2 Domain
-test1.imortal.icu,Possible Cobalt Strike C2 Domain
-test2.imortal.icu,Possible Cobalt Strike C2 Domain
-test3.imortal.icu,Possible Cobalt Strike C2 Domain
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain
 tube.standof365.cf,Possible Cobalt Strike C2 Domain
