@@ -308,7 +308,6 @@ rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Doma
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get,20.93.133.119
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get,20.93.133.166
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get,20.93.133.65
-rtlab-zeus.com,Possible PoshC2 Domain,/GoPro5/black/2018/,3.11.55.197
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha,45.152.115.139
 safe.safesecuredns.co,Possible Cobalt Strike C2 Domain,/fd/ls/l,153.92.5.225
 scervice.shop,Possible Cobalt Strike C2 Domain,/visit.js,46.29.165.123
