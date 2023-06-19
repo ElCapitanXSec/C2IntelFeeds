@@ -6,11 +6,11 @@
 5tg66izsi8.execute-api.us-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/dev_yn/Link/css/BWIB98OEC
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search
-a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/include/template/isx.php
+a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 a.connectie-78d5566d11aea.nl,Possible Cobalt Strike C2 Domain,/58d84ae5-6a23-4b6a-9fe3-459fd28560c0/
 a.connection-78d5500d66aea.nl,Possible Cobalt Strike C2 Domain,/7da75226-667a-4bee-acc4-305a9630ecc3/
 a.oobcsilent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
+a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 abc.hvd9qquq.top,Possible Cobalt Strike C2 Domain,/api/getit
 abc.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 abc1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -647,6 +647,7 @@ v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vbp950269936.softether.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 vbp950269936.softether.net,Possible Cobalt Strike C2 Domain,/dpixel
+vegavamyrni.dns.navy,Possible Cobalt Strike C2 Domain,/visit.js
 velmeded.com,Possible Cobalt Strike C2 Domain,/ptj
 velmeded.com,Possible Cobalt Strike C2 Domain,/push
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js
