@@ -566,9 +566,11 @@ service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-bvc0c0em-1309275416.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-d27rg2y2-1256209700.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-dijaz85p-1318228220.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
+service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-dmasysh1-1309196782.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -596,7 +598,6 @@ service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
-service-mph8ibgh-1309275416.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jk-aging/bundle.js?v=20220517

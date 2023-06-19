@@ -122,7 +122,6 @@ google.com,Possible Cobalt Strike C2 Fronting Domain
 google.ru,Possible Cobalt Strike C2 Fronting Domain
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain
 heastings.com,Possible Cobalt Strike C2 Domain
-home-hsf2czcghwhjg7fh.z01.azurefd.net,Possible Cobalt Strike C2 Domain
 hommyyy-hjbggphhf5bnfmhu.z01.azurefd.net,Possible Cobalt Strike C2 Domain
 huo96.icu,Possible Cobalt Strike C2 Domain
 huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain
@@ -289,7 +288,9 @@ service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-bvc0c0em-1309275416.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -298,15 +299,11 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-gt4aitdw-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-jcetme20-1314507962.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-mph8ibgh-1309275416.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -371,7 +368,6 @@ www.microsofer.top,Possible Cobalt Strike C2 Domain
 www.microsoft-info.org,Possible Cobalt Strike C2 Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain
-www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain
 www.strategigears.com,Possible Cobalt Strike C2 Domain
 www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain
 www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain
