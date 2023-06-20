@@ -1,5 +1,4 @@
 #domain,ioc,uri_path
-16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 360sec.cloud,Possible Cobalt Strike C2 Domain,/restapi/soa2/21881/json/gethotdestination
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search
@@ -10,7 +9,6 @@ acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu
 accessdevsolutions.com,Possible Cobalt Strike C2 Domain,/ku.js
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/an
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/favicon
-admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
@@ -339,8 +337,6 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/ca
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout
-www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.51menke.com,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.csyml.cyou,Possible Cobalt Strike C2 Domain,/pixel
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
