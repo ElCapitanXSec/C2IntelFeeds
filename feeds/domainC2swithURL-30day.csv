@@ -47,7 +47,6 @@ app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates
 apt007.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
-as.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
 asdfgasd.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -501,7 +500,6 @@ qqns.asdasd33.info,Possible Cobalt Strike C2 Domain,/ga.js
 qqns1.asdasd33.info,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 quote.swalter.com,Possible Cobalt Strike C2 Domain,/archive/list/v4.73/77GM1A6XWEH
 qw.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
-qw.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 qw.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 qw.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
@@ -749,6 +747,5 @@ zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 zh.servicesest.services,Possible Cobalt Strike C2 Domain,/visit.js
 zx.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
-zx.sveexec.com,Possible Cobalt Strike C2 Domain,/nv
 zx.tackhostw.com,Possible Cobalt Strike C2 Domain,/da
 zx.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
