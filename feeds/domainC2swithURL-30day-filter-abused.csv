@@ -455,6 +455,7 @@ nsa1.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js
 nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/visit.js
 ntlm.duckdns.org,Possible Cobalt Strike C2 Domain,/XEVendor
 oeewbovon.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js
+ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/api/info
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
@@ -494,7 +495,7 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 rea.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 reb.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Fronted Domain,/view.jsp
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/en_US/all.js
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain,/o/dVBxSwCHul2OKAe41CreIrOgSY
 redteamone.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -633,7 +634,6 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/updates.rss
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ca
 update.micsoft365.online,Possible Cobalt Strike C2 Domain,/5eN1bjq8AAUYm2zgoY3K/ll_9354efa.js
 update.qq.com,Possible Cobalt Strike C2 Fronting Domain,/fwlink
-update.toythieves.com,Possible Cobalt Strike C2 Fronting Domain,/view.jsp
 update.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/messages/S6ecjL9HUMKRKtjfZZDfrXU
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/messages/S6ecjL9HUMKRKtjfZZDfrXU

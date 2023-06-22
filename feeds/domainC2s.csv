@@ -240,6 +240,7 @@ nsa1.micrsoft.com.cn,Possible Cobalt Strike C2 Domain
 nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain
 oeewbovon.gofunhome.buzz,Possible Cobalt Strike C2 Domain
 office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain
+ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain
 payload.su,Possible Cobalt Strike C2 Fronted Domain
@@ -253,7 +254,7 @@ prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
 quasarincorporated.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Fronted Domain
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain
 search.scant.online,Possible Cobalt Strike C2 Domain
 search.zhenai.com,Possible Cobalt Strike C2 Fronted Domain
@@ -318,7 +319,6 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
-update.toythieves.com,Possible Cobalt Strike C2 Fronting Domain
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain
 us-central1-noted-processor-340815.cloudfunctions.net,Possible Cobalt Strike C2 Domain
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain

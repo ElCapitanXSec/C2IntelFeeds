@@ -444,6 +444,7 @@ nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain
 ntlm.duckdns.org,Possible Cobalt Strike C2 Domain
 oeewbovon.gofunhome.buzz,Possible Cobalt Strike C2 Domain
 office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain
+ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain
@@ -484,7 +485,7 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 rea.ppesaletrend.com,Possible Cobalt Strike C2 Domain
 reb.ppesaletrend.com,Possible Cobalt Strike C2 Domain
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Fronted Domain
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain
 redteamone.tech,Possible Cobalt Strike C2 Domain
@@ -622,7 +623,6 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
 update.micsoft365.online,Possible Cobalt Strike C2 Domain
 update.qq.com,Possible Cobalt Strike C2 Fronting Domain
-update.toythieves.com,Possible Cobalt Strike C2 Fronting Domain
 update.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
