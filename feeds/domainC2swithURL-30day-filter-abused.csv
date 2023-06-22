@@ -133,7 +133,7 @@ csremote.duckdns.org,Possible Cobalt Strike C2 Domain,/dot.gif
 cyberwf.cf,Possible Cobalt Strike C2 Domain,/cx
 d1672414.azureedge.net,Possible Cobalt Strike C2 Domain,/rn
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/cm
-d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/j.ad
+d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/pixel
 d1j6ynnkkyzn6b.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year
 d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html
@@ -172,6 +172,7 @@ dns.djn.blue,Possible Cobalt Strike C2 Domain,/api
 dns.exploitresearch.art,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
+dns.incididunt.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 dns.ionscapir.com,Possible Cobalt Strike C2 Domain,/ca
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -237,6 +238,7 @@ id1.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 id2.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 id3.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search
+incididunt.com,Possible Cobalt Strike C2 Domain,/updates.rss
 independent.vittoriocas137.workers.dev,Possible Cobalt Strike C2 Domain,/poll
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js
 ionscapir.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -310,6 +312,7 @@ ns1.adcqowtrhs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.aehliu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 ns1.alidns1.tk,Possible Cobalt Strike C2 Domain,/logo.js
+ns1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos
 ns1.aptce4.top,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.bernetdiscover.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.bewiser.at,Possible Cobalt Strike C2 Domain,/checkin
@@ -378,6 +381,7 @@ ns2.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min
 ns2.adcqowtrhs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.aehliu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.alidns1.tk,Possible Cobalt Strike C2 Domain,/logo.js
+ns2.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos
 ns2.aptce4.top,Possible Cobalt Strike C2 Domain,/dot.gif
 ns2.bernetdiscover.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.blackwaf.tk,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -469,7 +473,6 @@ pfizer.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity
 pop2000.ddns.net,Possible Cobalt Strike C2 Domain,/dpixel
-post.deadbeef.zip,Possible PoshC2 Fronting Domain,/utag/lbg/main/prod/utag.15.js/
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/bg.js
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d

@@ -168,6 +168,7 @@ dns.djn.blue,Possible Cobalt Strike C2 Domain
 dns.exploitresearch.art,Possible Cobalt Strike C2 Domain
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain
+dns.incididunt.com,Possible Cobalt Strike C2 Domain
 dns.ionscapir.com,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.velmeded.com,Possible Cobalt Strike C2 Domain
@@ -233,6 +234,7 @@ id1.opstionery.com,Possible Cobalt Strike C2 Domain
 id2.opstionery.com,Possible Cobalt Strike C2 Domain
 id3.opstionery.com,Possible Cobalt Strike C2 Domain
 image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain
+incididunt.com,Possible Cobalt Strike C2 Domain
 independent.vittoriocas137.workers.dev,Possible Cobalt Strike C2 Domain
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain
 ionscapir.com,Possible Cobalt Strike C2 Domain
@@ -303,6 +305,7 @@ ns1.adcqowtrhs.com,Possible Cobalt Strike C2 Domain
 ns1.aehliu.com,Possible Cobalt Strike C2 Domain
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 ns1.alidns1.tk,Possible Cobalt Strike C2 Domain
+ns1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain
 ns1.aptce4.top,Possible Cobalt Strike C2 Domain
 ns1.bernetdiscover.com,Possible Cobalt Strike C2 Domain
 ns1.bewiser.at,Possible Cobalt Strike C2 Domain
@@ -369,6 +372,7 @@ ns2.ace3.ru,Possible Cobalt Strike C2 Domain
 ns2.adcqowtrhs.com,Possible Cobalt Strike C2 Domain
 ns2.aehliu.com,Possible Cobalt Strike C2 Domain
 ns2.alidns1.tk,Possible Cobalt Strike C2 Domain
+ns2.allegiancefithealth.com,Possible Cobalt Strike C2 Domain
 ns2.aptce4.top,Possible Cobalt Strike C2 Domain
 ns2.bernetdiscover.com,Possible Cobalt Strike C2 Domain
 ns2.blackwaf.tk,Possible Cobalt Strike C2 Domain
@@ -462,7 +466,6 @@ pfizer.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain
 pop2000.ddns.net,Possible Cobalt Strike C2 Domain
-post.deadbeef.zip,Possible PoshC2 Domain
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain
