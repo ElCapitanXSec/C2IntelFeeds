@@ -82,6 +82,7 @@ c2.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js
 c2.iamabhacker.tk,Possible Cobalt Strike C2 Domain,/admin
 c2.ststjst.shop,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg
 c2c.updatenews.me,Possible Cobalt Strike C2 Domain,/activity
+c2c.updatenews.me,Possible Cobalt Strike C2 Domain,/match
 c3.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js
 cancel.soupandselfcare.com,Possible Cobalt Strike C2 Domain,/dpixel
 card.starbucks.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin
@@ -103,6 +104,8 @@ cdn.myfreelibrary.org,Possible Cobalt Strike C2 Domain,/login
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
+cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/api/x
+cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 cdn_1.cnnvd.club,Possible Cobalt Strike C2 Domain,/visit.js
 cdnua01.project27strategy.com,Possible Cobalt Strike C2 Domain,/en-us/p/onerf/MeSilentPassport
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html
@@ -518,13 +521,15 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 rea.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 reb.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/en_US/all.js
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/j.ad
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain,/o/dVBxSwCHul2OKAe41CreIrOgSY
+redteambp.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
 redteamone.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 resysmon.net,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/fo.html
+route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain,/owa/
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get
 rtlab-zeus.com,Possible PoshC2 Fronting Domain,/GoPro5/black/2018/
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
@@ -557,7 +562,6 @@ service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
-service-8lfc508b-1307231181.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-98cbalut-1302394400.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -665,6 +669,8 @@ updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/messages/S6ecjL9HUMKRKtjfZZDfrXU
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 us-central1-noted-processor-340815.cloudfunctions.net,Possible Cobalt Strike C2 Domain,/proxy/en-us/store/api/checkproductinwishlist
+usadevgroup.com,Possible Cobalt Strike C2 Domain,/ee.html
+usadevgroup.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain,/favicon
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

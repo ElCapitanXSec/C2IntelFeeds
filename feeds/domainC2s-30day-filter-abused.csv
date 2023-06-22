@@ -95,6 +95,7 @@ cdn.myfreelibrary.org,Possible Cobalt Strike C2 Domain
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
+cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain
 cdn_1.cnnvd.club,Possible Cobalt Strike C2 Domain
 cdnua01.project27strategy.com,Possible Cobalt Strike C2 Domain
 cetixsystems.com,Possible Cobalt Strike C2 Domain
@@ -474,10 +475,12 @@ reb.ppesaletrend.com,Possible Cobalt Strike C2 Domain
 rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain
+redteambp.tech,Possible Cobalt Strike C2 Domain
 redteamone.tech,Possible Cobalt Strike C2 Domain
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain
 resysmon.net,Possible Cobalt Strike C2 Domain
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 rtlab-zeus.com,Possible PoshC2 Domain
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain
@@ -509,7 +512,6 @@ service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-8lfc508b-1307231181.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-98cbalut-1302394400.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -611,6 +613,7 @@ updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain
 updateinfo.windows.vip.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain
 us-central1-noted-processor-340815.cloudfunctions.net,Possible Cobalt Strike C2 Domain
+usadevgroup.com,Possible Cobalt Strike C2 Domain
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain

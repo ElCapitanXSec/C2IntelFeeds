@@ -36,9 +36,11 @@ cdn.avprotect.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain
 cdn.dns-response.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain
+cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain
+cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain
 cetixsystems.com,Possible Cobalt Strike C2 Domain
 cf.wsxqaz.top,Possible Cobalt Strike C2 Domain
 charlie-twice.suiteb.io,Possible Cobalt Strike C2 Domain
@@ -247,7 +249,9 @@ qianxing.rocks,Possible Cobalt Strike C2 Domain
 quasarincorporated.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain
+redteambp.tech,Possible Cobalt Strike C2 Domain
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain
+route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain
 search.scant.online,Possible Cobalt Strike C2 Domain
 seeusdt.com,Possible Cobalt Strike C2 Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
@@ -310,6 +314,7 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain
 us-central1-noted-processor-340815.cloudfunctions.net,Possible Cobalt Strike C2 Domain
+usadevgroup.com,Possible Cobalt Strike C2 Domain
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain
