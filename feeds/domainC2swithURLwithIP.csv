@@ -36,6 +36,7 @@ binsmob.com,Possible Cobalt Strike C2 Domain,/pixel.gif,31.44.184.74
 br.claughs.ga,Possible Cobalt Strike C2 Domain,/api/3,101.34.117.22
 br.claughs.ga,Possible Cobalt Strike C2 Fronting Domain,/api/3,101.34.117.22
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif,124.220.29.161
+c2c.updatenews.me,Possible Cobalt Strike C2 Domain,/activity,101.43.64.17
 cancel.soupandselfcare.com,Possible Cobalt Strike C2 Domain,/dpixel,18.212.255.134
 card.starbucks.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin,193.187.173.137
 cc.claughs.ga,Possible Cobalt Strike C2 Fronted Domain,/api/3,101.34.117.22
@@ -279,6 +280,8 @@ primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity,167.99.239.24
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,3.237.41.66
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3,47.243.104.189
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/groupcp,194.50.153.37
+quasarincorporated.com,Possible Cobalt Strike C2 Domain,/html,192.3.76.38
+quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template,192.3.76.38
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template,194.50.153.37
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 rechargetranscash.sytes.net,Possible Cobalt Strike C2 Fronted Domain,/view.jsp,89.2.17.231
