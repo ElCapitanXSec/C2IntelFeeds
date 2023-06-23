@@ -218,6 +218,8 @@ go.maga0.tk,Possible Cobalt Strike C2 Domain,/g.pixel
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/match
 greencorp.pro,Possible Cobalt Strike C2 Domain,/___utm.gif
+groupline.org,Possible Cobalt Strike C2 Domain,/bg
+groupline.org,Possible Cobalt Strike C2 Domain,/faq
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gxxdd.xyz,Possible Cobalt Strike C2 Domain,/search
@@ -471,6 +473,7 @@ pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 pfizer.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/angularjs/angular.1.1.3.js
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity
+poceretu.co,Possible Cobalt Strike C2 Fronted Domain,/logo
 pop2000.ddns.net,Possible Cobalt Strike C2 Domain,/dpixel
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/bg.js
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
@@ -537,7 +540,7 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
+service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
