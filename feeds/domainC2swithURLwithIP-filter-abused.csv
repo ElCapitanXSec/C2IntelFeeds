@@ -305,10 +305,6 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.139.15.98
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,139.199.3.221
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.180.115
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,101.43.165.220
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink,82.157.110.128
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,101.43.165.220
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,82.157.110.128
 service-lv7umt7y-1315090928.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,45.14.66.194
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
