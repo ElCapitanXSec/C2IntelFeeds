@@ -588,6 +588,7 @@ service-lv7umt7y-1315090928.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
+service-myg47s10-1256578115.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getuser
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jk-aging/bundle.js?v=20220517
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -680,6 +681,7 @@ www.amz123.world,Possible Cobalt Strike C2 Domain,/dpixel
 www.amz123.world,Possible Cobalt Strike C2 Domain,/j.ad
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/en_US/all.js
+www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain,/process.jsp
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 www.csair.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

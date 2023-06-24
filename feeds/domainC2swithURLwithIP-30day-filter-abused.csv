@@ -243,7 +243,9 @@ gifhamburgers.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,78.1
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,137.184.137.107
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/match,137.184.137.107
 greencorp.pro,Possible Cobalt Strike C2 Domain,/___utm.gif,20.102.113.195
+groupline.org,Possible Cobalt Strike C2 Domain,/bg,104.223.118.115
 groupline.org,Possible Cobalt Strike C2 Domain,/bg,194.50.153.11
+groupline.org,Possible Cobalt Strike C2 Domain,/faq,104.223.118.115
 groupline.org,Possible Cobalt Strike C2 Domain,/faq,194.50.153.11
 guwamog.network,Possible Cobalt Strike C2 Domain,/Acquire/v3.5/XCOSIQZ8V39R,23.108.57.227
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
@@ -635,6 +637,7 @@ service-lv7umt7y-1315090928.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
+service-myg47s10-1256578115.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getuser,119.91.144.175
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.18.221
 service-o9r9h2tm-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jk-aging/bundle.js?v=20220517,123.207.72.97
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.42.254.219
@@ -733,6 +736,7 @@ www.amz123.world,Possible Cobalt Strike C2 Domain,/dpixel,82.157.177.73
 www.amz123.world,Possible Cobalt Strike C2 Domain,/j.ad,82.157.177.73
 www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,47.108.239.81
 www.ba1duu.icu,Possible Cobalt Strike C2 Domain,/en_US/all.js,120.132.81.18
+www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain,/process.jsp,34.229.169.232
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.13.100
 www.cjjt.com.cn,Possible Cobalt Strike C2 Fronted Domain,/info,121.5.117.173
 www.csair.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.134.99.117
