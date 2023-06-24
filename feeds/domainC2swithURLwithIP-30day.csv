@@ -184,6 +184,7 @@ datacloudprocessing.com,Possible Cobalt Strike C2 Domain,/ny.css,104.168.59.11
 datacloudprocessing.com,Possible Cobalt Strike C2 Domain,/ny.css,194.50.153.114
 ddc6e733wcyh7.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/5aq/XP/SY75Qyw.htm,3.22.70.55
 def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,23.21.52.245
+des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/owa,114.115.220.3
 des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/owa,190.92.227.227
 description.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain,/owa/W1x7JCcx-jqUmekQl5daTU8WWFHFX-V3Er,52.0.66.129
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,194.50.153.2
@@ -195,6 +196,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
+digital.yesky.com,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 discover.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha,45.152.115.139
 dn4d1v1ofq2j1.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,54.236.154.41
 dns.alidns1.tk,Possible Cobalt Strike C2 Domain,/csdn-footer.css,81.68.170.165
@@ -310,6 +312,7 @@ leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 leopard.s3exchange-sec.live,Possible Cobalt Strike C2 Domain,/cm,115.78.164.87
 light.tsinghua.fyi,Possible Cobalt Strike C2 Domain,/owa/LXnpttWVHHt2PDiF2JCq,103.97.178.13
 light.tsinghua.fyi,Possible Cobalt Strike C2 Domain,/owa/vl-ZuQkOaCsXGGGokO0Qinkb,103.97.178.13
+lijiang.yunnan.cn,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 linkpop.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin,193.187.173.137
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 login.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,204.48.24.224
@@ -594,6 +597,7 @@ safe.safesecuredns.co,Possible Cobalt Strike C2 Domain,/fd/ls/l,153.92.5.225
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad,54.196.194.166
 scervice.shop,Possible Cobalt Strike C2 Domain,/visit.js,46.29.165.123
 search.scant.online,Possible Cobalt Strike C2 Domain,/ga.js,101.201.65.35
+search.zhenai.com,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 search.zhenai.com,Possible Cobalt Strike C2 Fronted Domain,/owa,190.92.227.227
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity,190.123.44.150
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
@@ -804,7 +808,9 @@ www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/,81.71.68.50
 www.nsxt.world,Possible Cobalt Strike C2 Domain,/en_US/all.js,49.234.38.224
 www.nsxt.world,Possible Cobalt Strike C2 Domain,/load,49.234.38.224
+www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel,47.75.108.68
+www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa,190.92.227.227
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY,43.228.91.212

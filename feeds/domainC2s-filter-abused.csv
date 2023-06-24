@@ -73,6 +73,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
+digital.yesky.com,Possible Cobalt Strike C2 Fronted Domain
 dns.alidns1.tk,Possible Cobalt Strike C2 Domain
 dns.antegivi.com,Possible Cobalt Strike C2 Domain
 dns.binsmob.com,Possible Cobalt Strike C2 Domain
@@ -119,6 +120,7 @@ kihurij.com,Possible Cobalt Strike C2 Domain
 lauracenters.com,Possible Cobalt Strike C2 Domain
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain
+lijiang.yunnan.cn,Possible Cobalt Strike C2 Fronted Domain
 linkpop.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 login.webapi-telegram.com,Possible Cobalt Strike C2 Domain
@@ -265,6 +267,7 @@ redteambp.tech,Possible Cobalt Strike C2 Domain
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain
 route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain
 search.scant.online,Possible Cobalt Strike C2 Domain
+search.zhenai.com,Possible Cobalt Strike C2 Fronted Domain
 seeusdt.com,Possible Cobalt Strike C2 Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -348,7 +351,9 @@ www.jntm.cn.com,Possible Cobalt Strike C2 Domain
 www.linkkedin.life,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.microsofer.top,Possible Cobalt Strike C2 Domain
+www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain
+www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain
 www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain
 www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
