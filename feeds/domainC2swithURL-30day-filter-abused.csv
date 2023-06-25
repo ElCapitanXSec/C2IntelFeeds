@@ -33,7 +33,7 @@ alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel
 antegivi.com,Possible Cobalt Strike C2 Domain,/updates.rss
 antliveplay.alicdn.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/ca
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity
 api.linkein.org,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -499,7 +499,7 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 rea.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 reb.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/cx
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/push
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain,/o/dVBxSwCHul2OKAe41CreIrOgSY
 redteambp.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -716,6 +716,7 @@ xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownlo
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 yahoo.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin
 yestcoin.com,Possible Cobalt Strike C2 Domain,/visit.js
+ys.myhome.xin,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 zenzero-hqa4hxebf8hjejhg.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/fireprox/messages/KltrLdwRtIpbhvx9e1Oj4YmFpXk8KujT
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books

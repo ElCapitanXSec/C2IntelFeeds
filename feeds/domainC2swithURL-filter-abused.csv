@@ -14,7 +14,7 @@ adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user
 antegivi.com,Possible Cobalt Strike C2 Domain,/updates.rss
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/ca
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/updates.rss
@@ -269,7 +269,7 @@ quasarincorporated.com,Possible Cobalt Strike C2 Domain,/html
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/cx
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/push
 redteambp.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain,/owa/
@@ -372,5 +372,6 @@ www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 xls.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain,/cr.css
 yahoo.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin
+ys.myhome.xin,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
