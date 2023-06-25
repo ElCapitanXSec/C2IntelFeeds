@@ -40,7 +40,7 @@ alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,
 aliyun-oss.xyz,Possible Cobalt Strike C2 Fronted Domain,/dpixel,110.40.229.133
 antegivi.com,Possible Cobalt Strike C2 Domain,/updates.rss,216.219.86.212
 antliveplay.alicdn.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,106.14.94.149
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity,47.75.108.68
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/ca,47.75.108.68
 api.linkein.org,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,45.135.134.183
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel,54.199.248.162
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,198.199.90.49
@@ -49,10 +49,6 @@ api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,2604:a880:400:d0:0:0:
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/updates.rss,47.242.203.102
 app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.97.120.142
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,110.40.201.49
-app.professional-survey.com,Possible Cobalt Strike C2 Domain,/api/Updates,37.157.155.205
-app.professional-survey.com,Possible Cobalt Strike C2 Domain,/api/Updates,78.111.100.170
-app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates,37.157.155.205
-app.towerfinancial.net,Possible Cobalt Strike C2 Domain,/api/Updates,78.111.100.170
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,103.87.48.24
 as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml,46.161.27.133
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch,147.78.47.235
