@@ -136,6 +136,7 @@ login.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
+matrix-architectural.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css
 microsoftservice.ml,Possible Cobalt Strike C2 Domain,/owa/
 msdwn.herokuapp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -271,7 +272,7 @@ quasarincorporated.com,Possible Cobalt Strike C2 Domain,/html
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/j.ad
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/cx
 redteambp.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain,/owa/
@@ -339,6 +340,7 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/updates.rss
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ca
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 us-central1-noted-processor-340815.cloudfunctions.net,Possible Cobalt Strike C2 Domain,/proxy/en-us/store/api/checkproductinwishlist
+usadevgroup.com,Possible Cobalt Strike C2 Domain,/as.css
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/ee.html
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain,/favicon

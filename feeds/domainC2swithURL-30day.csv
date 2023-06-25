@@ -290,6 +290,7 @@ m.ctrip.com,Possible Cobalt Strike C2 Fronting Domain,/restapi/soa2/21881/json/g
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 master.drobenhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
+matrix-architectural.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css
 microsoft-cucreza6fjbpc5ag.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/ugrOfixMX/bL7MkkGJlY8PYKt6avb0j7
 microsoftservice.ml,Possible Cobalt Strike C2 Domain,/owa/
@@ -531,7 +532,7 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 rea.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 reb.ppesaletrend.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/j.ad
+rechargetranscash.sytes.net,Possible Cobalt Strike C2 Domain,/cx
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain,/o/dVBxSwCHul2OKAe41CreIrOgSY
 redteambp.tech,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -674,6 +675,7 @@ update.qq.com,Possible Cobalt Strike C2 Fronting Domain,/fwlink
 update.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 us-central1-noted-processor-340815.cloudfunctions.net,Possible Cobalt Strike C2 Domain,/proxy/en-us/store/api/checkproductinwishlist
+usadevgroup.com,Possible Cobalt Strike C2 Domain,/as.css
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/ee.html
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain,/favicon
