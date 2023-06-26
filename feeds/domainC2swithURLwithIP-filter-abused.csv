@@ -52,8 +52,9 @@ cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.1
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones,45.152.115.128
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x,121.4.237.161
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html,194.50.153.108
-cf.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
 charlie-twice.suiteb.io,Possible Cobalt Strike C2 Domain,/owa/,20.70.191.206
+check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
+check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
 chidao.icu,Possible Cobalt Strike C2 Domain,/ga.js,129.226.211.237
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3,101.35.4.152
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
