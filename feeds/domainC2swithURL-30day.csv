@@ -719,8 +719,6 @@ www.microsoft-info.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/en-us/silentauth
 www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/
-www.nsxt.world,Possible Cobalt Strike C2 Domain,/en_US/all.js
-www.nsxt.world,Possible Cobalt Strike C2 Domain,/load
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa
