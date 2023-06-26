@@ -191,7 +191,7 @@ dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
 dww.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 eas.cqivc.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_
-ec2-cs01-verify.ossaliyun.info,Possible Cobalt Strike C2 Domain,/dot.gif
+ec2-cs01-verify.ossaliyun.info,Possible Cobalt Strike C2 Domain,/load
 edgesupporttd.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 edu.enorth.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/03/29136388_
@@ -243,7 +243,7 @@ jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/dz
 jahayakoj.info,Possible Cobalt Strike C2 Fronted Domain,/mk
 jelly.readteam.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
 jp.motex-inc.com,Possible Cobalt Strike C2 Domain,/latest/pip-check
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/fwlink
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM
 kenipaxi.us,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.css
@@ -278,7 +278,7 @@ n1.yahu360.space,Possible Cobalt Strike C2 Domain,/pixel
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 news.komitemedical.com,Possible Cobalt Strike C2 Domain,/j.ad
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/updates.rss
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel.gif
 njohsp.gov,Possible Cobalt Strike C2 Fronting Domain,/remove
 nn.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 note.jianshu.com,Possible Cobalt Strike C2 Fronting Domain,/azure/api/v2/userinfo/get
