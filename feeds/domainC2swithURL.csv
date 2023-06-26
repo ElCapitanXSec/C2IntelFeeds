@@ -23,6 +23,7 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/updates.rss
 app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css
+ausixo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab
 baidu.moonsir.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js
@@ -58,8 +59,11 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/push
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/activity
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
+cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
 cyberwf.cf,Possible Cobalt Strike C2 Domain,/cx
 d1672414.azureedge.net,Possible Cobalt Strike C2 Domain,/rn
@@ -143,6 +147,7 @@ linkpop.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 login.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
+m7py7pju95.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/en-us/p/book-2/8MCPZJJCC98C
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 matrix-architectural.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
@@ -311,6 +316,7 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
+service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
@@ -322,12 +328,14 @@ service-lv7umt7y-1315090928.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-myg47s10-1256578115.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getuser
+service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/j.ad
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solutions.calibet.solutions,Possible Cobalt Strike C2 Fronted Domain,/api/x
 southwest373-macquarie.online,Possible Cobalt Strike C2 Domain,/5a8b3c9d1/sig_ver
+sso.airspace.lol,Possible Cobalt Strike C2 Domain,/zOMGAPT
 study.accesscam.org,Possible Cobalt Strike C2 Domain,/www/handle/doc
 study.gleeze.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
