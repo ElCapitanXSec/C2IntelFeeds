@@ -93,6 +93,7 @@ def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_
 des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/owa,114.115.220.3
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky,194.50.153.2
+dg.gdga.org.cn,Possible Cobalt Strike C2 Domain,/update/,1.15.139.215
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -305,6 +306,7 @@ poceretu.co,Possible Cobalt Strike C2 Fronted Domain,/logo,172.93.193.10
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,146.70.79.23
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity,167.99.239.248
+pro.vendamaisimovel.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,201.95.96.120
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,3.237.41.66
 profile.htl502.tech,Possible Cobalt Strike C2 Domain,/ca,101.43.165.220
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,119.91.31.246
@@ -412,6 +414,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/ca,94.142.141.92
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,103.138.22.165
+www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,201.95.96.120
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0522950/field-keywords=books,45.12.253.184
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,104.238.153.140
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,23.105.210.39

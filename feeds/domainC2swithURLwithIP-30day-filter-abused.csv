@@ -175,6 +175,7 @@ devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,213.232.114.22
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky,194.50.153.2
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky,213.232.114.22
+dg.gdga.org.cn,Possible Cobalt Strike C2 Domain,/update/,1.15.139.215
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0,3.77.8.200
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -513,6 +514,7 @@ primary.dreamwellfarms.com,Possible Cobalt Strike C2 Domain,/j.ad,52.90.52.159
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity,167.99.239.248
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/ptj,68.183.112.159
 pro.mcagroupinvest.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,189.18.129.177
+pro.vendamaisimovel.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,201.95.96.120
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,3.237.41.66
 profile.htl502.tech,Possible Cobalt Strike C2 Domain,/ca,101.43.165.220
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,119.91.31.246

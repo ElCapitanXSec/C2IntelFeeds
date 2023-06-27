@@ -165,6 +165,7 @@ des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/owa
 description.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain,/owa/W1x7JCcx-jqUmekQl5daTU8WWFHFX-V3Er
 devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config
 devnetapp.com,Possible Cobalt Strike C2 Domain,/ky
+dg.gdga.org.cn,Possible Cobalt Strike C2 Domain,/update/
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -507,6 +508,7 @@ primary.dreamwellfarms.com,Possible Cobalt Strike C2 Domain,/j.ad
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/ptj
 pro.mcagroupinvest.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+pro.vendamaisimovel.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 profile.htl502.tech,Possible Cobalt Strike C2 Domain,/ca
 pycharm-edu.us,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
