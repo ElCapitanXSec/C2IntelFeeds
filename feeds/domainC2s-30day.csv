@@ -90,6 +90,7 @@ cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain
+cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.myfreelibrary.org,Possible Cobalt Strike C2 Domain
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain
@@ -529,6 +530,7 @@ service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-90jl66ki-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9zbgzdjb-1301775575.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain

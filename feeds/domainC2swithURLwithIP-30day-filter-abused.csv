@@ -109,6 +109,7 @@ cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,213.61.251.56
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.142.52
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,193.42.32.19
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.122
+cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234
 cdn.myfreelibrary.org,Possible Cobalt Strike C2 Domain,/login,45.152.114.14
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones,45.152.115.128
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,106.14.94.149
@@ -341,6 +342,7 @@ ns1.bogotatrade.co,Possible Cobalt Strike C2 Fronted Domain,/search/,23.105.210.
 ns1.box-cache.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,167.179.78.169
 ns1.boxcloudcdn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,167.179.68.205
 ns1.bre1ce.top,Possible Cobalt Strike C2 Domain,/ptj,155.94.170.73
+ns1.bustring.com,Possible Cobalt Strike C2 Domain,/baidu.com,154.196.13.135
 ns1.bustring.com,Possible Cobalt Strike C2 Domain,/safebrowsing/QVXHQf/QVXHQfXdpinARC06MctcJ4hprcWoBIZaDp2-M,45.81.128.183
 ns1.cdnmax.info,Possible Cobalt Strike C2 Domain,/load,64.176.35.130
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
@@ -585,6 +587,7 @@ service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.73.232
 service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss,192.144.231.110
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js,82.156.151.200
+service-90jl66ki-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Del/v1.5/U3U9RKXU6,101.33.205.73
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.60.27
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 service-9zbgzdjb-1301775575.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,124.70.159.242

@@ -93,6 +93,7 @@ cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain,/preload
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload
+cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
 cdn.myfreelibrary.org,Possible Cobalt Strike C2 Domain,/login
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -316,6 +317,7 @@ ns1.bogotatrade.co,Possible Cobalt Strike C2 Fronted Domain,/search/
 ns1.box-cache.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.boxcloudcdn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.bre1ce.top,Possible Cobalt Strike C2 Domain,/ptj
+ns1.bustring.com,Possible Cobalt Strike C2 Domain,/baidu.com
 ns1.bustring.com,Possible Cobalt Strike C2 Domain,/safebrowsing/QVXHQf/QVXHQfXdpinARC06MctcJ4hprcWoBIZaDp2-M
 ns1.cdnmax.info,Possible Cobalt Strike C2 Domain,/load
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
@@ -542,6 +544,7 @@ service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
+service-90jl66ki-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Del/v1.5/U3U9RKXU6
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-9zbgzdjb-1301775575.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
