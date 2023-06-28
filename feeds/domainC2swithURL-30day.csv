@@ -612,6 +612,7 @@ service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-pzmjnxrc-1306912653.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-rb9ef747-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
 services-us-texas-m-1.skytap.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -676,6 +677,7 @@ usadevgroup.com,Possible Cobalt Strike C2 Domain,/as.css
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/ee.html
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/fr
+usadevgroup.com,Possible Cobalt Strike C2 Domain,/gv
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain,/favicon
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

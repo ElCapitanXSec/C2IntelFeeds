@@ -362,6 +362,7 @@ service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/j.ad,101.34.18.221
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.42.254.219
+service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,175.178.213.59
 service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit,47.120.12.203
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
@@ -395,10 +396,10 @@ update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ca,45.12.138.95
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.95.15.23
 us-central1-noted-processor-340815.cloudfunctions.net,Possible Cobalt Strike C2 Domain,/proxy/en-us/store/api/checkproductinwishlist,67.205.156.120
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/as.css,194.50.153.39
-usadevgroup.com,Possible Cobalt Strike C2 Domain,/ee.html,194.50.153.39
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/ee.html,66.63.188.137
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/fam_calendar,66.63.188.137
 usadevgroup.com,Possible Cobalt Strike C2 Domain,/fr,194.50.153.39
+usadevgroup.com,Possible Cobalt Strike C2 Domain,/gv,194.50.153.39
 usizevuru.biz,Possible Cobalt Strike C2 Fronted Domain,/favicon,23.108.57.191
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
