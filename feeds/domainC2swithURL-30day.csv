@@ -10,7 +10,7 @@ a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 a.connectie-78d5566d11aea.nl,Possible Cobalt Strike C2 Domain,/58d84ae5-6a23-4b6a-9fe3-459fd28560c0/
 a.connection-78d5500d66aea.nl,Possible Cobalt Strike C2 Domain,/7da75226-667a-4bee-acc4-305a9630ecc3/
 a.oobcsilent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
+a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 abc.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 abc1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/g.pixel
 abcdefguvw.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -26,7 +26,6 @@ adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
 agency.baidubet.com,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
-ajax.googleapis.com,Possible Cobalt Strike C2 Fronting Domain,/ajax/libs/angularjs/angular.1.1.3.js
 alarm.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain,/j.ad
 aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js
 aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js
@@ -44,12 +43,12 @@ app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 apt007.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+as.dsvchost.com,Possible Cobalt Strike C2 Domain,/zh
 as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 as.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
 ask.healthgurues.com,Possible Cobalt Strike C2 Domain,/j.ad
 asssaaass1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/fwlink
-atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/media.css
 atlantisenergysystems.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css
 ausixo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 australiansuper.xyz,Possible Cobalt Strike C2 Fronted Domain,/owa
@@ -507,7 +506,6 @@ payload.su,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/dz
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/mk
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
-pfizer.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/angularjs/angular.1.1.3.js
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity
 poceretu.co,Possible Cobalt Strike C2 Fronted Domain,/logo
@@ -533,6 +531,7 @@ quasarincorporated.com,Possible Cobalt Strike C2 Domain,/groupcp
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/html
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template
 quote.swalter.com,Possible Cobalt Strike C2 Domain,/archive/list/v4.73/77GM1A6XWEH
+qw.dsvchost.com,Possible Cobalt Strike C2 Domain,/zh
 qw.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 qw.tackhostw.com,Possible Cobalt Strike C2 Domain,/ch
 qw.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html
@@ -774,6 +773,7 @@ zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3
 zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 zh.servicesest.services,Possible Cobalt Strike C2 Domain,/visit.js
+zx.dsvchost.com,Possible Cobalt Strike C2 Domain,/temp
 zx.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 zx.tackhostw.com,Possible Cobalt Strike C2 Domain,/da
 zx.vm3dservice.com,Possible Cobalt Strike C2 Domain,/RELEASE.html

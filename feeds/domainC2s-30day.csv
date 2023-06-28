@@ -24,7 +24,6 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain
 adspirenetwork.com,Possible Cobalt Strike C2 Domain
 agency.baidubet.com,Possible Cobalt Strike C2 Domain
 ailbaba.shop,Possible Cobalt Strike C2 Domain
-ajax.googleapis.com,Possible Cobalt Strike C2 Fronting Domain
 alarm.bettermoneyhelp.com,Possible Cobalt Strike C2 Domain
 aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain
@@ -41,6 +40,7 @@ app.dbapp.xyz,Possible Cobalt Strike C2 Domain
 app.dlmix.ourdvs.com,Possible Cobalt Strike C2 Fronted Domain
 apt007.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 arpa.viewdns.net,Possible Cobalt Strike C2 Domain
+as.dsvchost.com,Possible Cobalt Strike C2 Domain
 as.sortx2.com,Possible Cobalt Strike C2 Domain
 as.tackhostw.com,Possible Cobalt Strike C2 Domain
 as.vm3dservice.com,Possible Cobalt Strike C2 Domain
@@ -475,7 +475,6 @@ pass.dlsec.eu.org,Possible Cobalt Strike C2 Domain
 payload.su,Possible Cobalt Strike C2 Fronted Domain
 paypal.com,Possible Cobalt Strike C2 Fronting Domain
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain
-pfizer.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain
 poceretu.co,Possible Cobalt Strike C2 Fronted Domain
@@ -498,6 +497,7 @@ qqns.asdasd33.info,Possible Cobalt Strike C2 Domain
 qqns1.asdasd33.info,Possible Cobalt Strike C2 Domain
 quasarincorporated.com,Possible Cobalt Strike C2 Domain
 quote.swalter.com,Possible Cobalt Strike C2 Domain
+qw.dsvchost.com,Possible Cobalt Strike C2 Domain
 qw.sortx2.com,Possible Cobalt Strike C2 Domain
 qw.tackhostw.com,Possible Cobalt Strike C2 Domain
 qw.vm3dservice.com,Possible Cobalt Strike C2 Domain
@@ -724,6 +724,7 @@ zero.kdocs.cc,Possible Cobalt Strike C2 Domain
 zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 zh.servicesest.services,Possible Cobalt Strike C2 Domain
+zx.dsvchost.com,Possible Cobalt Strike C2 Domain
 zx.sortx2.com,Possible Cobalt Strike C2 Domain
 zx.tackhostw.com,Possible Cobalt Strike C2 Domain
 zx.vm3dservice.com,Possible Cobalt Strike C2 Domain
