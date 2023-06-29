@@ -1,4 +1,4 @@
-domain,ioc,IPs,C2Domains
+#domain,ioc,IPs,C2Domains
 "007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17 116.205.140.54","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"

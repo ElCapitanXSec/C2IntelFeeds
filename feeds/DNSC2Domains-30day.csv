@@ -1,4 +1,4 @@
-domain,ioc,IPs,C2Domains
+#domain,ioc,IPs,C2Domains
 "007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17 116.205.140.54","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
 "0xgg.eu.org","Possible Cobaltstrike DNS C2 Domain","193.134.209.247","ns98.0xgg.eu.org ns99.0xgg.eu.org"
 "333ling.com","Possible Cobaltstrike DNS C2 Domain","175.24.176.137","ns1.333ling.com ns2.333ling.com"
@@ -128,7 +128,7 @@ domain,ioc,IPs,C2Domains
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
 "mo4.xyz","Possible Cobaltstrike DNS C2 Domain","158.247.221.28","k.mo4.xyz"
 "mobilecsssync.com","Possible Cobaltstrike DNS C2 Domain","149.28.141.230","ld1.mobilecsssync.com ld2.mobilecsssync.com ld3.mobilecsssync.com"
-" motex-inc.com","Possible Cobaltstrike DNS C2 Domain","45.77.170.65","jp.motex-inc.com"
+"motex-inc.com","Possible Cobaltstrike DNS C2 Domain","45.77.170.65","jp.motex-inc.com"
 "msnsiccs.com","Possible Cobaltstrike DNS C2 Domain","207.148.121.184","ns1.msnsiccs.com ns2.msnsiccs.com"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
 "myazureonline.com","Possible Cobaltstrike DNS C2 Domain","164.92.169.139","ns1.myazureonline.com"
