@@ -21,7 +21,6 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 app.dbapp.xyz,Possible Cobalt Strike C2 Domain
 as.dsvchost.com,Possible Cobalt Strike C2 Domain
 as.sortx2.com,Possible Cobalt Strike C2 Domain
-atlantisenergysystems.com,Possible Cobalt Strike C2 Domain
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain
 auto.safariupdate.net,Possible Cobalt Strike C2 Domain
 baidu.moonsir.cf,Possible Cobalt Strike C2 Domain
@@ -79,6 +78,7 @@ datacloudprocessing.com,Possible Cobalt Strike C2 Domain
 daxiong.doraemon.homes,Possible Cobalt Strike C2 Domain
 def30qw5ks4uw.cloudfront.net,Possible Cobalt Strike C2 Domain
 des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
+developersolutions.org,Possible Cobalt Strike C2 Domain
 devnetapp.com,Possible Cobalt Strike C2 Domain
 dg.gdga.org.cn,Possible Cobalt Strike C2 Domain
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
@@ -131,7 +131,6 @@ js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain
 k.mo4.xyz,Possible Cobalt Strike C2 Domain
 kihurij.com,Possible Cobalt Strike C2 Domain
-lauracenters.com,Possible Cobalt Strike C2 Domain
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain
 lijiang.yunnan.cn,Possible Cobalt Strike C2 Fronted Domain
@@ -322,7 +321,6 @@ service-bvc0c0em-1309275416.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-eii49n6u-1256578115.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -332,6 +330,7 @@ service-hzdiypvm-1318122919.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-iby8w5fq-1306407718.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-in1v1ia6-1256578115.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-lv7umt7y-1315090928.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -355,6 +354,7 @@ test1.imortal.icu,Possible Cobalt Strike C2 Domain
 test2.imortal.icu,Possible Cobalt Strike C2 Domain
 test3.imortal.icu,Possible Cobalt Strike C2 Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Domain
+tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain
 tmall.com,Possible Cobalt Strike C2 Fronting Domain
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain
@@ -380,18 +380,22 @@ www.atomscience.cn,Possible Cobalt Strike C2 Domain
 www.axxnxx.xyz,Possible Cobalt Strike C2 Domain
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain
 www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain
+www.certinstall.cc,Possible Cobalt Strike C2 Domain
+www.checkupdates50.com,Possible Cobalt Strike C2 Fronted Domain
 www.citcc.shop,Possible Cobalt Strike C2 Domain
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain
 www.icbci.top,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.microsofer.top,Possible Cobalt Strike C2 Domain
+www.microsoft-info.org,Possible Cobalt Strike C2 Domain
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain
 www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain
 www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain
 www.union-pay.vip,Possible Cobalt Strike C2 Domain
+www.updategateway.com,Possible Cobalt Strike C2 Fronted Domain
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
