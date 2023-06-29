@@ -122,6 +122,7 @@ consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
+core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain
@@ -132,6 +133,7 @@ cs.wsxqaz.top,Possible Cobalt Strike C2 Domain
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain
 csremote.duckdns.org,Possible Cobalt Strike C2 Domain
 cyberwf.cf,Possible Cobalt Strike C2 Domain
+d11lqfjylv7hzs.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1672414.azureedge.net,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
 d1j6ynnkkyzn6b.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -462,6 +464,7 @@ nsa2.micrsoft.com.cn,Possible Cobalt Strike C2 Domain
 ntlm.duckdns.org,Possible Cobalt Strike C2 Domain
 oa.cncb.info,Possible Cobalt Strike C2 Domain
 oa.opposrv.top,Possible Cobalt Strike C2 Domain
+oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain
 oeewbovon.gofunhome.buzz,Possible Cobalt Strike C2 Domain
 office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
@@ -512,6 +515,7 @@ recover.healthcarecdn.com,Possible Cobalt Strike C2 Domain
 redteambp.tech,Possible Cobalt Strike C2 Domain
 redteamone.tech,Possible Cobalt Strike C2 Domain
 registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain
+res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
 resysmon.net,Possible Cobalt Strike C2 Domain
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain
