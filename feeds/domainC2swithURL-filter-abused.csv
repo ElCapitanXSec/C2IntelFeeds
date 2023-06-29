@@ -1,6 +1,6 @@
 #domain,ioc,uri_path
 360sec.cloud,Possible Cobalt Strike C2 Domain,/restapi/soa2/21881/json/gethotdestination
-6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/__utm.gif
+6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 a.connectie-78d5566d11aea.nl,Possible Cobalt Strike C2 Domain,/58d84ae5-6a23-4b6a-9fe3-459fd28560c0/
 a.wvwvwv.tk,Possible Cobalt Strike C2 Domain,/include/template/isx.php
