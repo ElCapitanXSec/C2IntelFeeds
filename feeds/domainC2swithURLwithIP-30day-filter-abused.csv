@@ -135,7 +135,7 @@ configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.19
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push,8.140.135.23
-core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/ga.js,162.19.68.68
+core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain,/j.ad,3.80.37.26
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,101.42.223.86
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa,143.92.59.14
@@ -578,6 +578,7 @@ ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha,45.152.115.139
 s1.mieccm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.251.19
 s2.mieccm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.251.19
 s3amzn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,20.85.192.247
+sacs.dashuaibi.cf,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.220.77.124
 safe.safesecuredns.co,Possible Cobalt Strike C2 Domain,/fd/ls/l,153.92.5.225
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad,54.196.194.166
 scervice.shop,Possible Cobalt Strike C2 Domain,/visit.js,46.29.165.123

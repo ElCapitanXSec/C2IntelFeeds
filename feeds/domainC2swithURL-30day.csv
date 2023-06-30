@@ -130,7 +130,7 @@ consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-con
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/push
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push
-core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/ga.js
+core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa
@@ -558,6 +558,7 @@ ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
 s1.mieccm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 s2.mieccm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 s3amzn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+sacs.dashuaibi.cf,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 safe.safesecuredns.co,Possible Cobalt Strike C2 Domain,/fd/ls/l
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
 scervice.shop,Possible Cobalt Strike C2 Domain,/visit.js
