@@ -112,6 +112,7 @@ check.up.interior-gov-pk.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/pixel
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 chidao.icu,Possible Cobalt Strike C2 Domain,/ga.js
+chinaratings.getsec.cc,Possible Cobalt Strike C2 Domain,/activity
 citrixinfo.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 citycredito.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cityoall.com,Possible Cobalt Strike C2 Domain,/ca
@@ -131,6 +132,7 @@ core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
 cross.tradinginhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
 cs.aabyss.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 cs.docker-compose-update.com,Possible Cobalt Strike C2 Fronted Domain,/aaaaaaaaa
+cs.hacker.wang,Possible Cobalt Strike C2 Domain,/activity
 cs.kingsoft365.top,Possible Cobalt Strike C2 Domain,/activity
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
 cs.server.bike,Possible Cobalt Strike C2 Domain,/dot.gif
@@ -645,7 +647,6 @@ study.gleeze.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 success.ehealthsimplified.com,Possible Cobalt Strike C2 Domain,/j.ad
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
 support.npmstatic.com,Possible Cobalt Strike C2 Domain,/index.jsp
-surplusofer.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 takaelot.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 tavositaru.co,Possible Cobalt Strike C2 Domain,/Multiply/v8.7/36MCFOMPE5F4
 tcar.dnsrd.com,Possible Cobalt Strike C2 Domain,/Def/v4.21/C58XIA75S6
@@ -702,6 +703,7 @@ verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/__utm.gif
 vespetrolgroup.com,Possible Cobalt Strike C2 Domain,/ak
 vespetrolgroup.com,Possible Cobalt Strike C2 Domain,/ba.html
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
+vitagees.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/ca
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js
 webcopy.cloud,Possible Cobalt Strike C2 Domain,/__utm.gif
