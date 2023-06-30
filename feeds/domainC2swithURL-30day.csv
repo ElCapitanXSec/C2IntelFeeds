@@ -115,6 +115,7 @@ chidao.icu,Possible Cobalt Strike C2 Domain,/ga.js
 citrixinfo.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 citycredito.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cityoall.com,Possible Cobalt Strike C2 Domain,/ca
+cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 coalafoods.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
@@ -178,6 +179,7 @@ dns.antegivi.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.azurelive-dns.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 dns.binsmob.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
+dns.cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/push
 dns.crestbrige.site,Possible Cobalt Strike C2 Domain,/safebrowsing/mDn-/7YSLjQ0E-3erRkbO8ZDjD
 dns.djn.blue,Possible Cobalt Strike C2 Domain,/api
@@ -312,6 +314,7 @@ note3.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 notmalware.red-wizard-demo-01.nl,Possible Cobalt Strike C2 Domain,/718acd1d-f3aa-4848-860a-c077e2c59189/
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/
+ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/dot.gif
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain,/Windows
 ns.qaxno1.ml,Possible Cobalt Strike C2 Domain,/dpixel
 ns.qaxno1.ml,Possible Cobalt Strike C2 Domain,/poll

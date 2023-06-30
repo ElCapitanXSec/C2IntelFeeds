@@ -57,6 +57,7 @@ charlie-twice.suiteb.io,Possible Cobalt Strike C2 Domain,/owa/
 check.htl502.tech,Possible Cobalt Strike C2 Domain,/ca
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js
@@ -97,6 +98,7 @@ digital.yesky.com,Possible Cobalt Strike C2 Fronted Domain,/owa
 dns.antegivi.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.binsmob.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
+dns.cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 dns.djn.blue,Possible Cobalt Strike C2 Domain,/api
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
@@ -180,6 +182,7 @@ note3.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 notmalware.red-wizard-demo-01.nl,Possible Cobalt Strike C2 Domain,/718acd1d-f3aa-4848-860a-c077e2c59189/
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/
+ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/dot.gif
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain,/Windows
 ns.qaxno1.ml,Possible Cobalt Strike C2 Domain,/poll
 ns1.007work.icu,Possible Cobalt Strike C2 Domain,/ca
