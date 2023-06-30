@@ -83,7 +83,6 @@ brownderbys.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,46.21.
 c1.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js,170.187.252.14
 c1.haopangnie.top,Possible Cobalt Strike C2 Domain,/visit.js,121.40.147.169
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif,124.220.29.161
-c2.digitalriverinfosec.com,Possible Cobalt Strike C2 Domain,/zOMGAPT,66.119.15.225
 c2.engaageement.com,Possible Cobalt Strike C2 Domain,/jquary-3.3.1.min.js,170.187.252.14
 c2.haopangnie.top,Possible Cobalt Strike C2 Domain,/__utm.gif,121.40.147.169
 c2.iamabhacker.tk,Possible Cobalt Strike C2 Domain,/admin,96.45.164.179
@@ -282,6 +281,7 @@ id1.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.180
 id2.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.180.221.72
 id3.opstionery.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.180.221.72
 image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search,39.104.76.226
+imap.hopto.org,Possible Cobalt Strike C2 Domain,/www/handle/docs,206.189.139.142
 incididunt.com,Possible Cobalt Strike C2 Domain,/updates.rss,103.114.163.107
 independent.vittoriocas137.workers.dev,Possible Cobalt Strike C2 Domain,/poll,193.233.232.230
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js,82.157.145.234
@@ -668,6 +668,7 @@ service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-lv7umt7y-1315090928.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,45.14.66.194
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
+service-mitx0ap6-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,123.249.28.204
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.18.221
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/j.ad,101.34.18.221
