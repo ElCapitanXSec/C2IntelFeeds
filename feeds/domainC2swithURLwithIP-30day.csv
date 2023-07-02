@@ -63,7 +63,7 @@ auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/
 auto.safariupdate.net,Possible Cobalt Strike C2 Domain,/api/v4/zones/entitlements,43.245.199.163
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/__utm.gif,20.94.177.31
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/__utm.gif,23.98.137.196
-baidu.hao012.tk,Possible Cobalt Strike C2 Domain,/image/,139.224.189.177
+baidu.hao012.tk,Possible Cobalt Strike C2 Domain,/updates.rss,139.224.189.177
 baidu.moonsir.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,150.158.13.117
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js,195.133.53.144
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js,45.66.151.195
