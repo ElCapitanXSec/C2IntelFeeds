@@ -68,7 +68,7 @@ cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.19
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push,8.140.135.23
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca,8.140.135.23
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
 cs.hacker.wang,Possible Cobalt Strike C2 Domain,/activity,43.224.153.57
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson,192.144.231.244

@@ -67,8 +67,8 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/push
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/ca
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
 cs.hacker.wang,Possible Cobalt Strike C2 Domain,/activity
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
