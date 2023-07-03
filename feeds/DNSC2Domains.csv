@@ -56,6 +56,7 @@
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","23.106.122.69","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
+"kagotsurube.org","Possible Cobaltstrike DNS C2 Domain","198.211.58.80","dev01.kagotsurube.org dev02.kagotsurube.org"
 "killbaidu.cn","Possible Cobaltstrike DNS C2 Domain","119.13.90.176","ns.killbaidu.cn"
 "localtoast.co.za","Possible Cobaltstrike DNS C2 Domain","137.184.25.81","dt.localtoast.co.za"
 "mammothspoon.xyz","Possible Cobaltstrike DNS C2 Domain","123.56.75.209","ns2.mammothspoon.xyz"
@@ -101,4 +102,5 @@
 "wp9.cc","Possible Cobaltstrike DNS C2 Domain","103.173.154.214","ns1.wp9.cc ns2.wp9.cc"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xionoll.com","Possible Cobaltstrike DNS C2 Domain","34.235.195.209","ns1.xionoll.com"
+"xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahu360.space","Possible Cobaltstrike DNS C2 Domain","75.127.13.201","n1.yahu360.space"
