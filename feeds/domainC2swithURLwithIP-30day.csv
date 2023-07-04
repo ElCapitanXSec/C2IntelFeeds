@@ -105,7 +105,6 @@ cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,107.191.57.153
 cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/api/x,121.4.237.161
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x,121.4.237.161
-cdn_1.cnnvd.club,Possible Cobalt Strike C2 Domain,/visit.js,185.126.226.108
 cdnua01.project27strategy.com,Possible Cobalt Strike C2 Domain,/en-us/p/onerf/MeSilentPassport,104.248.61.95
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html,194.50.153.108
 charlie-twice.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,107.191.57.153
@@ -248,7 +247,6 @@ groupline.org,Possible Cobalt Strike C2 Domain,/faq,194.50.153.11
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.132.216.158
 hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss,140.237.86.189
 hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss,27.157.113.61
-hashmap.tw,Possible Cobalt Strike C2 Fronted Domain,/restapi/soa2/21881/json/gethotdestination,154.213.64.87
 heastings.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,194.5.212.238
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/page.jsp,54.91.23.205
 hepinghealth365.top,Possible Cobalt Strike C2 Domain,/index.html,107.173.83.62
@@ -292,7 +290,6 @@ logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/
 lumsguttenberg.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,193.239.85.12
 lxnft.org,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,173.249.196.234
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi,139.9.142.162
-m.ctrip.com,Possible Cobalt Strike C2 Fronting Domain,/restapi/soa2/21881/json/gethotdestination,154.213.64.87
 m7py7pju95.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/en-us/p/book-2/8MCPZJJCC98C,146.190.212.94
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85

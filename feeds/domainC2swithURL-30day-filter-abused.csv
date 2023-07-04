@@ -88,7 +88,6 @@ cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
-cdn_1.cnnvd.club,Possible Cobalt Strike C2 Domain,/visit.js
 cdnua01.project27strategy.com,Possible Cobalt Strike C2 Domain,/en-us/p/onerf/MeSilentPassport
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html
 charlie-twice.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -210,7 +209,6 @@ groupline.org,Possible Cobalt Strike C2 Domain,/bg
 groupline.org,Possible Cobalt Strike C2 Domain,/faq
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 hack.mchotspring.press,Possible Cobalt Strike C2 Domain,/updates.rss
-hashmap.tw,Possible Cobalt Strike C2 Fronted Domain,/restapi/soa2/21881/json/gethotdestination
 heastings.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/page.jsp
 hepinghealth365.top,Possible Cobalt Strike C2 Domain,/index.html
