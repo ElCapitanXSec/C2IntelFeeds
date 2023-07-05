@@ -182,6 +182,7 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/push
+dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -301,7 +302,7 @@ note3.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 notmalware.red-wizard-demo-01.nl,Possible Cobalt Strike C2 Domain,/718acd1d-f3aa-4848-860a-c077e2c59189/
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/
-ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/dot.gif
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain,/Windows
 ns.qaxno1.ml,Possible Cobalt Strike C2 Domain,/poll
 ns.z7-tech.com,Possible Cobalt Strike C2 Domain,/search
@@ -580,6 +581,7 @@ service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/push
 services-us-texas-m-1.skytap.com,Possible Cobalt Strike C2 Domain,/j.ad
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/visit.js
 skywalker.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 smss.svchost.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
