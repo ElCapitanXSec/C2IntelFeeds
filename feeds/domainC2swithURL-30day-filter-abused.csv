@@ -100,7 +100,6 @@ cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 coalafoods.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js
-consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
@@ -183,7 +182,6 @@ dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
 dww.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 ec2-cs01-verify.ossaliyun.info,Possible Cobalt Strike C2 Domain,/load
 edu.enorth.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa
-edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 energy.steelcdn.com,Possible Cobalt Strike C2 Domain,/j.ad
 eu-1.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/fwlink
@@ -530,7 +528,6 @@ service-j815x7l4-1302505002.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-jcetme20-1314507962.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dot.gif
 service-js8jhgzk-1302739990.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
 service-kiss7m2t-1305595184.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-kpy719kw-1252391081.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
 service-ln38c3rd-1257826321.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -578,7 +575,6 @@ ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details
-test.htl502.tech,Possible Cobalt Strike C2 Domain,/pixel
 test.htl502.tech,Possible Cobalt Strike C2 Domain,/push
 test.htl502.tech,Possible Cobalt Strike C2 Domain,/visit.js
 test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/

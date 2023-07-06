@@ -232,5 +232,7 @@
 \.dbappsecurity\.com\.cn,
 ^jspassport\.ssl\.qhimg\.com,
 ^m\.ctrip\.com,
+^consumer-img\.huawei\.com,
+\.huawei\.com,
 ^http,
 ^https,
