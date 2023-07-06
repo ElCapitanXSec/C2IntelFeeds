@@ -90,6 +90,7 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
+dns.azurelive-dns.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 dns.binsmob.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -315,6 +316,7 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-g8z6boiv-1302310300.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/contact/v1.51/WE0KXOL8
 service-gcnqmcp3-1307217324.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/IsLogin
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login

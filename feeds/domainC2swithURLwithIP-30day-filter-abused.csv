@@ -549,6 +549,7 @@ service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime,43.139.109.13
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.154.81.4
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,111.67.195.66
+service-g8z6boiv-1302310300.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/contact/v1.51/WE0KXOL8,117.50.183.12
 service-gcnqmcp3-1307217324.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/IsLogin,43.138.19.240
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.59.185
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,150.158.180.97
@@ -615,7 +616,6 @@ test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details,101.200.197.112
-test.htl502.tech,Possible Cobalt Strike C2 Domain,/push,101.43.165.220
 test.htl502.tech,Possible Cobalt Strike C2 Domain,/visit.js,82.157.110.128
 test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24
 test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/,121.4.69.24

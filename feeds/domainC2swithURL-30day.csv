@@ -535,6 +535,7 @@ service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime
 service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
+service-g8z6boiv-1302310300.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/contact/v1.51/WE0KXOL8
 service-gcnqmcp3-1307217324.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/IsLogin
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
@@ -598,7 +599,6 @@ ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details
-test.htl502.tech,Possible Cobalt Strike C2 Domain,/push
 test.htl502.tech,Possible Cobalt Strike C2 Domain,/visit.js
 test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
