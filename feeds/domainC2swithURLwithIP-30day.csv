@@ -321,7 +321,6 @@ ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/,43.154.27.211
 ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/dot.gif,119.13.90.176
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain,/Windows,193.178.210.203
 ns.qaxno1.ml,Possible Cobalt Strike C2 Domain,/poll,129.150.43.163
-ns.z7-tech.com,Possible Cobalt Strike C2 Domain,/search,67.219.104.210
 ns1.007work.icu,Possible Cobalt Strike C2 Domain,/ca,116.205.140.54
 ns1.007work.icu,Possible Cobalt Strike C2 Domain,/cm,104.238.151.17
 ns1.333ling.com,Possible Cobalt Strike C2 Domain,/push,175.24.176.137
@@ -459,8 +458,6 @@ ns4.sfklla.vip,Possible Cobalt Strike C2 Domain,/g.pixel,101.89.202.252
 ns4.sfklla.vip,Possible Cobalt Strike C2 Domain,/match,101.89.202.252
 ns5.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,101.132.253.6
 ns6.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png,101.132.253.6
-ns98.0xgg.eu.org,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get,193.134.209.247
-ns99.0xgg.eu.org,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get,193.134.209.247
 ns_1.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_,45.136.245.12
 ns_2.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_,45.136.245.12
 nsa1.micrsoft.com.cn,Possible Cobalt Strike C2 Domain,/ga.js,103.39.78.166
