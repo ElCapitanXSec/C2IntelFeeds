@@ -359,7 +359,7 @@ service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity
 service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad
-service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/push
+service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/visit.js
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
@@ -422,6 +422,7 @@ www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain,/api/x
 www.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 www.updategateway.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+www.windowupdates.one,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
