@@ -21,6 +21,7 @@ app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 as.dsvchost.com,Possible Cobalt Strike C2 Domain,/zh
 as.sortx2.com,Possible Cobalt Strike C2 Domain,/ml
 ask.healthgurues.com,Possible Cobalt Strike C2 Domain,/j.ad
+askubuntu.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab
 auto.safariupdate.net,Possible Cobalt Strike C2 Domain,/api/v4/zones/entitlements
 baidu.hao012.tk,Possible Cobalt Strike C2 Domain,/updates.rss
@@ -268,6 +269,7 @@ oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/api/info
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3
+partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity
