@@ -1,5 +1,4 @@
 #domain,ioc
-360sec.cloud,Possible Cobalt Strike C2 Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain
 a.connectie-78d5566d11aea.nl,Possible Cobalt Strike C2 Domain
@@ -31,7 +30,6 @@ bopever.co,Possible Cobalt Strike C2 Domain
 c1.haopangnie.top,Possible Cobalt Strike C2 Domain
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain
 c2.haopangnie.top,Possible Cobalt Strike C2 Domain
-c2.ststjst.shop,Possible Cobalt Strike C2 Domain
 c2c.updatenews.me,Possible Cobalt Strike C2 Domain
 c2listx.beauty,Possible Cobalt Strike C2 Domain
 c3.haopangnie.top,Possible Cobalt Strike C2 Domain
@@ -316,7 +314,6 @@ service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hzdiypvm-1318122919.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-i0k34aj0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-iby8w5fq-1306407718.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-in1v1ia6-1256578115.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
