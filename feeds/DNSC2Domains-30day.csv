@@ -47,7 +47,7 @@
 "digihealthlocker.com","Possible Cobaltstrike DNS C2 Domain","54.226.3.99","recommendation.digihealthlocker.com"
 "digitelela.com","Possible Cobaltstrike DNS C2 Domain","104.238.153.140 64.176.7.118","ns1.digitelela.com ns4.digitelela.com"
 "dingtaIk.tk","Possible Cobaltstrike DNS C2 Domain","47.94.43.210","ns1.dingtaIk.tk ns2.dingtaIk.tk"
-"djn.blue"," Possible Cobaltstrike DNS C2 Domain","138.197.167.52 159.203.60.8","dns.djn.blue dnsswag.djn.blue"
+"djn.blue","Possible Cobaltstrike DNS C2 Domain","138.197.167.52 159.203.60.8","dns.djn.blue dnsswag.djn.blue"
 "dlsec.eu.org","Possible Cobaltstrike DNS C2 Domain","1.13.160.239","down.dlsec.eu.org pass.dlsec.eu.org"
 "dnehtb.cn","Possible Cobaltstrike DNS C2 Domain","139.155.145.128","ns1.dnehtb.cn ns2.dnehtb.cn"
 "dnslive.top","Possible Cobaltstrike DNS C2 Domain","198.44.169.19","ns1.dnslive.top ns2.dnslive.top"
