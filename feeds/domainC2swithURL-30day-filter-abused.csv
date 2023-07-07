@@ -470,6 +470,7 @@ registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 resysmon.net,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/fo.html
+route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain,/owa/
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get
 rtlab-zeus.com,Possible PoshC2 Fronting Domain,/GoPro5/black/2018/
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain,/showcaptcha
@@ -651,8 +652,6 @@ www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
 www.microsofer.top,Possible Cobalt Strike C2 Domain,/image/
 www.microsoft-info.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-www.muenchner-finanzhilfe.com,Possible Cobalt Strike C2 Fronting Domain,/owa/
-www.muenchner-finanzhlife.com,Possible Cobalt Strike C2 Fronted Domain,/owa/
 www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel

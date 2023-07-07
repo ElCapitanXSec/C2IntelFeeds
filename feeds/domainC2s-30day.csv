@@ -457,6 +457,7 @@ registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
 resysmon.net,Possible Cobalt Strike C2 Domain
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 rtlab-zeus.com,Possible PoshC2 Domain
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain
@@ -633,8 +634,6 @@ www.micorsoft.live,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.microsofer.top,Possible Cobalt Strike C2 Domain
 www.microsoft-info.org,Possible Cobalt Strike C2 Domain
-www.muenchner-finanzhilfe.com,Possible Cobalt Strike C2 Fronting Domain
-www.muenchner-finanzhlife.com,Possible Cobalt Strike C2 Fronted Domain
 www.netuse1.eu.org,Possible Cobalt Strike C2 Domain
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain

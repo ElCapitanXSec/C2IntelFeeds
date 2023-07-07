@@ -42,6 +42,7 @@ cas.opposrv.top,Possible Cobalt Strike C2 Domain
 cdn.ad-tracker.org,Possible Cobalt Strike C2 Fronted Domain
 cdn.adobe-research.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.avprotect.net,Possible Cobalt Strike C2 Fronted Domain
+cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain
 cdn.dns-response.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
@@ -291,6 +292,7 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
+route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain
 s3amzn.com,Possible Cobalt Strike C2 Domain
 sacs.dashuaibi.cf,Possible Cobalt Strike C2 Domain
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain
@@ -390,8 +392,6 @@ www.micorsoft.live,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.microsofer.top,Possible Cobalt Strike C2 Domain
 www.microsoft-info.org,Possible Cobalt Strike C2 Domain
-www.muenchner-finanzhilfe.com,Possible Cobalt Strike C2 Fronting Domain
-www.muenchner-finanzhlife.com,Possible Cobalt Strike C2 Fronted Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain
 www.union-pay.vip,Possible Cobalt Strike C2 Domain

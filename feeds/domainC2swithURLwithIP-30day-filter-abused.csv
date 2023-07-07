@@ -496,6 +496,7 @@ registry.aliyun-cs1.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
 resysmon.net,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF,45.77.195.73
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/fo.html,20.66.93.197
+route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain,/owa/,141.255.164.35
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get,20.86.174.235
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get,20.93.128.129
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/get,20.93.128.66
@@ -694,8 +695,6 @@ www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js,49.232.90.103
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg,8.210.2.157
 www.microsofer.top,Possible Cobalt Strike C2 Domain,/image/,43.154.27.211
 www.microsoft-info.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.39.64.39
-www.muenchner-finanzhilfe.com,Possible Cobalt Strike C2 Fronting Domain,/owa/,141.255.164.35
-www.muenchner-finanzhlife.com,Possible Cobalt Strike C2 Fronted Domain,/owa/,141.255.164.35
 www.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/sugrec,1.13.160.239
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel,47.75.108.68
