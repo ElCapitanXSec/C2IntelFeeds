@@ -189,7 +189,7 @@ note3.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js,185.163.45
 notmalware.red-wizard-demo-01.nl,Possible Cobalt Strike C2 Domain,/718acd1d-f3aa-4848-860a-c077e2c59189/,85.10.134.79
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/,43.154.27.211
-ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/pixel.gif,119.13.90.176
+ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/__utm.gif,119.13.90.176
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain,/Windows,193.178.210.203
 ns.qaxno1.ml,Possible Cobalt Strike C2 Domain,/poll,129.150.43.163
 ns1.007work.icu,Possible Cobalt Strike C2 Domain,/ca,116.205.140.54
@@ -365,7 +365,7 @@ service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.147.83
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js,20.46.112.10
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/visit.js,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/dpixel,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 ss.rlfslie.cloud,Possible Cobalt Strike C2 Domain,/j.ad,199.195.253.124
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/as.css,194.50.153.12
