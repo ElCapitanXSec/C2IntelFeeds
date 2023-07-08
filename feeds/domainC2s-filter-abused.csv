@@ -54,6 +54,7 @@ chidao.icu,Possible Cobalt Strike C2 Domain
 chinaratings.getsec.cc,Possible Cobalt Strike C2 Domain
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain
 cityoall.com,Possible Cobalt Strike C2 Domain
+cloudflare.net,Possible Cobalt Strike C2 Fronted Domain
 cloudflear.cf,Possible Cobalt Strike C2 Domain
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain
 configupdate.com,Possible Cobalt Strike C2 Domain
@@ -138,10 +139,12 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 login.webapi-telegram.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 lumsguttenberg.com,Possible Cobalt Strike C2 Domain
+lumswestnewyork.com,Possible Cobalt Strike C2 Domain
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain
+megacorp.pw,Possible Cobalt Strike C2 Fronting Domain
 microsoftservice.ml,Possible Cobalt Strike C2 Domain
 midasusme.uk,Possible Cobalt Strike C2 Domain
 mobile.opposrv.top,Possible Cobalt Strike C2 Domain
@@ -258,7 +261,6 @@ oa.cncb.info,Possible Cobalt Strike C2 Domain
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 oldredtoolbox.com.global.prod.fastly.net,Possible Cobalt Strike C2 Domain
-online.microsoft-online.top,Possible Cobalt Strike C2 Domain
 partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain

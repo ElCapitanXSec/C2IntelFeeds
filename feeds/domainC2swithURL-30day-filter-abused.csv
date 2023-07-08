@@ -97,6 +97,7 @@ chidao.icu,Possible Cobalt Strike C2 Domain,/image/
 chinaratings.getsec.cc,Possible Cobalt Strike C2 Domain,/activity
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css
 cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
+cloudflare.net,Possible Cobalt Strike C2 Fronted Domain,/cm
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 coalafoods.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
@@ -250,6 +251,7 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/o
 login.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/ru/authrootstl.cab
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 lumsguttenberg.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
+lumswestnewyork.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
 m7py7pju95.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/en-us/p/book-2/8MCPZJJCC98C
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
@@ -257,6 +259,7 @@ mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 master.drobenhealth.com,Possible Cobalt Strike C2 Domain,/j.ad
 matrix-architectural.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css
+megacorp.pw,Possible Cobalt Strike C2 Fronting Domain,/cm
 microsoftservice.ml,Possible Cobalt Strike C2 Domain,/owa/
 midasusme.uk,Possible Cobalt Strike C2 Domain,/pixel
 midasusme.uk,Possible Cobalt Strike C2 Domain,/visit.js
