@@ -111,6 +111,7 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
+domeal.com,Possible PoshC2 Fronting Domain,/web/20110920084728/
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
@@ -123,7 +124,6 @@ fastly.dotnet6.zip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/api/
 file.spotify.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin
 fj.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 forcorpor.com,Possible Cobalt Strike C2 Domain,/dpixel
-github.com,Possible Cobalt Strike C2 Fronting Domain,/jp.css
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html
@@ -308,7 +308,6 @@ route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain,/owa/
 s3amzn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 sacs.dashuaibi.cf,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
-secureservices.fun,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-04nl8z8p-1300276284.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm

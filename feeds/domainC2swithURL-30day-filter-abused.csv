@@ -175,6 +175,7 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
+domeal.com,Possible PoshC2 Fronting Domain,/web/20110920084728/
 down.dlsec.eu.org,Possible Cobalt Strike C2 Domain,/sugrec
 download.chanenergy.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/03/29136388_
 dpp.zhuoeye.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
