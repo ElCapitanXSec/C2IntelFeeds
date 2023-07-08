@@ -51,6 +51,7 @@
 "dlsec.eu.org","Possible Cobaltstrike DNS C2 Domain","1.13.160.239","down.dlsec.eu.org pass.dlsec.eu.org"
 "dnehtb.cn","Possible Cobaltstrike DNS C2 Domain","139.155.145.128","ns1.dnehtb.cn ns2.dnehtb.cn"
 "dnslive.top","Possible Cobaltstrike DNS C2 Domain","198.44.169.19","ns1.dnslive.top ns2.dnslive.top"
+"dnslogs.eu.org","Possible Cobaltstrike DNS C2 Domain","124.222.14.232","e.dnslogs.eu.org"
 "dnsrd.com","Possible Cobaltstrike DNS C2 Domain","193.178.210.203","ns.msazure.dnsrd.com"
 "doctordanm.com","Possible Cobaltstrike DNS C2 Domain","54.196.194.166","salt.doctordanm.com"
 "dreamwellfarms.com","Possible Cobaltstrike DNS C2 Domain","52.90.52.159","primary.dreamwellfarms.com"
