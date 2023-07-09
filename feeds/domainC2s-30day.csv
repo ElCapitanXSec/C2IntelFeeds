@@ -197,7 +197,6 @@ give.acemindtechnology.com,Possible Cobalt Strike C2 Domain
 google.com,Possible Cobalt Strike C2 Fronting Domain
 google.ru,Possible Cobalt Strike C2 Fronting Domain
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain
-greencorp.pro,Possible Cobalt Strike C2 Domain
 groupline.org,Possible Cobalt Strike C2 Domain
 guest.grovedentalpractice.com,Possible Cobalt Strike C2 Domain
 gwgp-qgrtsasseax.n.bdcloudapi.com,Possible Cobalt Strike C2 Domain
@@ -419,7 +418,6 @@ omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain
-oss-update.duckdns.org,Possible Cobalt Strike C2 Domain
 outlook.live.com,Possible Cobalt Strike C2 Fronting Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
@@ -458,7 +456,6 @@ res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain
 rinonizexa.com,Possible Cobalt Strike C2 Fronted Domain
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
-route.muenchner-finanzhilfe.workers.dev,Possible Cobalt Strike C2 Domain
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 rtlab-zeus.com,Possible PoshC2 Domain
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain
@@ -514,7 +511,6 @@ service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-iby8w5fq-1306407718.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-in1v1ia6-1256578115.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ivfpu96s-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-j7rl21xg-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jcetme20-1314507962.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-js8jhgzk-1302739990.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jvv5aomb-1305465584.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -641,7 +637,9 @@ www.micorsoft.live,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
 www.microsofer.top,Possible Cobalt Strike C2 Domain
 www.microsoft-info.org,Possible Cobalt Strike C2 Domain
+www.muenchner-finanzhilfe.com,Possible Cobalt Strike C2 Domain
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain
+www.newbing.fyi,Possible Cobalt Strike C2 Domain
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain

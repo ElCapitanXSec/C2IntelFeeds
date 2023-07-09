@@ -234,5 +234,6 @@
 ^m\.ctrip\.com,
 ^consumer-img\.huawei\.com,
 \.huawei\.com,
+^cloudflare\.net,
 ^http,
 ^https,
