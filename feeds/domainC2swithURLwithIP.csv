@@ -54,6 +54,7 @@ cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.142.52
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.122
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones,45.152.115.128
+cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.172.206.242
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html,194.50.153.108
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
