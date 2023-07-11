@@ -430,7 +430,6 @@ resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain
 rinonizexa.com,Possible Cobalt Strike C2 Fronted Domain
 riot-uat-api-west.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
-rtlab-zeus.com,Possible PoshC2 Domain
 ru-3.myegov.eu,Possible Cobalt Strike C2 Domain
 s3amzn.com,Possible Cobalt Strike C2 Domain
 sacs.dashuaibi.cf,Possible Cobalt Strike C2 Domain
@@ -543,6 +542,7 @@ tube.standof365.cf,Possible Cobalt Strike C2 Domain
 tvchanel.org,Possible Cobalt Strike C2 Domain
 uhtincswa.cf,Possible Cobalt Strike C2 Domain
 un.zxc.rocks,Possible Cobalt Strike C2 Domain
+upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain
@@ -605,6 +605,7 @@ www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain
+www.servicedesk-internal.com,Possible Cobalt Strike C2 Domain
 www.strategigears.com,Possible Cobalt Strike C2 Domain
 www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain
 www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain
