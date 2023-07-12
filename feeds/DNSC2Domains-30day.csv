@@ -26,7 +26,7 @@
 "centos-yum.net","Possible Cobaltstrike DNS C2 Domain","139.180.144.171","ns1.centos-yum.net ns2.centos-yum.net"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "ceshi897.cn","Possible Cobaltstrike DNS C2 Domain","45.152.67.162","www1.ceshi897.cn www2.ceshi897.cn www3.ceshi897.cn"
-"chanenergy.com","Possible Cobaltstrike DNS C2 Domain","45.136.245.12","download.chanenergy.com ns_1.chanenergy.com ns_2.chanenergy.com"
+"chanenergy.com","Possible Cobaltstrike DNS C2 Domain","45.136.245.12 ","download.chanenergy.com ns_1.chanenergy.com ns_2.chanenergy.com"
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"
 "chenda.xyz","Possible Cobaltstrike DNS C2 Domain","106.55.180.110 111.230.194.172","qq.chenda.xyz"
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","54.199.86.237","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
