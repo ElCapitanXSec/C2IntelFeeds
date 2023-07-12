@@ -423,6 +423,7 @@ office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/api/info
 oldredtoolbox.com.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3
 osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
@@ -559,6 +560,7 @@ study.gleeze.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 success.ehealthsimplified.com,Possible Cobalt Strike C2 Domain,/j.ad
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
 support.npmstatic.com,Possible Cobalt Strike C2 Domain,/index.jsp
+sweet.bnbanker.com,Possible Cobalt Strike C2 Domain,/j.ad
 t1.allyun.info,Possible Cobalt Strike C2 Domain,/activity
 t2.allyun.info,Possible Cobalt Strike C2 Domain,/ga.js
 takaelot.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
