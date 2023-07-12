@@ -431,7 +431,6 @@ ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/api/info,107.175.111.199
 oldredtoolbox.com.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,34.220.153.113
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,104.200.67.121
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3,123.249.104.83
-osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,47.108.239.81
 outlook.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/dpixel,18.193.48.7
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca,45.76.90.103
 partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,52.142.187.48
@@ -645,7 +644,6 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout,43.154.88.249
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout,43.154.88.249
 www.51menke.com,Possible Cobalt Strike C2 Fronted Domain,/owa,190.92.227.227
-www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,47.108.239.81
 www.atomscience.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.168.175.120
 www.atomscience.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.168.175.122
 www.axxnxx.xyz,Possible Cobalt Strike C2 Domain,/api/3,20.239.64.43

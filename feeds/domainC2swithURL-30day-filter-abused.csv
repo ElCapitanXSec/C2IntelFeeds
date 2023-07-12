@@ -407,7 +407,6 @@ ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/api/info
 oldredtoolbox.com.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3
-osce12-0-sc.url.asiainfo-sec.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 outlook.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/dpixel
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ca
 partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
@@ -598,7 +597,6 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout
 www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.51menke.com,Possible Cobalt Strike C2 Fronted Domain,/owa
-www.appinn.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 www.atomscience.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.axxnxx.xyz,Possible Cobalt Strike C2 Domain,/api/3
 www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain,/process.jsp
