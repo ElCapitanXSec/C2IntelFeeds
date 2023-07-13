@@ -446,6 +446,7 @@ onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload,20.190.42.1
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3,123.249.104.83
 outlook.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/dpixel,18.193.48.7
 partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,52.142.187.48
+pay.unionpayinte.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.100.69.48
 payload.su,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0522950/field-keywords=books,45.12.253.184
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/dz,23.106.215.194
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/mk,23.106.215.194
