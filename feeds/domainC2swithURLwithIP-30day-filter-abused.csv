@@ -418,7 +418,7 @@ ntlm.duckdns.org,Possible Cobalt Strike C2 Domain,/XEVendor,95.214.11.213
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js,39.105.107.87
 oeewbovon.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js,107.182.24.234
-ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/api/info,107.175.111.199
+ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/admin/info,107.175.111.199
 oldredtoolbox.com.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,34.220.153.113
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,104.200.67.121
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain,/api/3,123.249.104.83
