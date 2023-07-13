@@ -1,5 +1,4 @@
 #domain,ioc,uri_path,ip
-16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout,43.154.88.249
 360sec.cloud,Possible Cobalt Strike C2 Domain,/restapi/soa2/21881/json/gethotdestination,154.213.64.87
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,150.158.75.102
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search,39.104.76.226
@@ -14,7 +13,6 @@ accessinfonet.com,Possible Cobalt Strike C2 Domain,/an,178.33.187.132
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/an,194.50.153.24
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/favicon,178.33.187.132
 accessinfonet.com,Possible Cobalt Strike C2 Domain,/favicon,194.50.153.24
-admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain,/api/logout,43.154.88.249
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js,104.168.53.18
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js,194.50.153.115
@@ -626,8 +624,6 @@ vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.81
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js,112.213.125.213
 web.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.81.63.59
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
-www.16-fa.pw,Possible Cobalt Strike C2 Domain,/api/logout,43.154.88.249
-www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain,/api/logout,43.154.88.249
 www.51menke.com,Possible Cobalt Strike C2 Fronted Domain,/owa,190.92.227.227
 www.atomscience.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.168.175.120
 www.atomscience.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.168.175.122

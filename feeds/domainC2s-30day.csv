@@ -1,5 +1,4 @@
 #domain,ioc
-16-fa.pw,Possible Cobalt Strike C2 Fronted Domain
 360.cn,Possible Cobalt Strike C2 Fronting Domain
 360sec.cloud,Possible Cobalt Strike C2 Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
@@ -12,7 +11,6 @@ aaa.ad4min.com,Possible Cobalt Strike C2 Domain
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain
 accessdevsolutions.com,Possible Cobalt Strike C2 Domain
 accessinfonet.com,Possible Cobalt Strike C2 Domain
-admin.16-fa.pw,Possible Cobalt Strike C2 Fronted Domain
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain
 adspirenetwork.com,Possible Cobalt Strike C2 Domain
 ailbaba.shop,Possible Cobalt Strike C2 Domain
@@ -567,8 +565,6 @@ vpn.comchinantp.com,Possible Cobalt Strike C2 Domain
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain
 web.comchinantp.com,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
-www.16-fa.pw,Possible Cobalt Strike C2 Domain
-www.16-fa.pw,Possible Cobalt Strike C2 Fronting Domain
 www.51menke.com,Possible Cobalt Strike C2 Fronted Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
 www.atomscience.cn,Possible Cobalt Strike C2 Domain
