@@ -105,6 +105,7 @@
 "softproxyapi.com","Possible Cobaltstrike DNS C2 Domain","45.152.115.128","cdn.softproxyapi.com"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
 "staticjs.xyz","Possible Cobaltstrike DNS C2 Domain","111.230.26.9","ns1.staticjs.xyz"
+"tiktocek.net","Possible Cobaltstrike DNS C2 Domain","216.238.73.189","op1.tiktocek.net op2.tiktocek.net"
 "tsix.synology.me","Possible Cobaltstrike DNS C2 Domain","223.166.224.11","tsix.synology.me"
 "union-pay.vip","Possible Cobaltstrike DNS C2 Domain","43.138.10.93","www.union-pay.vip"
 "unionpayinte.com","Possible Cobaltstrike DNS C2 Domain","39.100.69.48","pay.unionpayinte.com"
