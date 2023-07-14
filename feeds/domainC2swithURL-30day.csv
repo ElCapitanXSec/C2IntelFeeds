@@ -551,6 +551,7 @@ support.npmstatic.com,Possible Cobalt Strike C2 Domain,/index.jsp
 sweet.bnbanker.com,Possible Cobalt Strike C2 Domain,/j.ad
 t1.allyun.info,Possible Cobalt Strike C2 Domain,/activity
 t2.allyun.info,Possible Cobalt Strike C2 Domain,/ga.js
+ta.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif
 takaelot.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 telegramexport.xyz,Possible Cobalt Strike C2 Domain,/dpixel
 ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
@@ -568,14 +569,15 @@ tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+tu.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink
 uhtincswa.cf,Possible Cobalt Strike C2 Domain,/visit.js
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/load
 upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/dpixel
-update.microsofthk.com,Possible Cobalt Strike C2 Domain,/updates.rss
-update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ca
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/load
+update.microsofthk.com,Possible Cobalt Strike C2 Domain,/cm
+update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/activity
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -602,6 +604,7 @@ vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/ca
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wbufrkbv.gofunhome.buzz,Possible Cobalt Strike C2 Domain,/bootstrap/5.1.8/js/bootstrap.min.js
 web.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+win-update.co,Possible Cobalt Strike C2 Domain,/activity
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.51menke.com,Possible Cobalt Strike C2 Fronted Domain,/owa
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/jquery.js
