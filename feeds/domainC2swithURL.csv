@@ -104,6 +104,7 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 domeal.com,Possible PoshC2 Fronting Domain,/web/20110920084728/
+download.baidumusic.cloud,Possible Cobalt Strike C2 Domain,/api/broadcast/index
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
@@ -296,6 +297,7 @@ seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-04nl8z8p-1300276284.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm
 service-04nl8z8p-1300276284.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj
+service-115i4sx8-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/news/details
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-2rki087f-1305465584.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-305i3eef-1308887114.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
