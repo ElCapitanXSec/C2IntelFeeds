@@ -68,7 +68,7 @@
 "killbaidu.cn","Possible Cobaltstrike DNS C2 Domain","119.13.90.176","ns.killbaidu.cn"
 "liveritehealthcare.com","Possible Cobaltstrike DNS C2 Domain","52.90.87.208","lecture.liveritehealthcare.com"
 "localtoast.co.za","Possible Cobaltstrike DNS C2 Domain","137.184.25.81","dt.localtoast.co.za"
-"mammothspoon.xyz","Possible Cobaltstrike DNS C2 Domain","123.56.75.209","ns2.mammothspoon.xyz"
+"mammothspoon.xyz" ,"Possible Cobaltstrike DNS C2 Domain","123.56.75.209","ns2.mammothspoon.xyz"
 "michiganlocking.com","Possible Cobaltstrike DNS C2 Domain","193.36.119.209","ns3.michiganlocking.com ns4.michiganlocking.com"
 "microsoft-cloud-upload.com","Possible Cobaltstrike DNS C2 Domain","123.60.84.194","data.microsoft-cloud-upload.com"
 "microsoft-hk.com","Possible Cobaltstrike DNS C2 Domain","124.220.19.234","cdn.microsoft-hk.com"
