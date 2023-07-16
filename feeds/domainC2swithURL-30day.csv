@@ -168,6 +168,7 @@ dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
 e.dnslogs.eu.org,Possible Cobalt Strike C2 Domain,/visit.js
 ec2-cs01-verify.ossaliyun.info,Possible Cobalt Strike C2 Domain,/load
+edg.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/
 edusupport.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lib/v2/wcp-consent.js
 er.sky.florist,Possible Cobalt Strike C2 Domain,/load
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/fwlink

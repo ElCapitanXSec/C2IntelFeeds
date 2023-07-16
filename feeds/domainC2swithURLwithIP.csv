@@ -116,6 +116,7 @@ download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownlo
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php,137.184.25.81
 e.dnslogs.eu.org,Possible Cobalt Strike C2 Domain,/visit.js,124.222.14.232
+edg.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/,166.1.18.100
 edusupport.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lib/v2/wcp-consent.js,112.74.184.37
 er.sky.florist,Possible Cobalt Strike C2 Domain,/load,88.214.26.100
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,181.214.39.102
