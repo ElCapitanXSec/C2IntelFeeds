@@ -15,8 +15,6 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
 ailbaba.shop,Possible Cobalt Strike C2 Domain,/preload
-aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/html.js
-aleagroupdevelopment.com,Possible Cobalt Strike C2 Domain,/ku.js
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user
 amazon.co.jp,Possible Cobalt Strike C2 Fronting Domain,/logo
 antegivi.com,Possible Cobalt Strike C2 Domain,/updates.rss
@@ -480,7 +478,6 @@ service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/check
 service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 service-4yorw5on-1310046338.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s
-service-536yrr0s-1305465584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 service-5xhfsa5m-1258216230.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -533,7 +530,6 @@ service-nlajk04n-1255951368.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-nlta6hhr-1313209854.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/index/
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-pvg8218j-1259498982.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity
 service-qzmgx5a9-1256327773.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
