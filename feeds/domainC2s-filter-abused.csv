@@ -54,6 +54,7 @@ core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
 cs.p0dan.site,Possible Cobalt Strike C2 Domain
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain
+cs45.gamesmetaa.com,Possible Cobalt Strike C2 Domain
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain
 d11lqfjylv7hzs.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
@@ -134,7 +135,6 @@ lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 mail.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain
-megacorp.pw,Possible Cobalt Strike C2 Fronting Domain
 mgty274.app,Possible Cobalt Strike C2 Fronted Domain
 microsoftservice.ml,Possible Cobalt Strike C2 Domain
 midasusme.uk,Possible Cobalt Strike C2 Domain
@@ -257,7 +257,6 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
-resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain
 rw1.sentrysource.com,Possible Cobalt Strike C2 Domain
 s3amzn.com,Possible Cobalt Strike C2 Domain
 sacs.dashuaibi.cf,Possible Cobalt Strike C2 Domain
