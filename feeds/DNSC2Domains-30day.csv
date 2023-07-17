@@ -105,7 +105,7 @@
 "mo4.xyz","Possible Cobaltstrike DNS C2 Domain","158.247.221.28","k.mo4.xyz"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
 "myazureonline.com","Possible Cobaltstrike DNS C2 Domain","164.92.169.139","ns1.myazureonline.com"
-"niggerasssys.com","Possible Cobaltstrike DNS C2 Domain","167.179.114.165"," ns1.niggerasssys.com ns2.niggerasssys.com"
+"niggerasssys.com","Possible Cobaltstrike DNS C2 Domain","167.179.114.165","ns1.niggerasssys.com ns2.niggerasssys.com"
 "njzjamc.cloud","Possible Cobaltstrike DNS C2 Domain","124.222.32.173","ns1.njzjamc.cloud ns2.njzjamc.cloud ns3.njzjamc.cloud"
 "npmstatic.com","Possible Cobaltstrike DNS C2 Domain","54.91.23.205","help.npmstatic.com support.npmstatic.com"
 "officeappsreviews.com","Possible Cobaltstrike DNS C2 Domain","146.70.79.23","acc.officeappsreviews.com exl.officeappsreviews.com ppt.officeappsreviews.com"
@@ -151,4 +151,3 @@
 "yahu360.space","Possible Cobaltstrike DNS C2 Domain","75.127.13.201","n1.yahu360.space"
 "zhuoeye.com","Possible Cobaltstrike DNS C2 Domain","107.189.31.184","dpp.zhuoeye.com"
 "zxc.rocks","Possible Cobaltstrike DNS C2 Domain","88.214.27.53","un.zxc.rocks"
-
