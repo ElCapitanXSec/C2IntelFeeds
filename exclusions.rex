@@ -236,5 +236,6 @@
 \.huawei\.com,
 ^njohsp\.gov,
 ^cloudflare\.net,
+^askubuntu\.com,
 ^http,
 ^https,
