@@ -234,6 +234,7 @@
 ^m\.ctrip\.com,
 ^consumer-img\.huawei\.com,
 \.huawei\.com,
+^njohsp\.gov,
 ^cloudflare\.net,
 ^http,
 ^https,
