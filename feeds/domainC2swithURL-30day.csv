@@ -88,7 +88,6 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 cloudflare.net,Possible Cobalt Strike C2 Fronted Domain,/ptj
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
-coalafoods.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
@@ -163,7 +162,6 @@ doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 domeal.com,Possible PoshC2 Fronting Domain,/web/20110920084728/
 download.baidumusic.cloud,Possible Cobalt Strike C2 Domain,/api/broadcast/index
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
-dpp.zhuoeye.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 drewgriess.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
@@ -559,13 +557,11 @@ sweet.bnbanker.com,Possible Cobalt Strike C2 Domain,/j.ad
 t1.allyun.info,Possible Cobalt Strike C2 Domain,/activity
 t2.allyun.info,Possible Cobalt Strike C2 Domain,/ga.js
 ta.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif
-takaelot.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 telegramexport.xyz,Possible Cobalt Strike C2 Domain,/dpixel
 ternocorg.cf,Possible Cobalt Strike C2 Domain,/load
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.gin.lol,Possible Cobalt Strike C2 Fronting Domain,/activity
-test.gxzf.site,Possible Cobalt Strike C2 Domain,/article/details
 test1.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 test2.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
 test3.imortal.icu,Possible Cobalt Strike C2 Domain,/search/
@@ -629,7 +625,6 @@ www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.checkupdates50.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 www.citcc.shop,Possible Cobalt Strike C2 Domain,/api/3
 www.cnhile-hl.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
-www.csyml.cyou,Possible Cobalt Strike C2 Domain,/pixel
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.darkerstan.top,Possible Cobalt Strike C2 Domain,/visit.js
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg
