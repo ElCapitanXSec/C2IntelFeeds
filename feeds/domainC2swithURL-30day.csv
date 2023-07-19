@@ -149,7 +149,7 @@ dns.djn.blue,Possible Cobalt Strike C2 Domain,/api
 dns.exploitresearch.art,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
-dns.incididunt.com,Possible Cobalt Strike C2 Domain,/pixel.gif
+dns.incididunt.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/ptj
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/push
@@ -203,7 +203,7 @@ huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain,/eso.html
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 imap.hopto.org,Possible Cobalt Strike C2 Domain,/www/handle/docs
-incididunt.com,Possible Cobalt Strike C2 Domain,/updates.rss
+incididunt.com,Possible Cobalt Strike C2 Domain,/dot.gif
 independent.vittoriocas137.workers.dev,Possible Cobalt Strike C2 Domain,/poll
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js
 info.gtjas.site,Possible Cobalt Strike C2 Domain,/functionalStatus/TqKwawSVfLIhmsolAo7M2TzcQ8
@@ -419,7 +419,7 @@ op1.tiktocek.net,Possible Cobalt Strike C2 Domain,/cx
 op2.tiktocek.net,Possible Cobalt Strike C2 Domain,/fwlink
 outlook.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/dpixel
 partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
-pay.unionpayinte.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+pay.unionpayinte.com,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js
 payload.su,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0522950/field-keywords=books
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/dz
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/mk
@@ -575,7 +575,6 @@ trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 tu.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink
-uhtincswa.cf,Possible Cobalt Strike C2 Domain,/visit.js
 un.zxc.rocks,Possible Cobalt Strike C2 Domain,/load
 upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
