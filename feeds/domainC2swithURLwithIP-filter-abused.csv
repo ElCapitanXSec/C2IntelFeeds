@@ -11,7 +11,7 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js,194.50.153.115
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.115
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push,47.75.108.68
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity,47.75.108.68
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel,54.199.248.162
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,198.199.90.49
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,2604:a880:400:d0:0:0:1739:8001
@@ -129,8 +129,8 @@ info.gtjas.site,Possible Cobalt Strike C2 Domain,/functionalStatus/TqKwawSVfLIhm
 io.cy789.ml,Possible Cobalt Strike C2 Fronting Domain,/broadcast,42.193.252.92
 jkda0aska11.freemyip.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,46.29.160.43
 jquery.elf33ferr.eu.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,84.21.171.174
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel,8.212.49.116
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel.gif,8.212.44.149
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel.gif,8.212.49.116
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html,47.93.51.191
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM,158.247.221.28
 kihurij.com,Possible Cobalt Strike C2 Domain,/Demo/Internet/FT2F740QMYJ,157.254.194.77
@@ -343,6 +343,8 @@ sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 sport-program.com,Possible Cobalt Strike C2 Domain,/Disable/fileadmin/GC2W8LORKCTB,146.70.161.20
 ss.rlfslie.cloud,Possible Cobalt Strike C2 Domain,/j.ad,199.195.253.124
+static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA,43.143.145.131
+static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/Display/chan/IB61I7MYA,43.143.145.131
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/as.css,194.50.153.12
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/fam_calendar,194.50.153.12
 success.ehealthsimplified.com,Possible Cobalt Strike C2 Domain,/j.ad,54.196.123.144
