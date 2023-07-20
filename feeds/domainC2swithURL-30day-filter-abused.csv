@@ -136,7 +136,7 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 dns.creditcarsca.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.djn.blue,Possible Cobalt Strike C2 Domain,/api
 dns.exploitresearch.art,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/dot.gif
+dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/updates.rss
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
@@ -168,7 +168,7 @@ fastly.dotnet6.zip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/api/
 file.spotify.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin
 fj.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 fms.myftp.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
-forcorpor.com,Possible Cobalt Strike C2 Domain,/dpixel
+forcorpor.com,Possible Cobalt Strike C2 Domain,/cm
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/match
@@ -251,10 +251,10 @@ note2.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 note3.mcuweb.cf,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js
 notmalware.red-wizard-demo-01.nl,Possible Cobalt Strike C2 Domain,/718acd1d-f3aa-4848-860a-c077e2c59189/
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
+ns.chinare.cf,Possible Cobalt Strike C2 Domain,/poll
 ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/
 ns.killbaidu.cn,Possible Cobalt Strike C2 Domain,/activity
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain,/Windows
-ns.qaxno1.ml,Possible Cobalt Strike C2 Domain,/poll
 ns1.007work.icu,Possible Cobalt Strike C2 Domain,/ca
 ns1.007work.icu,Possible Cobalt Strike C2 Domain,/cm
 ns1.333ling.com,Possible Cobalt Strike C2 Domain,/push
