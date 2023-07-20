@@ -106,6 +106,7 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx,18.205.163.231
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.19
+confrue.z1m3s.xyz,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,124.223.10.136
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/ca,8.140.135.23
@@ -654,6 +655,7 @@ vnet.keshant.com,Possible Cobalt Strike C2 Domain,/api/3,23.106.140.90
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/ca,94.142.141.92
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.81.63.59
 web.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.81.63.59
+werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 win-update.co,Possible Cobalt Strike C2 Domain,/activity,104.236.180.75
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/jquery.js,82.157.145.234
@@ -700,6 +702,7 @@ www.windowupdates.one,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
+xianxiaobai.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,101.34.30.200
 xianxiaobai.top,Possible Cobalt Strike C2 Domain,/updates.rss,101.34.30.200
 xisowah.info,Possible Cobalt Strike C2 Domain,/put/util/AXXRV7P4,185.243.113.173
 xls.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85
