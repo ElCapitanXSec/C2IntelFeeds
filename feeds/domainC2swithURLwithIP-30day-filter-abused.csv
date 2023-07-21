@@ -30,6 +30,7 @@ api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,2604:a880:400:d0:0:0:
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/ptj,47.242.203.102
 apiv4.unemployment-compensation.org,Possible Cobalt Strike C2 Domain,/ui,35.164.156.232
 app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.97.120.142
+arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/cm,119.148.49.49
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/updates.rss,119.148.49.49
 artwest35-dgeygpfqhxgqdeap.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/common/oauth2/v2.0/authorize,3.124.182.176
 as.dsvchost.com,Possible Cobalt Strike C2 Domain,/zh,5.188.87.47
@@ -103,7 +104,6 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca,8.140.135.23
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates,47.107.36.89
-cs.hacker.wang,Possible Cobalt Strike C2 Domain,/activity,43.224.153.57
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson,192.144.231.244
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Domain,/__utm.gif,185.212.56.193
@@ -234,6 +234,8 @@ leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 license.itekgroup.com,Possible Cobalt Strike C2 Domain,/poll,185.234.114.92
 license.itekgroup.com,Possible Cobalt Strike C2 Domain,/poll,193.233.232.230
+license.itekgroup.com,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
+license.werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 lijiang.yunnan.cn,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 linkpop.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin,193.187.173.137
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
