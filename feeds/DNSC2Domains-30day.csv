@@ -1,6 +1,5 @@
 #domain,ioc,IPs,C2Domains
 "007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17 116.205.140.54","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
-"333ling.com","Possible Cobaltstrike DNS C2 Domain","175.24.176.137","ns1.333ling.com ns2.333ling.com"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
 "acemindtechnology.com","Possible Cobaltstrike DNS C2 Domain","44.202.2.233","give.acemindtechnology.com"
@@ -58,7 +57,6 @@
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "ehealthsimplified.com","Possible Cobaltstrike DNS C2 Domain","54.196.123.144","success.ehealthsimplified.com"
 "ergonomic-survey.com","Possible Cobaltstrike DNS C2 Domain","3.237.41.66","prod.ergonomic-survey.com"
-"exploitresearch.art","Possible Cobaltstrike DNS C2 Domain","45.79.125.241","dns.exploitresearch.art"
 "forcorpor.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.73","dns.forcorpor.com forcorpor.com"
 "freeonline-office.com","Possible Cobaltstrike DNS C2 Domain","195.123.225.85","doc.freeonline-office.com mail.freeonline-office.com pdf.freeonline-office.com ppt.freeonline-office.com xls.freeonline-office.com"
 "fuckworldxxx.shop","Possible Cobaltstrike DNS C2 Domain","123.207.51.53","ns1.fuckworldxxx.shop ns2.fuckworldxxx.shop ns3.fuckworldxxx.shop"
@@ -115,12 +113,10 @@
 "ossqianxin.co","Possible Cobaltstrike DNS C2 Domain","204.236.138.252","ns1.ossqianxin.co ns2.ossqianxin.co ns3.ossqianxin.co"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "paaszoo.tk","Possible Cobaltstrike DNS C2 Domain","107.172.206.242","ns1.paaszoo.tk ns2.paaszoo.tk"
-"peermanshuus.bio","Possible Cobaltstrike DNS C2 Domain","78.128.112.201","ns1.peermanshuus.bio ns2.peermanshuus.bio ns3.peermanshuus.bio"
 "plngan.co","Possible Cobaltstrike DNS C2 Domain","1.12.243.112","dns1.plngan.co"
 "pycharm-edu.us","Possible Cobaltstrike DNS C2 Domain","119.91.31.246","ns1.pycharm-edu.us"
 "qaxno1.ml","Possible Cobaltstrike DNS C2 Domain","129.150.43.163","ns.qaxno1.ml"
 "readquotations.com","Possible Cobaltstrike DNS C2 Domain","44.211.149.61","vegetable.readquotations.com"
-"readteam.cloud","Possible Cobaltstrike DNS C2 Domain","44.200.210.210","jelly.readteam.cloud"
 "red-wizard-demo-01.nl","Possible Cobaltstrike DNS C2 Domain","85.10.134.79","notmalware.red-wizard-demo-01.nl"
 "safesecuredns.co","Possible Cobaltstrike DNS C2 Domain","153.92.5.225","ns1.safesecuredns.co ns2.safesecuredns.co"
 "scant.online","Possible Cobaltstrike DNS C2 Domain","101.201.65.35","ns1.scant.online ns2.scant.online search.scant.online"
@@ -151,4 +147,3 @@
 "xionoll.com","Possible Cobaltstrike DNS C2 Domain","34.235.195.209","ns1.xionoll.com"
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahu360.space","Possible Cobaltstrike DNS C2 Domain","75.127.13.201","n1.yahu360.space"
-
