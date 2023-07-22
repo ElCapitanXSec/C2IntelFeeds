@@ -155,6 +155,7 @@ logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi,139.9.142.162
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css,23.108.57.187
+microsoft-support.zapto.org,Possible PoshC2 Domain,/work/embedded/search/,62.182.159.155
 microsoftservice.ml,Possible Cobalt Strike C2 Domain,/owa/,185.80.202.72
 midasusme.uk,Possible Cobalt Strike C2 Domain,/cm,185.183.94.24
 midasusme.uk,Possible Cobalt Strike C2 Domain,/visit.js,185.183.94.24
