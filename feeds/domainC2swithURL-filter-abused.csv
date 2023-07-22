@@ -29,13 +29,13 @@ bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 bell.dyndns-server.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.2.min.woff2
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js
 binsmob.com,Possible Cobalt Strike C2 Domain,/pixel.gif
+bjb.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
+bjb.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll
+bjbbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll
 bks.loginke.xyz,Possible Cobalt Strike C2 Domain,/js/main.js
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif
-c2c.updatenews.me,Possible Cobalt Strike C2 Domain,/activity
-c2c.updatenews.me,Possible Cobalt Strike C2 Domain,/cx
-c2c.updatenews.me,Possible Cobalt Strike C2 Domain,/match
 c2listx.beauty,Possible Cobalt Strike C2 Domain,/api/3
 c_2_s.flash-cn.top,Possible Cobalt Strike C2 Domain,/cgi-bin/v3.do
 canadiancrafting.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -58,7 +58,6 @@ cobaltstrike1877.duckdns.org,Possible Cobalt Strike C2 Domain,/visit.js
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx
 confrue.z1m3s.xyz,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
@@ -305,7 +304,6 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-h5j54wzu-1301910104.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-j3lu1dcf-1259409518.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s
-service-jbwf158v-1254460102.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/v1/key
 service-jmhic8q0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/abcget0717
 service-jzcboqxy-1301167793.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/news/details
 service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/clemente/details

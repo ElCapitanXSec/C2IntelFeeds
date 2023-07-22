@@ -50,6 +50,9 @@ bell.dyndns-server.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.2.mi
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js,45.66.151.195
 binsmob.com,Possible Cobalt Strike C2 Domain,/pixel.gif,31.44.184.74
 biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,47.109.79.81
+bjb.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,206.189.107.207
+bjb.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,206.189.107.207
+bjbbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,206.189.107.207
 bks.loginke.xyz,Possible Cobalt Strike C2 Domain,/js/main.js,117.50.163.113
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad,54.145.9.123
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY,23.106.215.237
@@ -98,6 +101,7 @@ chinaratings.getsec.cc,Possible Cobalt Strike C2 Domain,/activity,43.135.155.35
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css,103.57.228.100
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css,103.57.228.101
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css,103.57.228.102
+cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css,103.57.228.98
 cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad,104.223.121.37
 cloudflare.net,Possible Cobalt Strike C2 Fronted Domain,/ptj,49.13.56.4
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3,101.35.4.152

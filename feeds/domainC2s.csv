@@ -29,11 +29,13 @@ bell.dyndns-server.com,Possible Cobalt Strike C2 Domain
 bell.dyndns-server.com,Possible Cobalt Strike C2 Fronted Domain
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain
 binsmob.com,Possible Cobalt Strike C2 Domain
+bjb.msoffice2.com,Possible Cobalt Strike C2 Domain
+bjb.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain
+bjbbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain
 bks.loginke.xyz,Possible Cobalt Strike C2 Domain
 block.health-degree.com,Possible Cobalt Strike C2 Domain
 bopever.co,Possible Cobalt Strike C2 Domain
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain
-c2c.updatenews.me,Possible Cobalt Strike C2 Domain
 c2listx.beauty,Possible Cobalt Strike C2 Domain
 c_2_s.flash-cn.top,Possible Cobalt Strike C2 Domain
 canadiancrafting.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -59,8 +61,6 @@ comvest.azureedge.net,Possible Cobalt Strike C2 Domain
 confrue.z1m3s.xyz,Possible Cobalt Strike C2 Domain
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
 cs.p0dan.site,Possible Cobalt Strike C2 Domain
@@ -307,7 +307,6 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-h5j54wzu-1301910104.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-j3lu1dcf-1259409518.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-jbwf158v-1254460102.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jmhic8q0-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jzcboqxy-1301167793.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
