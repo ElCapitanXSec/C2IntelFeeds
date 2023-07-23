@@ -87,6 +87,7 @@ cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/api/x
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push
 cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js
+cerpotionfe.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html
 charlie-twice.suiteb.io,Possible Cobalt Strike C2 Domain,/owa/
 check.htl502.tech,Possible Cobalt Strike C2 Domain,/ca
