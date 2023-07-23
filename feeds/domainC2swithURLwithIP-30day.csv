@@ -47,6 +47,9 @@ baidu.hao012.tk,Possible Cobalt Strike C2 Domain,/updates.rss,139.224.189.177
 baidu.moonsir.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,150.158.13.117
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,102.117.160.163
 bell.dyndns-server.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.2.min.woff2,102.117.172.229
+bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,178.62.216.199
+bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,178.62.216.199
+biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,178.62.216.199
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js,45.66.151.195
 binsmob.com,Possible Cobalt Strike C2 Domain,/pixel.gif,31.44.184.74
 biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,47.109.79.81
@@ -55,6 +58,9 @@ bjb.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,206.189.107.20
 bjbbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,206.189.107.207
 bks.loginke.xyz,Possible Cobalt Strike C2 Domain,/js/main.js,117.50.163.113
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad,54.145.9.123
+blt.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,161.35.155.87
+blt.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,161.35.155.87
+bltbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,161.35.155.87
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY,23.106.215.237
 c1.haopangnie.top,Possible Cobalt Strike C2 Domain,/visit.js,121.40.147.169
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif,124.220.29.161
@@ -534,6 +540,7 @@ service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.4.52.176
 service-bvc0c0em-1309275416.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.148.219
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.138.212.90
+service-dafg2f39-1307026294.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj,121.196.200.132
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,117.50.174.131
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.93.112
@@ -572,6 +579,7 @@ service-mitx0ap6-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
 service-mxnrshfx-1300276284.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,47.103.95.2
 service-n232999m-1258583189.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/azure/cloud/api/v2/05c284a1a387e,38.60.46.162
+service-n232999m-1258583189.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/azure/cloud/api/v2/05c284a1a387e,38.60.47.63
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/j.ad,101.34.18.221
 service-nlajk04n-1255951368.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,101.34.214.82
 service-nlta6hhr-1313209854.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/index/,38.147.172.149
@@ -622,6 +630,7 @@ trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove,52.70.254.144
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,223.166.224.11
 tu.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,103.52.154.82
 tube.standof365.cf,Possible Cobalt Strike C2 Domain,/fwlink,194.87.46.87
+tw.aptce4.top,Possible Cobalt Strike C2 Domain,/load,23.94.240.64
 unbreakable.live,Possible Cobalt Strike C2 Domain,/g.pixel,107.173.153.171
 unbreakable.live,Possible Cobalt Strike C2 Domain,/match,107.173.153.171
 upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js,5.8.18.240
