@@ -8,6 +8,7 @@
 "amz-proxy.net","Possible Cobaltstrike DNS C2 Domain","139.180.144.171","ns1.amz-proxy.net ns2.amz-proxy.net"
 "anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.196.13.153","ns1.anaitea.com ns2.anaitea.com"
 "aptce4.top","Possible Cobaltstrike DNS C2 Domain","23.94.240.64","ns1.aptce4.top ns2.aptce4.top"
+"asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "baidu12366.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.167.18","ns1.baidu12366.xyz"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "binsmob.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.74","binsmob.com dns.binsmob.com"
