@@ -129,6 +129,8 @@ fashion4everyone.biz,Possible Cobalt Strike C2 Domain,/Disable/fileadmin/GC2W8LO
 file.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/psCfum-PYqmZ5-gGurMil4V5,216.238.74.154
 forcorpor.com,Possible Cobalt Strike C2 Domain,/cm,31.44.184.73
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad,44.202.2.233
+gold.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,124.220.58.136
+gold.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,124.220.58.136
 groupline.org,Possible Cobalt Strike C2 Domain,/bg,194.50.153.11
 groupline.org,Possible Cobalt Strike C2 Domain,/faq,194.50.153.11
 hufoxapom.us,Possible Cobalt Strike C2 Domain,/calculate/v3.3/9AIEC05QK8H8,104.238.35.74

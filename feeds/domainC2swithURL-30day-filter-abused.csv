@@ -182,6 +182,8 @@ fj.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 fms.myftp.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 forcorpor.com,Possible Cobalt Strike C2 Domain,/cm
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad
+gold.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
+gold.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 groupline.org,Possible Cobalt Strike C2 Domain,/bg
 groupline.org,Possible Cobalt Strike C2 Domain,/faq
 guest.grovedentalpractice.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -408,7 +410,6 @@ pay.unionpayinte.com,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity
-poceretu.co,Possible Cobalt Strike C2 Fronted Domain,/logo
 polkbrothers.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
@@ -467,7 +468,6 @@ service-6a4f07lw-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-80hlrkys-1257781941.jp.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss
 service-84xe26zw-1251950883.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-90jl66ki-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Del/v1.5/U3U9RKXU6
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
