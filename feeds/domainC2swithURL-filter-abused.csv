@@ -105,6 +105,7 @@ dns.veriernano.com,Possible Cobalt Strike C2 Domain,/push
 dns1.plngan.co,Possible Cobalt Strike C2 Domain,/api/getit
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+documentation.azureedge.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 domeal.com,Possible PoshC2 Fronting Domain,/web/20110920084728/
 download.baidumusic.cloud,Possible Cobalt Strike C2 Domain,/api/broadcast/index
 drewgriess.com,Possible Cobalt Strike C2 Domain,/__utm.gif

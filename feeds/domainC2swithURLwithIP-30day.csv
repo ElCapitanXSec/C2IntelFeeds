@@ -195,6 +195,7 @@ dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,159.75.187.222
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.218.129.91
 doc.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin,195.123.225.85
+documentation.azureedge.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,149.28.186.74
 domeal.com,Possible PoshC2 Domain,/web/20110920084728/,13.239.135.152
 download.baidumusic.cloud,Possible Cobalt Strike C2 Domain,/api/broadcast/index,222.186.168.244
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
