@@ -1,4 +1,6 @@
 #domain,ioc,uri_path,ip
+2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js,119.18.157.142
+2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js,119.18.157.142
 360sec.cloud,Possible Cobalt Strike C2 Domain,/restapi/soa2/21881/json/gethotdestination,154.213.64.87
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,150.158.75.102
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search,106.14.12.116
@@ -99,7 +101,6 @@ cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push,107.172.206.242
 cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.172.206.242
 cerpotionfe.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,46.21.153.175
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html,194.50.153.108
-charlie-twice.suiteb.io,Possible Cobalt Strike C2 Domain,/owa/,20.70.191.206
 check.htl502.tech,Possible Cobalt Strike C2 Domain,/ca,101.43.165.220
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
@@ -503,7 +504,6 @@ service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/check,38.147.172.79
 service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 service-4yorw5on-1310046338.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/s,82.156.154.72
-service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,116.62.176.156
 service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,101.35.47.93
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.106.171.201
 service-5xhfsa5m-1258216230.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.242.78.26
@@ -552,7 +552,6 @@ service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ab.html,101.43.165.220
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ab.html,82.157.110.128
 service-kiss7m2t-1305595184.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.143.186.7
-service-lv7umt7y-1315090928.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,45.14.66.194
 service-lxxw7ork-1301466801.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,154.39.81.76
 service-maoif4bl-1313584875.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
@@ -635,8 +634,6 @@ velmeded.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,31.44.184.88
 venustech.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js,39.100.69.48
 venustech.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js,47.92.27.53
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js,31.44.184.63
-vespetrolgroup.com,Possible Cobalt Strike C2 Domain,/ak,192.3.76.142
-vespetrolgroup.com,Possible Cobalt Strike C2 Domain,/ak,194.50.153.35
 vespetrolgroup.com,Possible Cobalt Strike C2 Domain,/ba.html,192.3.76.142
 vespetrolgroup.com,Possible Cobalt Strike C2 Domain,/ba.html,194.50.153.35
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
@@ -680,6 +677,7 @@ www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel,47.75.108.68
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 www.servicedesk-internal.com,Possible Cobalt Strike C2 Domain,/__utm.gif,20.25.6.241
+www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY,43.228.91.212
 www.taxinfoserv1ices.org,Possible Cobalt Strike C2 Fronting Domain,/api/v2/json/resources/modules/list,192.241.155.134
 www.taxinfoservices.org,Possible Cobalt Strike C2 Fronted Domain,/api/v2/json/resources/modules/list,192.241.155.134
 www.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js,43.138.10.93

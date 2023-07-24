@@ -1,4 +1,6 @@
 #domain,ioc
+2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain
+2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain
 360.cn,Possible Cobalt Strike C2 Fronting Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
 6pen.art,Possible Cobalt Strike C2 Fronted Domain
@@ -382,6 +384,7 @@ www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain
 www.newbing.fyi,Possible Cobalt Strike C2 Domain
 www.oracleup.cc,Possible Cobalt Strike C2 Domain
+www.sharksbaby.pro,Possible Cobalt Strike C2 Domain
 www.union-pay.vip,Possible Cobalt Strike C2 Domain
 www.vpnportal.live,Possible Cobalt Strike C2 Fronting Domain
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain

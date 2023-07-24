@@ -1,4 +1,6 @@
 #domain,ioc,uri_path
+2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
+2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 6pen.art,Possible Cobalt Strike C2 Fronted Domain,/toutiao/search
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
@@ -378,6 +380,7 @@ www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/
 www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel
+www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY
 www.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 www.vpnportal.live,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.2.min.woff2
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
