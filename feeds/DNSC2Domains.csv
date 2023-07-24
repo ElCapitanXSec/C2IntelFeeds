@@ -99,6 +99,7 @@
 "softproxyapi.com","Possible Cobaltstrike DNS C2 Domain","45.152.115.128","cdn.softproxyapi.com"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
 "staticjs.xyz","Possible Cobaltstrike DNS C2 Domain","111.230.26.9","ns1.staticjs.xyz"
+"suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "union-pay.vip","Possible Cobaltstrike DNS C2 Domain","43.138.10.93","www.union-pay.vip"
 "unionpayinte.com","Possible Cobaltstrike DNS C2 Domain","39.100.69.48 47.92.27.53","pay.unionpayinte.com"
 "unirorm.xyz","Possible Cobaltstrike DNS C2 Domain","124.220.29.161","c1.unirorm.xyz"

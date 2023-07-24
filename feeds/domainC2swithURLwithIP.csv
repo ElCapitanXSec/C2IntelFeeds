@@ -46,6 +46,7 @@ blt.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,161.35.155.87
 blt.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,161.35.155.87
 bltbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,161.35.155.87
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY,23.106.215.237
+buzubolup.online,Possible Cobalt Strike C2 Domain,/make/corporate/CCX0XBFKBTIP,2.58.15.233
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif,124.220.29.161
 c2listx.beauty,Possible Cobalt Strike C2 Domain,/api/3,110.81.153.75
 c_2_s.flash-cn.top,Possible Cobalt Strike C2 Domain,/cgi-bin/v3.do,134.122.190.146
@@ -60,6 +61,7 @@ cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.142.52
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.155.235
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones,45.152.115.128
+cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.125.214
 cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/api/x,121.4.237.161
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x,121.4.237.161
 cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push,107.172.206.242
@@ -390,7 +392,7 @@ upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js,
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
-update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/load,45.12.138.94
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/g.pixel,45.12.138.94
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/cm,45.12.138.95
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/activity,45.12.138.95
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,198.144.187.19
@@ -408,7 +410,7 @@ venustech.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js,31.44.184.63
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
-vps.cpple.tk,Possible Cobalt Strike C2 Domain,/j.ad,23.234.254.155
+vps.cpple.tk,Possible Cobalt Strike C2 Domain,/ca,23.234.254.155
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,120.79.64.164
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237

@@ -59,6 +59,7 @@ blt.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
 blt.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll
 bltbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY
+buzubolup.online,Possible Cobalt Strike C2 Domain,/make/corporate/CCX0XBFKBTIP
 c1.haopangnie.top,Possible Cobalt Strike C2 Domain,/visit.js
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif
 c2.haopangnie.top,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -85,6 +86,7 @@ cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones
+cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/api/x
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push
@@ -594,7 +596,7 @@ upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
-update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/load
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/g.pixel
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/cm
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/activity
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -621,7 +623,7 @@ vk.com,Possible Cobalt Strike C2 Fronting Domain,/dz
 vnet.keshant.com,Possible Cobalt Strike C2 Domain,/api/3
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/ca
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-vps.cpple.tk,Possible Cobalt Strike C2 Domain,/j.ad
+vps.cpple.tk,Possible Cobalt Strike C2 Domain,/ca
 web.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js

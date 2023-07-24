@@ -134,6 +134,7 @@
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","156.241.132.32 206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com ns1.speech-microsoft.com ns2.speech-microsoft.com"
 "starbucksvip.com","Possible Cobaltstrike DNS C2 Domain","101.132.253.6","ns5.starbucksvip.com ns6.starbucksvip.com"
 "staticjs.xyz","Possible Cobaltstrike DNS C2 Domain","111.230.26.9","ns1.staticjs.xyz"
+"suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "tiktocek.net","Possible Cobaltstrike DNS C2 Domain","216.238.73.189","op1.tiktocek.net op2.tiktocek.net"
 "tsix.synology.me","Possible Cobaltstrike DNS C2 Domain","223.166.224.11","tsix.synology.me"
 "union-pay.vip","Possible Cobaltstrike DNS C2 Domain","43.138.10.93","www.union-pay.vip"

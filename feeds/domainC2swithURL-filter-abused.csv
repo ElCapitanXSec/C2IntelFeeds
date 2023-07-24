@@ -40,6 +40,7 @@ blt.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
 blt.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll
 bltbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY
+buzubolup.online,Possible Cobalt Strike C2 Domain,/make/corporate/CCX0XBFKBTIP
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif
 c2listx.beauty,Possible Cobalt Strike C2 Domain,/api/3
 c_2_s.flash-cn.top,Possible Cobalt Strike C2 Domain,/cgi-bin/v3.do
@@ -49,6 +50,7 @@ cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones
+cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push
 cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -347,7 +349,7 @@ upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
-update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/load
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/g.pixel
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/cm
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/activity
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -363,7 +365,7 @@ velmeded.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 venustech.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
-vps.cpple.tk,Possible Cobalt Strike C2 Domain,/j.ad
+vps.cpple.tk,Possible Cobalt Strike C2 Domain,/ca
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain,/process.jsp
