@@ -104,6 +104,7 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
+creditcheck.ppdai.com,Possible Cobalt Strike C2 Fronted Domain
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
 cs.p0dan.site,Possible Cobalt Strike C2 Domain
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain
@@ -315,6 +316,7 @@ ns1.niggerasssys.com,Possible Cobalt Strike C2 Domain
 ns1.njzjamc.cloud,Possible Cobalt Strike C2 Domain
 ns1.ossqianxin.co,Possible Cobalt Strike C2 Domain
 ns1.paaszoo.tk,Possible Cobalt Strike C2 Domain
+ns1.proxyservice.shop,Possible Cobalt Strike C2 Domain
 ns1.pycharm-edu.us,Possible Cobalt Strike C2 Domain
 ns1.safesecuredns.co,Possible Cobalt Strike C2 Domain
 ns1.scant.online,Possible Cobalt Strike C2 Domain
@@ -400,6 +402,7 @@ oldredtoolbox.com.global.prod.fastly.net,Possible Cobalt Strike C2 Domain
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain
 online.microsoft-online.top,Possible Cobalt Strike C2 Domain
+oob.plazar.xyz,Possible Cobalt Strike C2 Domain
 op1.tiktocek.net,Possible Cobalt Strike C2 Domain
 op2.tiktocek.net,Possible Cobalt Strike C2 Domain
 outlook.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain
@@ -408,6 +411,7 @@ pay.unionpayinte.com,Possible Cobalt Strike C2 Domain
 paypal.com,Possible Cobalt Strike C2 Fronting Domain
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain
+plazar.xyz,Possible Cobalt Strike C2 Domain
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain
 polkbrothers.com,Possible Cobalt Strike C2 Domain
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain
@@ -465,6 +469,7 @@ service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-84xe26zw-1251950883.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-90jl66ki-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -583,6 +588,7 @@ vpn.comchinantp.com,Possible Cobalt Strike C2 Domain
 vps.cpple.tk,Possible Cobalt Strike C2 Domain
 web.comchinantp.com,Possible Cobalt Strike C2 Domain
 werewolves.su,Possible Cobalt Strike C2 Domain
+whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 win-update.co,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain

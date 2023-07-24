@@ -1,7 +1,7 @@
 #domain,ioc,IPs,C2Domains
 "007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17 116.205.140.54","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
-"ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
+"ace3.ru" ,"Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
 "acemindtechnology.com","Possible Cobaltstrike DNS C2 Domain","44.202.2.233","give.acemindtechnology.com"
 "ad4min.com","Possible Cobaltstrike DNS C2 Domain","198.13.42.85","aaa.ad4min.com"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
@@ -113,7 +113,9 @@
 "ossqianxin.co","Possible Cobaltstrike DNS C2 Domain","204.236.138.252","ns1.ossqianxin.co ns2.ossqianxin.co ns3.ossqianxin.co"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "paaszoo.tk","Possible Cobaltstrike DNS C2 Domain","107.172.206.242","ns1.paaszoo.tk ns2.paaszoo.tk"
+"plazar.xyz","Possible Cobaltstrike DNS C2 Domain","51.68.174.80","oob.plazar.xyz"
 "plngan.co","Possible Cobaltstrike DNS C2 Domain","1.12.243.112","dns1.plngan.co"
+"proxyservice.shop","Possible Cobaltstrike DNS C2 Domain","124.221.58.61","ns1.proxyservice.shop"
 "pycharm-edu.us","Possible Cobaltstrike DNS C2 Domain","119.91.31.246","ns1.pycharm-edu.us"
 "qaxno1.ml","Possible Cobaltstrike DNS C2 Domain","129.150.43.163","ns.qaxno1.ml"
 "readquotations.com","Possible Cobaltstrike DNS C2 Domain","44.211.149.61","vegetable.readquotations.com"
