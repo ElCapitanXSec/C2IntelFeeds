@@ -100,6 +100,7 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
 creditcheck.ppdai.com,Possible Cobalt Strike C2 Fronted Domain
+cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
 cs.p0dan.site,Possible Cobalt Strike C2 Domain
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain
@@ -392,7 +393,6 @@ oob.plazar.xyz,Possible Cobalt Strike C2 Domain
 op1.tiktocek.net,Possible Cobalt Strike C2 Domain
 op2.tiktocek.net,Possible Cobalt Strike C2 Domain
 outlook.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain
-partnerinhr.co.uk.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
 pay.unionpayinte.com,Possible Cobalt Strike C2 Domain
 pdf.freeonline-office.com,Possible Cobalt Strike C2 Domain
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain
@@ -532,6 +532,7 @@ test.kolunbia.com,Possible Cobalt Strike C2 Domain
 test1.imortal.icu,Possible Cobalt Strike C2 Domain
 test2.imortal.icu,Possible Cobalt Strike C2 Domain
 test3.imortal.icu,Possible Cobalt Strike C2 Domain
+teste.mac4.eco.br,Possible Cobalt Strike C2 Fronted Domain
 testinfo.top,Possible Cobalt Strike C2 Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Domain
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain
