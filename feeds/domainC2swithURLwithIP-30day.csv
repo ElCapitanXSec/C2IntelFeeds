@@ -124,6 +124,8 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,6
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js,192.144.198.126
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,139.180.144.171
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
+company1.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,118.195.181.106
+company1.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,118.195.181.106
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx,18.205.163.231
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.19
 confrue.z1m3s.xyz,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,124.223.10.136

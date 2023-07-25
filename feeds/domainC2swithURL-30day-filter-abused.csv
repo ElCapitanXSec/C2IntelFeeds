@@ -99,6 +99,8 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 cobaltstrike1877.duckdns.org,Possible Cobalt Strike C2 Domain,/visit.js
+company1.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
+company1.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx
 configupdate.com,Possible Cobalt Strike C2 Domain,/ku.js
 confrue.z1m3s.xyz,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/

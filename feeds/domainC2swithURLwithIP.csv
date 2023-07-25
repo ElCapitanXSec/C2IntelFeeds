@@ -81,6 +81,8 @@ cobaltstrike1877.duckdns.org,Possible Cobalt Strike C2 Domain,/visit.js,45.81.23
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js,192.144.198.126
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,139.180.144.171
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
+company1.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,118.195.181.106
+company1.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,118.195.181.106
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx,18.205.163.231
 confrue.z1m3s.xyz,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,124.223.10.136
 consumer-img.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
@@ -373,7 +375,6 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 sport-program.com,Possible Cobalt Strike C2 Domain,/Disable/fileadmin/GC2W8LORKCTB,146.70.161.20
 sport-program.com,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg,146.70.161.20
-ss.rlfslie.cloud,Possible Cobalt Strike C2 Domain,/j.ad,199.195.253.124
 static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA,43.143.145.131
 static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/Display/chan/IB61I7MYA,43.143.145.131
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/as.css,194.50.153.12
