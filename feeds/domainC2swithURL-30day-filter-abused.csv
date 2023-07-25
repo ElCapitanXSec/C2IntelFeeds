@@ -241,6 +241,7 @@ lumswestnewyork.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
 m.qq.com,Possible Cobalt Strike C2 Fronting Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
 m7py7pju95.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/en-us/p/book-2/8MCPZJJCC98C
+mahamaya1ifesciences.com,Possible Cobalt Strike C2 Fronting Domain,/metro91/admin/1/ppptp.jpg
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mail.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 mail.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/ca
@@ -462,6 +463,7 @@ service-0gfsz81a-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-0odwwo2z-1256327773.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-115i4sx8-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/news/details
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
+service-1no61otq-1255887418.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel
 service-2r21z5dz-1258209792.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-2rki087f-1305465584.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-305i3eef-1308887114.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -543,7 +545,7 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solutions.calibet.solutions,Possible Cobalt Strike C2 Fronted Domain,/api/x
 sport-program.com,Possible Cobalt Strike C2 Domain,/Disable/fileadmin/GC2W8LORKCTB
-sport-program.com,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg
+sport-program.com,Possible Cobalt Strike C2 Fronted Domain,/metro91/admin/1/ppptp.jpg
 ss.rlfslie.cloud,Possible Cobalt Strike C2 Domain,/j.ad
 static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA
 static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/Display/chan/IB61I7MYA
