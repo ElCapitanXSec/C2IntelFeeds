@@ -168,6 +168,7 @@ lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
 m.qq.com,Possible Cobalt Strike C2 Fronting Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css
+miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoft-support.zapto.org,Possible PoshC2 Fronting Domain,/work/embedded/search/
 microsoftservice.ml,Possible Cobalt Strike C2 Domain,/owa/
 midasusme.uk,Possible Cobalt Strike C2 Domain,/cm
@@ -319,6 +320,7 @@ service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-bvc0c0em-1309275416.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-dafg2f39-1307026294.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj
+service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -412,6 +414,8 @@ www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/
 www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY
+www.test9977.tk,Possible Cobalt Strike C2 Domain,/__utm.gif
+www.test9977.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js
 www.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 www.vpnportal.live,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.2.min.woff2
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
