@@ -65,7 +65,6 @@
 "liveritehealthcare.com","Possible Cobaltstrike DNS C2 Domain","52.90.87.208","lecture.liveritehealthcare.com"
 "localtoast.co.za","Possible Cobaltstrike DNS C2 Domain","137.184.25.81","dt.localtoast.co.za"
 "mammothspoon.xyz","Possible Cobaltstrike DNS C2 Domain","123.56.75.209","ns2.mammothspoon.xyz"
-"mdstech.com.tw","Possible Cobaltstrike DNS C2 Domain","166.1.18.100","ns1.mdstech.com.tw ns2.mdstech.com.tw"
 "microsoft-cloud-upload.com","Possible Cobaltstrike DNS C2 Domain","123.60.84.194","data.microsoft-cloud-upload.com"
 "microsoft-hk.com","Possible Cobaltstrike DNS C2 Domain","124.220.19.234","cdn.microsoft-hk.com"
 "microsoftapply.com","Possible Cobaltstrike DNS C2 Domain","45.12.138.94","update.microsoftapply.com"
@@ -112,4 +111,3 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xionoll.com","Possible Cobaltstrike DNS C2 Domain","34.235.195.209","ns1.xionoll.com"
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
-
