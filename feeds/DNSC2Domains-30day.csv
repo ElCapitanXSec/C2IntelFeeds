@@ -31,6 +31,7 @@
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","54.199.86.237","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
 "cloudfleras.com","Possible Cobaltstrike DNS C2 Domain","104.200.67.121 195.133.23.90","one.cloudfleras.com"
+"cloudns.nz","Possible Cobaltstrike DNS C2 Domain","94.131.113.34","ns1.tosohindia.cloudns.nz"
 "cloudns.ph","Possible Cobaltstrike DNS C2 Domain","45.140.146.74","ns1.tosohindiacdn.cloudns.ph"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","54.199.86.237","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
 "cnzzxx.top","Possible Cobaltstrike DNS C2 Domain","120.46.211.40","ns1.cnzzxx.top ns2.cnzzxx.top"
@@ -150,3 +151,4 @@
 "xionoll.com","Possible Cobaltstrike DNS C2 Domain","34.235.195.209","ns1.xionoll.com"
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahu360.space","Possible Cobaltstrike DNS C2 Domain","75.127.13.201","n1.yahu360.space"
+
