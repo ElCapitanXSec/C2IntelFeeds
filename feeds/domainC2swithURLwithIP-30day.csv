@@ -170,8 +170,6 @@ des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/owa,11
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.211.58.80
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.211.58.80
 developersolutions.org,Possible Cobalt Strike C2 Domain,/template.js,194.50.153.117
-devnetapp.com,Possible Cobalt Strike C2 Domain,/d_config,194.50.153.2
-devnetapp.com,Possible Cobalt Strike C2 Domain,/ky,194.50.153.2
 dg.gdga.org.cn,Possible Cobalt Strike C2 Domain,/update/,1.15.139.215
 dg.gdga.org.cn,Possible Cobalt Strike C2 Domain,/update/,124.220.32.134
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -218,7 +216,6 @@ exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVP
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/ptj,121.4.155.50
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,181.214.39.102
 exl.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,146.70.79.23
-external.myazureonline.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,164.92.169.139
 fashion4everyone.biz,Possible Cobalt Strike C2 Domain,/Disable/fileadmin/GC2W8LORKCTB,146.70.161.20
 fastly.dotnet6.zip.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/api/g/,122.248.208.73
 file.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V,216.238.74.154
