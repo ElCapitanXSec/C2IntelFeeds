@@ -61,8 +61,11 @@ bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js,45.66.15
 binsmob.com,Possible Cobalt Strike C2 Domain,/pixel.gif,31.44.184.74
 biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,47.109.79.81
 bjb.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,206.189.107.207
+bjb.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,64.225.68.252
 bjb.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,206.189.107.207
+bjb.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,64.225.68.252
 bjbbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,206.189.107.207
+bjbbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,64.225.68.252
 bks.loginke.xyz,Possible Cobalt Strike C2 Domain,/js/main.js,117.50.163.113
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad,54.145.9.123
 blt.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,134.122.59.61
@@ -248,6 +251,7 @@ home.firefoxchina.cn,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.j
 home.yangguifeiyahoo.shop,Possible Cobalt Strike C2 Domain,/image/,93.179.127.146
 hommyyy-hjbggphhf5bnfmhu.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/oAX7UR/hCvS3syeaHpeu3IgZr7FUN,139.59.28.209
 hufoxapom.us,Possible Cobalt Strike C2 Domain,/calculate/v3.3/9AIEC05QK8H8,104.238.35.74
+hunanshengweibajgongshi.site,Possible Cobalt Strike C2 Domain,/api/3,139.196.47.225
 huo96.icu,Possible Cobalt Strike C2 Domain,/__utm.gif,46.29.161.12
 huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain,/eso.html,172.93.201.58
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,23.106.122.69
@@ -719,6 +723,7 @@ www.darkerstan.top,Possible Cobalt Strike C2 Domain,/visit.js,47.120.2.120
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg,139.155.145.128
 www.gzjinyou.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,39.100.69.48
 www.gzjinyou.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,47.92.27.53
+www.healthylifeandliving.org,Possible PoshC2 Domain,/usersync/tradedesk/,18.169.33.186
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3,121.4.111.221
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js,49.232.90.103
 www.micorsoft.xyz,Possible Cobalt Strike C2 Domain,/g.pixel,47.103.66.79
