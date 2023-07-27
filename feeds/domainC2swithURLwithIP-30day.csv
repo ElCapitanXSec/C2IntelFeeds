@@ -201,6 +201,7 @@ dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/j.ad,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/push,103.114.163.107
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
+dns.velmeded.com,Possible Cobalt Strike C2 Domain,/j.ad,31.44.184.88
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/push,31.44.184.88
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/push,31.44.184.63
 dns1.plngan.co,Possible Cobalt Strike C2 Domain,/api/getit,1.12.243.112
@@ -609,7 +610,7 @@ service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.147.83
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js,20.46.112.10
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/cm,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
 sport-program.com,Possible Cobalt Strike C2 Domain,/Disable/fileadmin/GC2W8LORKCTB,146.70.161.20
 sport-program.com,Possible Cobalt Strike C2 Fronted Domain,/metro91/admin/1/ppptp.jpg,146.70.161.20
@@ -670,6 +671,7 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108
 vegavamyrni.dns.navy,Possible Cobalt Strike C2 Domain,/dot.gif,43.134.235.245
 vegetable.readquotations.com,Possible Cobalt Strike C2 Domain,/j.ad,44.211.149.61
 velmeded.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,31.44.184.88
+velmeded.com,Possible Cobalt Strike C2 Domain,/push,31.44.184.88
 venustech.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js,39.100.69.48
 venustech.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js,47.92.27.53
 veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js,31.44.184.63
