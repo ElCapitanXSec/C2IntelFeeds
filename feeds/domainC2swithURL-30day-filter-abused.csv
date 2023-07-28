@@ -39,8 +39,11 @@ baidu.moonsir.cf,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/push
 bell.dyndns-server.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.2.min.woff2
+bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
+bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js
 bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll
+biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js
 biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js
@@ -225,6 +228,7 @@ lecture.liveritehealthcare.com,Possible Cobalt Strike C2 Domain,/j.ad
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 license.itekgroup.com,Possible Cobalt Strike C2 Domain,/poll
+license.werewolves.su,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5
 license.werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 lijiang.yunnan.cn,Possible Cobalt Strike C2 Fronted Domain,/owa
 linkpop.com.s3.bucket-amazon.com,Possible Cobalt Strike C2 Domain,/signin
@@ -591,6 +595,7 @@ vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/ca
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/match
 web.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+werewolves.su,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 win-update.co,Possible Cobalt Strike C2 Domain,/activity
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
@@ -604,6 +609,7 @@ www.cy9nus.com,Possible Cobalt Strike C2 Fronted Domain,/preload
 www.dangofil.xyz,Possible Cobalt Strike C2 Fronting Domain,/api/logout
 www.darkerstan.top,Possible Cobalt Strike C2 Domain,/visit.js
 www.dnehtb.cn,Possible Cobalt Strike C2 Domain,/admin/facvicon.jpg
+www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.gzjinyou.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
 www.healthylifeandliving.org,Possible PoshC2 Fronting Domain,/usersync/tradedesk/
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3

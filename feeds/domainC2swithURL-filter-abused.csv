@@ -22,8 +22,11 @@ auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU
 auto.safariupdate.net,Possible Cobalt Strike C2 Domain,/api/v4/zones/entitlements
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/push
+bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
+bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js
 bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll
+biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js
 biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js
@@ -143,6 +146,7 @@ lecture.liveritehealthcare.com,Possible Cobalt Strike C2 Domain,/j.ad
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 license.itekgroup.com,Possible Cobalt Strike C2 Domain,/poll
+license.werewolves.su,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5
 license.werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
@@ -377,9 +381,11 @@ veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 vnet.keshant.com,Possible Cobalt Strike C2 Domain,/api/3
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/match
+werewolves.su,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.cnhile-hl.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
+www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.gzjinyou.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
 www.healthylifeandliving.org,Possible PoshC2 Fronting Domain,/usersync/tradedesk/
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3

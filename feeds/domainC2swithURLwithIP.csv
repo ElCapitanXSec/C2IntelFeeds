@@ -27,10 +27,13 @@ bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,102.117.16
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,102.117.174.159
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/push,102.117.169.88
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/push,102.117.174.159
+bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,157.245.74.45
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll,178.62.216.199
+bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
 bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,157.245.74.45
 bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,178.62.216.199
+biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
 biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,157.245.74.45
 biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,178.62.216.199
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js,195.133.53.144
@@ -175,6 +178,7 @@ lecture.liveritehealthcare.com,Possible Cobalt Strike C2 Domain,/j.ad,52.90.87.2
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,23.106.122.69
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 license.itekgroup.com,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
+license.werewolves.su,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5,194.169.175.143
 license.werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
@@ -424,6 +428,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
 vnet.keshant.com,Possible Cobalt Strike C2 Domain,/api/3,43.239.158.234
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/match,23.234.254.155
+werewolves.su,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5,194.169.175.143
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,120.79.64.164
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
@@ -433,6 +438,7 @@ www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,104.238.153.140
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,23.105.210.39
 www.cnhile-hl.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,39.100.69.48
 www.cnhile-hl.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,47.92.27.53
+www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink,123.60.43.138
 www.gzjinyou.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,39.100.69.48
 www.gzjinyou.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,47.92.27.53
 www.healthylifeandliving.org,Possible PoshC2 Domain,/usersync/tradedesk/,18.169.33.186
