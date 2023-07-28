@@ -184,6 +184,7 @@ download.baidumusic.cloud,Possible Cobalt Strike C2 Domain,/api/broadcast/index
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
 drewgriess.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
+dsa7mkr3avu2g.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
 e.dnslogs.eu.org,Possible Cobalt Strike C2 Domain,/visit.js
 edg.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/
@@ -437,6 +438,7 @@ peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
 plazar.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 plenty.ecocampingplus.com,Possible Cobalt Strike C2 Domain,/activity
 polkbrothers.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
+powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/bg.js
 ppt.freeonline-office.com,Possible Cobalt Strike C2 Domain,/signin
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 prepayersolutions.com,Possible Cobalt Strike C2 Domain,/bg.html
@@ -569,6 +571,7 @@ study.accesscam.org,Possible Cobalt Strike C2 Domain,/www/handle/doc
 study.gleeze.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 success.ehealthsimplified.com,Possible Cobalt Strike C2 Domain,/j.ad
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
+support.narlcolife.com,Possible Cobalt Strike C2 Domain,/v1/buckets/monitor/collections/changes/changeset
 support.npmstatic.com,Possible Cobalt Strike C2 Domain,/index.jsp
 sweet.bnbanker.com,Possible Cobalt Strike C2 Domain,/j.ad
 t1.allyun.info,Possible Cobalt Strike C2 Domain,/activity
@@ -651,6 +654,7 @@ www.micorsoft.xyz,Possible Cobalt Strike C2 Domain,/g.pixel
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
 www.microsofer.top,Possible Cobalt Strike C2 Domain,/image/
 www.microsoft-info.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/g.pixel
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js
 www.muenchner-finanzhilfe.com,Possible Cobalt Strike C2 Domain,/owa/
 www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search
