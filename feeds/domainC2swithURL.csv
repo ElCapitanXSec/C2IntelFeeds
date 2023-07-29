@@ -52,6 +52,7 @@ canadiancrafting.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.mi
 cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/
+cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/api/x
@@ -413,7 +414,6 @@ www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js
 www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/
-www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js

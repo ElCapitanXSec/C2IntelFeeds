@@ -101,6 +101,7 @@ cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.12
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,213.61.251.56
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.142.52
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.155.235
+cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png,123.56.218.129
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload,20.190.42.122
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain,/client/v4/zones,45.152.115.128
@@ -677,7 +678,6 @@ www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search,147.182.2
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css,45.77.24.248
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/,81.71.68.50
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
-www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel,47.75.108.68
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain,/owa,114.115.220.3
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain,/api/x,47.108.24.98
 www.servicedesk-internal.com,Possible Cobalt Strike C2 Domain,/__utm.gif,20.25.6.241

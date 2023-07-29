@@ -67,6 +67,7 @@ canadiancrafting.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.mi
 cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.111.99.111
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,213.61.251.56
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.155.235
+cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png,123.56.218.129
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.125.214
 cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/api/x,121.4.237.161
@@ -449,7 +450,6 @@ www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js,124.220.10.78
 www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search,147.182.229.244
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css,45.77.24.248
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/,81.71.68.50
-www.oracleup.cc,Possible Cobalt Strike C2 Domain,/g.pixel,47.75.108.68
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY,43.228.91.212
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/__utm.gif,47.99.177.59
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js,47.99.177.59

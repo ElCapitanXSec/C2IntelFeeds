@@ -75,6 +75,7 @@ cdn.dns-response.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain
+cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain
 cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.softproxyapi.com,Possible Cobalt Strike C2 Domain
@@ -611,7 +612,6 @@ www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain
 www.newbing.fyi,Possible Cobalt Strike C2 Domain
 www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain
-www.oracleup.cc,Possible Cobalt Strike C2 Domain
 www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain
 www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain
 www.servicedesk-internal.com,Possible Cobalt Strike C2 Domain
