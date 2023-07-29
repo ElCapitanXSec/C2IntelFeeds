@@ -583,7 +583,7 @@ testinfo.top,Possible Cobalt Strike C2 Domain,/activity
 tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon
-toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
+toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/ddljson
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

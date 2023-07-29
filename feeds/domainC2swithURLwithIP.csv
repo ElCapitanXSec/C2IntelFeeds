@@ -401,7 +401,7 @@ test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V,216.238.74.154
 teste.mac4.eco.br,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,201.95.130.179
-toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_ogb,51.83.193.221
+toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/ddljson,51.83.193.221
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos,51.83.193.221
 tu.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,103.52.154.82
 tw.aptce4.top,Possible Cobalt Strike C2 Domain,/load,23.94.240.64
