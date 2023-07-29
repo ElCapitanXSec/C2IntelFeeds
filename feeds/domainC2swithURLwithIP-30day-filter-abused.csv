@@ -609,6 +609,7 @@ teste.mac4.eco.br,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/1
 testinfo.top,Possible Cobalt Strike C2 Domain,/activity,43.139.16.102
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x,121.5.102.72
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_ogb,51.83.193.221
+toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos,51.83.193.221
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove,52.70.254.144
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,223.166.224.11
 tu.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,103.52.154.82
