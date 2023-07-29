@@ -189,6 +189,8 @@ forcorpor.com,Possible Cobalt Strike C2 Domain,/fwlink
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad
 gold.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 gold.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/pixel
 groupline.org,Possible Cobalt Strike C2 Domain,/bg
 groupline.org,Possible Cobalt Strike C2 Domain,/faq
 guest.grovedentalpractice.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -549,6 +551,7 @@ t2.allyun.info,Possible Cobalt Strike C2 Domain,/ga.js
 ta.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
+tcessolution.com,Possible Cobalt Strike C2 Domain,/ku.js
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.gin.lol,Possible Cobalt Strike C2 Fronting Domain,/activity

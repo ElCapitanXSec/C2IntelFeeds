@@ -214,6 +214,8 @@ forcorpor.com,Possible Cobalt Strike C2 Domain,/fwlink,31.44.184.73
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad,44.202.2.233
 gold.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,124.220.58.136
 gold.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,124.220.58.136
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,137.184.137.107
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/pixel,137.184.137.107
 groupline.org,Possible Cobalt Strike C2 Domain,/bg,194.50.153.11
 groupline.org,Possible Cobalt Strike C2 Domain,/faq,194.50.153.11
 guest.grovedentalpractice.com,Possible Cobalt Strike C2 Domain,/j.ad,18.116.33.255
@@ -596,6 +598,7 @@ tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,194.50.153.13
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,194.50.153.13
+tcessolution.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.13
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
