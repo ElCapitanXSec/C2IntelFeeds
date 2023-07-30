@@ -190,6 +190,7 @@ e.dnslogs.eu.org,Possible Cobalt Strike C2 Domain,/visit.js
 edg.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/
 edusupport.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lib/v2/wcp-consent.js
 er.sky.florist,Possible Cobalt Strike C2 Domain,/load
+european.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
 exl.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
@@ -496,6 +497,7 @@ service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-bvc0c0em-1309275416.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-dafg2f39-1307026294.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj
 service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
@@ -576,7 +578,7 @@ testinfo.top,Possible Cobalt Strike C2 Domain,/activity
 tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/favicon
-toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/ddljson
+toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

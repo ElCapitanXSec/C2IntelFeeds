@@ -202,6 +202,7 @@ dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php,137.184.25.81
 e.dnslogs.eu.org,Possible Cobalt Strike C2 Domain,/visit.js,124.222.14.232
 edg.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/,166.1.18.100
 er.sky.florist,Possible Cobalt Strike C2 Domain,/load,88.214.26.100
+european.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_,185.224.139.82
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,181.214.39.102
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,181.214.39.102
 exl.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,146.70.79.23
@@ -523,6 +524,7 @@ service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.4.52.176
 service-bvc0c0em-1309275416.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.148.219
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.138.212.90
+service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.212.90
 service-dafg2f39-1307026294.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj,121.196.200.132
 service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,152.32.191.36
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
@@ -607,7 +609,7 @@ test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V
 teste.mac4.eco.br,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,201.95.130.179
 testinfo.top,Possible Cobalt Strike C2 Domain,/activity,43.139.16.102
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x,121.5.102.72
-toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/ddljson,51.83.193.221
+toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_ogb,51.83.193.221
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos,51.83.193.221
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove,52.70.254.144
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,223.166.224.11
