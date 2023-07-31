@@ -76,7 +76,6 @@ company1.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jque
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
-creditcheck.ppdai.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/dot.gif
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/push
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
@@ -352,6 +351,7 @@ sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 sport-program.com,Possible Cobalt Strike C2 Fronted Domain,/metro91/admin/1/ppptp.jpg
+static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/as.css
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 success.ehealthsimplified.com,Possible Cobalt Strike C2 Domain,/j.ad
