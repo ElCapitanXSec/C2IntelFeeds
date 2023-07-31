@@ -237,5 +237,6 @@
 ^njohsp\.gov,
 ^cloudflare\.net,
 ^askubuntu\.com,
+^aliyun\.com,
 ^http,
 ^https,

@@ -323,6 +323,7 @@ rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain,/__utm.gif,198.13.34.82
+risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/ga.js,152.67.249.70
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/,20.234.154.190
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/,20.61.76.122
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad,54.196.194.166
@@ -359,6 +360,7 @@ service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ehj0oavc-1258426110.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,111.229.10.49
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/GetWindowsTime,43.139.109.13
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.59.185
+service-gk0he65k-1301167793.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/clemente/details,42.193.101.234
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,150.158.180.97
 service-h5j54wzu-1301910104.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,36.138.209.175
 service-hzdiypvm-1318122919.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,39.101.183.54
@@ -380,6 +382,7 @@ service-q07ntsqs-1301775575.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,175.178.213.59
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js,20.46.112.10
 severless-oss-1320564199.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda,124.222.239.153
+shop.zandda.club,Possible Cobalt Strike C2 Domain,/__utm.gif,170.64.169.229
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
@@ -397,6 +400,7 @@ tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,194.50.153.13
 tcessolution.com,Possible Cobalt Strike C2 Domain,/ce.js,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,194.50.153.13
 tcessolution.com,Possible Cobalt Strike C2 Domain,/index.html,192.3.76.67
+tcessolution.com,Possible Cobalt Strike C2 Domain,/index.html,91.103.253.48
 tcessolution.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.13
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
