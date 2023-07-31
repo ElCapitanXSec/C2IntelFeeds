@@ -239,6 +239,7 @@ login.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 lumsguttenberg.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 lumswestnewyork.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
+lvluo.buzz,Possible Cobalt Strike C2 Domain,/fwlink
 lxnft.org,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
 m.qq.com,Possible Cobalt Strike C2 Fronting Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
@@ -574,7 +575,7 @@ upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
-update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/g.pixel
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/cm
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/activity
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js

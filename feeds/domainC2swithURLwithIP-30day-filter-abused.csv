@@ -268,6 +268,7 @@ login.webapi-telegram.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
 lumsguttenberg.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,193.239.85.12
 lumswestnewyork.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,193.239.85.24
+lvluo.buzz,Possible Cobalt Strike C2 Domain,/fwlink,45.86.74.37
 lxnft.org,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,203.25.119.216
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi,139.9.142.162
 m.qq.com,Possible Cobalt Strike C2 Fronting Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact,175.27.223.111
@@ -625,7 +626,7 @@ upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain,/css/jquery.min.js,
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books,182.61.16.51
-update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/g.pixel,45.12.138.94
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,45.12.138.94
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/cm,45.12.138.95
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/activity,45.12.138.95
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,198.144.187.19
