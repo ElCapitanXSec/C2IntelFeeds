@@ -97,7 +97,7 @@
 "rty.contact","Possible Cobaltstrike DNS C2 Domain","46.30.41.210","ns.rty.contact"
 "securitylab.io","Possible Cobaltstrike DNS C2 Domain","47.47.34.249","updates.securitylab.io"
 "sgcc.zip","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.sgcc.zip ns2.sgcc.zip ns3.sgcc.zip"
-"sky.florist","Possible Cobaltstrike DNS C2 Domain ","88.214.26.100","er.sky.florist"
+"sky.florist","Possible Cobaltstrike DNS C2 Domain","88.214.26.100","er.sky.florist"
 "skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
 "smartlinkcorp.net","Possible Cobaltstrike DNS C2 Domain","216.238.85.128","ns2.smartlinkcorp.net"
 "speech-microsoft.com","Possible Cobaltstrike DNS C2 Domain","206.237.30.76","log.speech-microsoft.com logs.speech-microsoft.com"
