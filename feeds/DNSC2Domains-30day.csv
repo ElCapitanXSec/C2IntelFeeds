@@ -123,6 +123,7 @@
 "rty.contact","Possible Cobaltstrike DNS C2 Domain","46.30.41.210","ns.rty.contact"
 "safesecuredns.co","Possible Cobaltstrike DNS C2 Domain","153.92.5.225","ns1.safesecuredns.co ns2.safesecuredns.co"
 "scongog.com","Possible Cobaltstrike DNS C2 Domain","3.226.91.217","ns1.scongog.com"
+"securianretirementcenter.center","Possible Cobaltstrike DNS C2 Domain","66.175.213.178","lifeillus.securianretirementcenter.center"
 "securitylab.io","Possible Cobaltstrike DNS C2 Domain","47.47.34.249","updates.securitylab.io"
 "sfklla.vip","Possible Cobaltstrike DNS C2 Domain","101.89.202.252","ns1.sfklla.vip ns2.sfklla.vip ns3.sfklla.vip ns4.sfklla.vip"
 "sgcc.zip","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.sgcc.zip ns2.sgcc.zip ns3.sgcc.zip"
