@@ -52,6 +52,7 @@ blt.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,134.122.59.61
 blt.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll,161.35.155.87
 bltbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,134.122.59.61
 bltbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll,161.35.155.87
+blueroadproject.viewdns.net,Possible Cobalt Strike C2 Domain,/async/ddljson,5.79.108.148
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY,23.106.215.237
 buzubolup.online,Possible Cobalt Strike C2 Domain,/make/corporate/CCX0XBFKBTIP,2.58.15.233
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/dot.gif,124.220.29.161
@@ -98,6 +99,7 @@ core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,47.251.36.32
 crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,47.251.36.32
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/dot.gif,38.54.33.188
+cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/g.pixel,34.92.206.127
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/push,38.54.33.188
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates,47.107.36.89
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson,192.144.231.244
@@ -155,6 +157,7 @@ file.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/BIzYK6YEu70ADGkJwUC4OcGQ
 forcorpor.com,Possible Cobalt Strike C2 Domain,/g.pixel,31.44.184.73
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad,44.202.2.233
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5,194.169.175.143
+gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,194.169.175.143
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css,23.108.57.187
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html,172.93.201.58
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,137.184.137.107

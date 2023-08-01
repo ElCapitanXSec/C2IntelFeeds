@@ -59,6 +59,7 @@ block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 blt.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
 blt.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll
 bltbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll
+blueroadproject.viewdns.net,Possible Cobalt Strike C2 Domain,/async/ddljson
 bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY
 buzubolup.online,Possible Cobalt Strike C2 Domain,/make/corporate/CCX0XBFKBTIP
 c1.haopangnie.top,Possible Cobalt Strike C2 Domain,/visit.js
@@ -124,6 +125,7 @@ core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/dot.gif
+cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/g.pixel
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/push
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
@@ -206,6 +208,7 @@ fj.crland.com.cn,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 forcorpor.com,Possible Cobalt Strike C2 Domain,/g.pixel
 give.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5
+gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gold.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 gold.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css
