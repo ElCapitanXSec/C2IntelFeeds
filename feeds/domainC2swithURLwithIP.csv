@@ -90,8 +90,6 @@ cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload
 cobaltstrike1877.duckdns.org,Possible Cobalt Strike C2 Domain,/visit.js,45.81.235.69
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js,192.144.198.126
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
-company1.ccb.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,118.195.181.106
-company1.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,118.195.181.106
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx,18.205.163.231
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
