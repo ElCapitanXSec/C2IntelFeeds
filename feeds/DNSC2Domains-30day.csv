@@ -33,7 +33,7 @@
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
 "cloudfleras.com","Possible Cobaltstrike DNS C2 Domain","104.200.67.121 195.133.23.90","one.cloudfleras.com"
 "cloudns.nz","Possible Cobaltstrike DNS C2 Domain","94.131.113.34","ns1.tosohindia.cloudns.nz"
-"cloudns.ph","Possible Cobaltstrike DNS C2 Domain","45.140.146.74","ns1.tosohindiacdn.cloudns.ph "
+"cloudns.ph","Possible Cobaltstrike DNS C2 Domain","45.140.146.74","ns1.tosohindiacdn.cloudns.ph"
 "cloudserve.store","Possible Cobaltstrike DNS C2 Domain","159.203.164.157","dns.cloudserve.store"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21 54.199.86.237","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
 "cnzzxx.top","Possible Cobaltstrike DNS C2 Domain","120.46.211.40","ns1.cnzzxx.top ns2.cnzzxx.top"
@@ -156,3 +156,4 @@
 "yahu360.space","Possible Cobaltstrike DNS C2 Domain","75.127.13.201","n1.yahu360.space"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
+
