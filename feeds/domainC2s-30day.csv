@@ -31,6 +31,7 @@ ask.healthgurues.com,Possible Cobalt Strike C2 Domain
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain
 auto-gpt.pw,Possible Cobalt Strike C2 Domain
 auto.safariupdate.net,Possible Cobalt Strike C2 Domain
+awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain
 baidu.com,Possible Cobalt Strike C2 Domain
 baidu.moonsir.cf,Possible Cobalt Strike C2 Domain
@@ -235,7 +236,6 @@ log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 login.webapi-telegram.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
-lumsguttenberg.com,Possible Cobalt Strike C2 Domain
 lumswestnewyork.com,Possible Cobalt Strike C2 Domain
 lvluo.buzz,Possible Cobalt Strike C2 Domain
 lxnft.org,Possible Cobalt Strike C2 Domain
@@ -253,6 +253,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
 microsoft-support.zapto.org,Possible PoshC2 Domain
 microsoftservice.ml,Possible Cobalt Strike C2 Domain
 midasusme.uk,Possible Cobalt Strike C2 Domain
+mkbkygbgwcdc.buzz,Possible Cobalt Strike C2 Domain
 mobile.opposrv.top,Possible Cobalt Strike C2 Domain
 msdwn.herokuapp.com,Possible Cobalt Strike C2 Domain
 mx.kortex-tech.com,Possible Cobalt Strike C2 Domain
@@ -461,11 +462,13 @@ service-78ohk44l-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7hga0z7x-1259444062.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-84xe26zw-1251950883.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -473,7 +476,6 @@ service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ehj0oavc-1258426110.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-f19aq6v8-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-fcvuvti8-1258973287.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-g8z6boiv-1302310300.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-gcnqmcp3-1307217324.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ggtktmzs-1257047345.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -532,9 +534,7 @@ success.ehealthsimplified.com,Possible Cobalt Strike C2 Domain
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain
 support.narlcolife.com,Possible Cobalt Strike C2 Domain
 sweet.bnbanker.com,Possible Cobalt Strike C2 Domain
-t1.allyun.info,Possible Cobalt Strike C2 Domain
 t1.kzo1.top,Possible Cobalt Strike C2 Domain
-t2.allyun.info,Possible Cobalt Strike C2 Domain
 t2.kzo1.top,Possible Cobalt Strike C2 Domain
 ta.oksys.lol,Possible Cobalt Strike C2 Domain
 tcessolution.com,Possible Cobalt Strike C2 Domain
@@ -616,11 +616,11 @@ www.qaxnbyyds.shop,Possible Cobalt Strike C2 Domain
 www.servicedesk-internal.com,Possible Cobalt Strike C2 Domain
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain
 www.test9977.tk,Possible Cobalt Strike C2 Domain
+www.unbreakable.live,Possible Cobalt Strike C2 Domain
 www.union-pay.vip,Possible Cobalt Strike C2 Domain
 www.updategateway.com,Possible Cobalt Strike C2 Fronted Domain
 www.vpnportal.live,Possible Cobalt Strike C2 Fronting Domain
 www.windowupdates.one,Possible Cobalt Strike C2 Domain
-www.yowell.pw,Possible Cobalt Strike C2 Domain
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
