@@ -17,6 +17,7 @@ accessinfonet.com,Possible Cobalt Strike C2 Domain,/favicon,194.50.153.24
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info,107.173.251.222
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js,194.50.153.115
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.115
+akadns-02.net,Possible Cobalt Strike C2 Domain,/__utm.gif,18.118.106.239
 akadns-02.net,Possible Cobalt Strike C2 Domain,/__utm.gif,18.221.191.231
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/dot.gif,47.75.108.68
@@ -158,6 +159,7 @@ d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3p90sjeu6rqrl.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,3.226.91.217
+d3ryeb3hz8ljby.cloudfront.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,44.198.16.37
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d4zy82lzfuvln.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,3.226.91.217
 da.fulim.top,Possible Cobalt Strike C2 Domain,/push,111.230.242.129
@@ -244,7 +246,6 @@ iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search,106.14.12.116
 incididunt.com,Possible Cobalt Strike C2 Domain,/match,103.114.163.107
-independent.vittoriocas137.workers.dev,Possible Cobalt Strike C2 Domain,/poll,185.234.114.92
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js,82.157.145.234
 info.gtjas.site,Possible Cobalt Strike C2 Domain,/functionalStatus/TqKwawSVfLIhmsolAo7M2TzcQ8,123.60.89.125
 io.cy789.ml,Possible Cobalt Strike C2 Fronting Domain,/broadcast,42.193.252.92
