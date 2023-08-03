@@ -688,7 +688,7 @@ vk.com,Possible Cobalt Strike C2 Fronting Domain,/dz,23.108.57.250
 vnet.keshant.com,Possible Cobalt Strike C2 Domain,/api/3,23.106.140.90
 vnet.keshant.com,Possible Cobalt Strike C2 Domain,/api/3,43.239.158.234
 vpn.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.81.63.59
-vps.cpple.tk,Possible Cobalt Strike C2 Domain,/match,23.234.254.155
+vps.cpple.tk,Possible Cobalt Strike C2 Domain,/ptj,23.234.254.155
 web.comchinantp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.81.63.59
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,120.79.64.164
