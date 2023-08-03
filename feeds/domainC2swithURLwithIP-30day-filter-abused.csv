@@ -23,6 +23,7 @@ api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel,54.199.248.162
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,198.199.90.49
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,2604:a880:400:d0:0:0:1739:8001
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/cm,47.242.203.102
+apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch,34.82.224.93
 apiv4.unemployment-compensation.org,Possible Cobalt Strike C2 Domain,/ui,35.164.156.232
 app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.97.120.142
 app.livcloud.info,Possible Cobalt Strike C2 Domain,/include/template/isx.php,149.28.130.233
@@ -282,8 +283,10 @@ mail.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/ca,18.193.48.7
 managerparty.com,Possible Cobalt Strike C2 Domain,/Communicate/Servlets/X51IK3U39S,46.161.27.160
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css,23.108.57.187
 megacorp.pw,Possible Cobalt Strike C2 Fronting Domain,/ptj,49.13.56.4
+mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console,34.82.224.93
 mgty274.app,Possible Cobalt Strike C2 Fronted Domain,/broadcast,42.193.252.92
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
+microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match,154.26.134.72
 microsoft-support.zapto.org,Possible PoshC2 Domain,/work/embedded/search/,62.182.159.155
 microsoftservice.ml,Possible Cobalt Strike C2 Domain,/owa/,185.80.202.72
 midasusme.uk,Possible Cobalt Strike C2 Domain,/cm,185.183.94.24
@@ -474,6 +477,7 @@ quasarincorporated.com,Possible Cobalt Strike C2 Domain,/html,194.50.153.37
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template,192.3.76.38
 quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template,194.50.153.37
 qw.dsvchost.com,Possible Cobalt Strike C2 Domain,/zh,5.188.87.47
+r1.dread-it.online,Possible Cobalt Strike C2 Domain,/picture/slashdot/8OY5EI1E,3.252.135.5
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,23.106.122.69
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
@@ -527,6 +531,7 @@ service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/launchpage/ELR8U5MOB,43.138.29.85
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.143.132.119
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.4.52.176
+service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.103.213.209
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Define/v4.38/J6FPKAIO8,111.230.11.169
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.138.212.90
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.212.90
@@ -621,6 +626,7 @@ teste.mac4.eco.br,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/1
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x,121.5.102.72
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_ogb,51.83.193.221
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos,51.83.193.221
+tools.internalupdate.net,Possible Cobalt Strike C2 Domain,/admin-console,34.82.224.93
 trust.hrtrust.net,Possible Cobalt Strike C2 Fronted Domain,/remove,52.70.254.144
 tsix.synology.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,223.166.224.11
 tu.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,103.52.154.82
