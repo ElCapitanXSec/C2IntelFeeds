@@ -88,7 +88,6 @@
 "ossqianxin.co","Possible Cobaltstrike DNS C2 Domain","204.236.138.252","ns1.ossqianxin.co ns2.ossqianxin.co ns3.ossqianxin.co"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
 "paaszoo.tk","Possible Cobaltstrike DNS C2 Domain","107.172.206.242","ns1.paaszoo.tk ns2.paaszoo.tk"
-"plazar.xyz","Possible Cobaltstrike DNS C2 Domain","51.68.174.80","oob.plazar.xyz"
 "proxyservice.shop","Possible Cobaltstrike DNS C2 Domain","124.221.58.61","ns1.proxyservice.shop"
 "readquotations.com","Possible Cobaltstrike DNS C2 Domain","44.211.149.61","vegetable.readquotations.com"
 "red-wizard-demo-01.nl","Possible Cobaltstrike DNS C2 Domain","85.10.134.79","notmalware.red-wizard-demo-01.nl"
@@ -106,7 +105,6 @@
 "stratpringl.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.88","dns.stratpringl.com stratpringl.com"
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "union-pay.vip","Possible Cobaltstrike DNS C2 Domain","43.138.10.93","www.union-pay.vip"
-"unionpayinte.com","Possible Cobaltstrike DNS C2 Domain","47.92.27.53","pay.unionpayinte.com"
 "unirorm.xyz","Possible Cobaltstrike DNS C2 Domain","124.220.29.161","c1.unirorm.xyz"
 "velmeded.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.88","dns.velmeded.com velmeded.com"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.63","dns.veriernano.com veriernano.com"
@@ -118,3 +116,4 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
+
