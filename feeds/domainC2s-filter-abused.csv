@@ -1,6 +1,5 @@
 #domain,ioc
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
-6pen.art,Possible Cobalt Strike C2 Fronted Domain
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain
 a.connectie-78d5566d11aea.nl,Possible Cobalt Strike C2 Domain
 a.kolunbia.com,Possible Cobalt Strike C2 Domain
@@ -44,7 +43,6 @@ bqq.clubreadbook.online,Possible Cobalt Strike C2 Domain
 bqq2.clubreadbook.online,Possible Cobalt Strike C2 Domain
 buzubolup.online,Possible Cobalt Strike C2 Domain
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain
-c2listx.beauty,Possible Cobalt Strike C2 Domain
 c_2_s.flash-cn.top,Possible Cobalt Strike C2 Domain
 cabin.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain
 canadiancrafting.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -80,8 +78,8 @@ cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
 cs.p0dan.site,Possible Cobalt Strike C2 Domain
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain
+d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
-d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -137,7 +135,6 @@ hunanshengweibajgongshi.site,Possible Cobalt Strike C2 Domain
 huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain
-image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain
 incididunt.com,Possible Cobalt Strike C2 Domain
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain
 jdklove.top,Possible Cobalt Strike C2 Domain
@@ -260,6 +257,7 @@ oa.cncb.info,Possible Cobalt Strike C2 Domain
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain
 one.gxzf.site,Possible Cobalt Strike C2 Domain
+onlinetechdesk.com,Possible Cobalt Strike C2 Domain
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain
 polling.campaigns.kp-crdc.org,Possible Cobalt Strike C2 Domain
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain
@@ -394,7 +392,6 @@ www.updategateway.com,Possible Cobalt Strike C2 Fronted Domain
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
-xianxiaobai.top,Possible Cobalt Strike C2 Domain
 xisowah.info,Possible Cobalt Strike C2 Domain
 xmkq08012g.top,Possible Cobalt Strike C2 Domain
 xovohed.org,Possible Cobalt Strike C2 Domain

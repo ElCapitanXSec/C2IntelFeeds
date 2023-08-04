@@ -124,8 +124,9 @@ content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/c
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/ca
+cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/cx
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/dot.gif
-cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/g.pixel
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/push
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
@@ -133,6 +134,7 @@ cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
 d11lqfjylv7hzs.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/pixel
 d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html
@@ -422,6 +424,8 @@ oldredtoolbox.com.global.prod.fastly.net,Possible Cobalt Strike C2 Domain,/IE9Co
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 one.gxzf.site,Possible Cobalt Strike C2 Domain,/clemente/details
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
+onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/copyright
+onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js
 oob.plazar.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 op1.tiktocek.net,Possible Cobalt Strike C2 Domain,/cx
 op2.tiktocek.net,Possible Cobalt Strike C2 Domain,/fwlink
@@ -543,7 +547,6 @@ service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
-service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js
 severless-oss-1320564199.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda
