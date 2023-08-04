@@ -28,7 +28,7 @@
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
 "ceshi897.cn","Possible Cobaltstrike DNS C2 Domain","45.152.67.162","www1.ceshi897.cn www2.ceshi897.cn www3.ceshi897.cn"
 "checkavail.space","Possible Cobaltstrike DNS C2 Domain","191.101.44.35","dns.checkavail.space ns.checkavail.space"
-"chenda.xyz","Possible Cobaltstrike DNS C2 Domain","106.55.180.110 111.230.194.172 43.136.40.179","dns.chenda.xyz qq.chenda.xyz"
+"chenda.xyz","Possible Cobaltstrike DNS C2 Domain", "106.55.180.110 111.230.194.172 43.136.40.179","dns.chenda.xyz qq.chenda.xyz"
 "chinare.cf","Possible Cobaltstrike DNS C2 Domain","129.150.43.163","ns.chinare.cf"
 "chongfan1990.xyz","Possible Cobaltstrike DNS C2 Domain","35.78.175.21 54.199.86.237","ns1.chongfan1990.xyz ns2.chongfan1990.xyz ns3.chongfan1990.xyz"
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
@@ -158,4 +158,3 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
-
