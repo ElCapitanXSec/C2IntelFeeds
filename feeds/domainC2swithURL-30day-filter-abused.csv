@@ -444,7 +444,6 @@ rinonizexa.com,Possible Cobalt Strike C2 Fronted Domain,/dz
 risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/ptj
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/
 rw1.sentrysource.com,Possible Cobalt Strike C2 Domain,/__utm.gif
-s3amzn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 sacs.dashuaibi.cf,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/api/getit
@@ -532,7 +531,6 @@ service-ntfl1fj6-1300612713.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-q07ntsqs-1301775575.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/usersInfo
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-ryfvjv9l-1313169921.sh.apigw.tencentcs,Possible Cobalt Strike C2 Domain,/api/getit
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -565,6 +563,7 @@ tcessolution.com,Possible Cobalt Strike C2 Domain,/ce.js
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
 tcessolution.com,Possible Cobalt Strike C2 Domain,/index.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/ku.js
+tencentcs.com,Possible Cobalt Strike C2 Domain,/api/usersInfo
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.gin.lol,Possible Cobalt Strike C2 Fronting Domain,/activity
