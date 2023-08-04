@@ -139,7 +139,7 @@
 "staticjs.xyz","Possible Cobaltstrike DNS C2 Domain","111.230.26.9","ns1.staticjs.xyz"
 "stratpringl.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.88","dns.stratpringl.com stratpringl.com"
 "stst.ru","Possible Cobaltstrike DNS C2 Domain","194.169.175.143","gk.stst.ru"
-"suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214 ","cdn.suiteb.io"
+"suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "tiktocek.net","Possible Cobaltstrike DNS C2 Domain","216.238.73.189","op1.tiktocek.net op2.tiktocek.net"
 "tsix.synology.me","Possible Cobaltstrike DNS C2 Domain","223.166.224.11","tsix.synology.me"
 "union-pay.vip","Possible Cobaltstrike DNS C2 Domain","43.138.10.93","www.union-pay.vip"
