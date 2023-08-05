@@ -27,7 +27,7 @@ api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel,54.199.248.162
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/,164.90.171.197
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,198.199.90.49
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif,2604:a880:400:d0:0:0:1739:8001
-api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/cm,47.242.203.102
+api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/g.pixel,47.242.203.102
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch,34.82.224.93
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch,35.227.144.96
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch,35.230.4.164
@@ -102,6 +102,7 @@ cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,116.62.18
 cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.111.99.111
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,213.61.251.56
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.142.52
+cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/,179.43.155.235
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,179.43.155.235
 cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png,123.56.218.129
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234

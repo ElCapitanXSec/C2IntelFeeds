@@ -14,7 +14,7 @@ akadns-02.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/dot.gif
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
-api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/cm
+api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/g.pixel
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch
 app.livcloud.info,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 artwest35-dgeygpfqhxgqdeap.z01.azurefd.net,Possible Cobalt Strike C2 Domain,/common/oauth2/v2.0/authorize
@@ -45,6 +45,7 @@ cc.hakc.link,Possible Cobalt Strike C2 Domain,/ca
 cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
+cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/image/
 cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
