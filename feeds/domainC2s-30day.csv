@@ -1,4 +1,5 @@
 #domain,ioc
+1wkxpfzmtvdkvekpro.xyz,Possible Cobalt Strike C2 Domain
 2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain
 2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain
 360.cn,Possible Cobalt Strike C2 Fronting Domain
@@ -110,6 +111,8 @@ cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
 cs.p0dan.site,Possible Cobalt Strike C2 Domain
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Domain
+cs45.gamesmetaa.com,Possible Cobalt Strike C2 Fronting Domain
+cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain
 d11lqfjylv7hzs.cloudfront.net,Possible Cobalt Strike C2 Domain
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain

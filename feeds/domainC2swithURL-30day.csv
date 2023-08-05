@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+1wkxpfzmtvdkvekpro.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc
 2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 360.cn,Possible Cobalt Strike C2 Fronting Domain,/cr.css
@@ -124,6 +125,8 @@ cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Domain,/__utm.gif
+cs45.gamesmetaa.com,Possible Cobalt Strike C2 Fronting Domain,/api/3
+cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
 d11lqfjylv7hzs.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books

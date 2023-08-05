@@ -1,4 +1,5 @@
 #domain,ioc,uri_path,ip
+1wkxpfzmtvdkvekpro.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc,47.92.95.68
 360.cn,Possible Cobalt Strike C2 Fronting Domain,/cr.css,23.108.57.45
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,150.158.75.102
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.155.75.235
@@ -86,6 +87,8 @@ cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/cx,34.92.206.127
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates,47.107.36.89
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson,192.144.231.244
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
+cs45.gamesmetaa.com,Possible Cobalt Strike C2 Fronting Domain,/api/3,208.70.74.144
+cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,50.17.149.220
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/pixel,194.135.17.31
