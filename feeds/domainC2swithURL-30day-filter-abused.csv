@@ -1,5 +1,4 @@
 #domain,ioc,uri_path
-1wkxpfzmtvdkvekpro.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc
 2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -20,7 +19,7 @@ adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
 akadns-02.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/api/user
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/dot.gif
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -126,6 +125,7 @@ d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/pixel
 d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html
+d2042y8vbs9p7p.cloudfront.net,Possible Cobalt Strike C2 Domain,/RELEASE
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
@@ -215,6 +215,7 @@ image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search
 incididunt.com,Possible Cobalt Strike C2 Domain,/updates.rss
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js
 info.gtjas.site,Possible Cobalt Strike C2 Domain,/functionalStatus/TqKwawSVfLIhmsolAo7M2TzcQ8
+io.cy789.ml,Possible Cobalt Strike C2 Domain,/load
 io.cy789.ml,Possible Cobalt Strike C2 Fronting Domain,/broadcast
 jdklove.top,Possible Cobalt Strike C2 Domain,/improve/v7.98/F60H46TG
 jkda0aska11.freemyip.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
