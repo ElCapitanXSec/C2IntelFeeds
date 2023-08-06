@@ -549,7 +549,6 @@ service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.4.52.176
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.103.213.209
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Define/v4.38/J6FPKAIO8,111.230.11.169
-service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.138.212.90
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.212.90
 service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,152.32.191.36
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
@@ -612,8 +611,6 @@ static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/as.css,194.50.153.12
 staxonecommerce.com,Possible Cobalt Strike C2 Domain,/fam_calendar,194.50.153.12
 stratpringl.com,Possible Cobalt Strike C2 Domain,/dpixel,31.44.184.88
-study.accesscam.org,Possible Cobalt Strike C2 Domain,/www/handle/doc,103.42.214.102
-study.gleeze.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,103.42.214.102
 success.ehealthsimplified.com,Possible Cobalt Strike C2 Domain,/j.ad,54.196.123.144
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html,8.218.28.246
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_,185.224.139.82
