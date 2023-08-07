@@ -1,6 +1,7 @@
 #domain,ioc
 2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain
 2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain
+4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
 6pen.art,Possible Cobalt Strike C2 Fronted Domain
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain
@@ -16,6 +17,7 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain
 adspirenetwork.com,Possible Cobalt Strike C2 Domain
 akadns-02.net,Possible Cobalt Strike C2 Domain
 alisso-alisso-vbadupbpwk.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain
 api.office-updates.org,Possible Cobalt Strike C2 Domain
 api.tanksw.top,Possible Cobalt Strike C2 Domain
@@ -26,7 +28,6 @@ app.livcloud.info,Possible Cobalt Strike C2 Domain
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain
 artwest35-dgeygpfqhxgqdeap.z01.azurefd.net,Possible Cobalt Strike C2 Domain
 as.dsvchost.com,Possible Cobalt Strike C2 Domain
-asdcw.oracleup.cc,Possible Cobalt Strike C2 Domain
 ask.healthgurues.com,Possible Cobalt Strike C2 Domain
 auth.webapi-telegram.com,Possible Cobalt Strike C2 Domain
 auto-gpt.pw,Possible Cobalt Strike C2 Domain
@@ -179,6 +180,7 @@ gold.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain
 groupline.org,Possible Cobalt Strike C2 Domain
 guest.grovedentalpractice.com,Possible Cobalt Strike C2 Domain
+haha.com,Possible Cobalt Strike C2 Fronting Domain
 harmonyshoused.com,Possible Cobalt Strike C2 Domain
 help.npmstatic.com,Possible Cobalt Strike C2 Domain
 home-hsf2czcghwhjg7fh.z01.azurefd.net,Possible Cobalt Strike C2 Domain
@@ -414,6 +416,7 @@ service-2rki087f-1305465584.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-305i3eef-1308887114.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-36lexirn-1307026294.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-3ardqx66-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-3j67aa2t-1259727864.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain
