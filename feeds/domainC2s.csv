@@ -68,9 +68,8 @@ crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain
-cs45.gamesmetaa.com,Possible Cobalt Strike C2 Fronting Domain
-cs45.imtokensz.online,Possible Cobalt Strike C2 Domain
-cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain
+cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Domain
+cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
@@ -283,6 +282,7 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-6wt8xswb-1307888624.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-75n84cfg-1300295584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-8wufk5et-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -290,6 +290,7 @@ service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-d7elcuq0-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
