@@ -144,8 +144,8 @@ cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson,192.144.231.244
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Domain,/__utm.gif,185.212.56.193
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Fronting Domain,/api/3,208.70.74.144
+cs45.imtokensz.online,Possible Cobalt Strike C2 Domain,/dpixel,208.70.74.144
 cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,208.70.74.144
-cs45up230720.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d11lqfjylv7hzs.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.220.77.124
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,50.17.149.220
@@ -345,7 +345,6 @@ ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js,
 ns1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js,101.37.31.211
 ns1.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/,166.1.18.100
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,66.29.131.147
-ns1.micsoft.org,Possible Cobalt Strike C2 Domain,/Compose/donations/0J21NRPWR,45.32.103.195
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 ns1.niggerasssys.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,167.179.114.165
 ns1.nonalom.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,50.17.149.220
@@ -644,7 +643,6 @@ werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 win-update.co,Possible Cobalt Strike C2 Domain,/activity,104.236.180.75
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
-www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push,47.75.108.68
 www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain,/process.jsp,34.229.169.232
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.13.100
 www.checkupdates50.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,23.95.44.10

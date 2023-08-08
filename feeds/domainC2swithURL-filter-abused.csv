@@ -67,8 +67,8 @@ cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/match
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Fronting Domain,/api/3
+cs45.imtokensz.online,Possible Cobalt Strike C2 Domain,/dpixel
 cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3
-cs45up230720.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/pixel
@@ -354,7 +354,6 @@ veriernano.com,Possible Cobalt Strike C2 Domain,/ga.js
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.healthylifeandliving.org,Possible PoshC2 Fronting Domain,/usersync/tradedesk/

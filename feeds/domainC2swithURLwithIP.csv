@@ -83,8 +83,8 @@ cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/match,34.92.206.127
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates,47.107.36.89
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
 cs45.gamesmetaa.com,Possible Cobalt Strike C2 Fronting Domain,/api/3,208.70.74.144
+cs45.imtokensz.online,Possible Cobalt Strike C2 Domain,/dpixel,208.70.74.144
 cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,208.70.74.144
-cs45up230720.gamesmetaa.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,50.17.149.220
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/pixel,194.135.17.31
@@ -395,7 +395,6 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,23.234.254.155
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,120.79.64.164
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
-www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push,47.75.108.68
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,189.18.88.231
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,38.54.31.212
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,38.60.146.232
