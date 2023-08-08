@@ -88,6 +88,7 @@ cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push
 cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js
 cerpotionfe.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 cetixsystems.com,Possible Cobalt Strike C2 Domain,/fo.html
+charon2.corporate-helpdesk.de,Possible Cobalt Strike C2 Domain,/load
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -244,7 +245,6 @@ mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 mail.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/ca
 managerparty.com,Possible Cobalt Strike C2 Domain,/Communicate/Servlets/X51IK3U39S
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css
-megacorp.pw,Possible Cobalt Strike C2 Fronting Domain,/ptj
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console
 mgty274.app,Possible Cobalt Strike C2 Fronted Domain,/broadcast
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
@@ -461,6 +461,8 @@ service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity
+service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Define/v4.38/J6FPKAIO8
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
