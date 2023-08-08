@@ -5,7 +5,6 @@
 "acemindtechnology.com","Possible Cobaltstrike DNS C2 Domain","44.202.2.233 44.211.200.71","dirt.acemindtechnology.com give.acemindtechnology.com"
 "ad4min.com","Possible Cobaltstrike DNS C2 Domain","198.13.42.85","aaa.ad4min.com"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
-"allegiancefithealth.com","Possible Cobaltstrike DNS C2 Domain","52.229.108.220","ns1.allegiancefithealth.com ns2.allegiancefithealth.com"
 "amz-proxy.net","Possible Cobaltstrike DNS C2 Domain","139.180.144.171","ns1.amz-proxy.net ns2.amz-proxy.net"
 "anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.196.13.153","ns1.anaitea.com ns2.anaitea.com"
 "aptce4.top","Possible Cobaltstrike DNS C2 Domain","23.94.240.64","ns1.aptce4.top ns2.aptce4.top"
@@ -122,7 +121,6 @@
 "scongog.com","Possible Cobaltstrike DNS C2 Domain","3.226.91.217","ns1.scongog.com"
 "securianretirementcenter.center","Possible Cobaltstrike DNS C2 Domain","66.175.213.178","lifeillus.securianretirementcenter.center"
 "securitylab.io","Possible Cobaltstrike DNS C2 Domain","47.47.34.249","updates.securitylab.io"
-"sfklla.vip","Possible Cobaltstrike DNS C2 Domain","101.89.202.252","ns1.sfklla.vip ns2.sfklla.vip ns3.sfklla.vip ns4.sfklla.vip"
 "sgcc.zip","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.sgcc.zip ns2.sgcc.zip ns3.sgcc.zip"
 "sky.florist","Possible Cobaltstrike DNS C2 Domain","88.214.26.100","er.sky.florist"
 "skytapdns.com","Possible Cobaltstrike DNS C2 Domain","20.94.177.31 23.98.137.196","vigorouseuclid.zscaler.skytapdns.com"
@@ -136,7 +134,6 @@
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "tiktocek.net","Possible Cobaltstrike DNS C2 Domain","216.238.73.189","op1.tiktocek.net op2.tiktocek.net"
 "trip2health.com","Possible Cobaltstrike DNS C2 Domain","54.172.116.21","ns.cra2demo.trip2health.com"
-"tsix.synology.me","Possible Cobaltstrike DNS C2 Domain","223.166.224.11","tsix.synology.me"
 "union-pay.vip","Possible Cobaltstrike DNS C2 Domain","43.138.10.93","www.union-pay.vip"
 "unionpayinte.com","Possible Cobaltstrike DNS C2 Domain","39.100.69.48 47.92.27.53","pay.unionpayinte.com"
 "unirorm.xyz","Possible Cobaltstrike DNS C2 Domain","124.220.29.161","c1.unirorm.xyz"
@@ -153,3 +150,4 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
+
