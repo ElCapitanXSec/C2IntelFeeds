@@ -540,6 +540,7 @@ test.gin.lol,Possible Cobalt Strike C2 Fronting Domain,/activity
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match
 teste.mac4.eco.br,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+theonecorp.live,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain,/api/x
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 toddy.sytes.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos
