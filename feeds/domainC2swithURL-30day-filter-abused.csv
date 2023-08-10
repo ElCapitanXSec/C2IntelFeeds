@@ -139,6 +139,7 @@ data.dnslive.top,Possible Cobalt Strike C2 Domain,/j.ad
 data.microsoft-cloud-upload.com,Possible Cobalt Strike C2 Domain,/functionalStatus/TqKwawSVfLIhmsolAo7M2TzcQ8
 datacloudprocessing.com,Possible Cobalt Strike C2 Domain,/extension
 datacloudprocessing.com,Possible Cobalt Strike C2 Domain,/ny.css
+dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain,/owa/
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

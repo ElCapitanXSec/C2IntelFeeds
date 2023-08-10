@@ -173,6 +173,7 @@ data.dnslive.top,Possible Cobalt Strike C2 Domain,/j.ad,198.44.169.19
 data.microsoft-cloud-upload.com,Possible Cobalt Strike C2 Domain,/functionalStatus/TqKwawSVfLIhmsolAo7M2TzcQ8,123.60.84.194
 datacloudprocessing.com,Possible Cobalt Strike C2 Domain,/extension,194.50.153.114
 datacloudprocessing.com,Possible Cobalt Strike C2 Domain,/ny.css,194.50.153.114
+dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain,/owa/,1.14.65.206
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml,3.137.214.117
 des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/owa,114.115.220.3
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.211.58.80
@@ -445,6 +446,7 @@ onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js,91.103.253.98
 oob.plazar.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,51.68.174.80
 op1.tiktocek.net,Possible Cobalt Strike C2 Domain,/cx,216.238.73.189
 op2.tiktocek.net,Possible Cobalt Strike C2 Domain,/fwlink,216.238.73.189
+outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa/,1.14.65.206
 outlook.maschinenbau-iutz.de,Possible Cobalt Strike C2 Domain,/dpixel,18.193.48.7
 pay.unionpayinte.com,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js,39.100.69.48
 pay.unionpayinte.com,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js,47.92.27.53
