@@ -440,7 +440,6 @@ service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-ayurikha-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -469,6 +468,7 @@ service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kboespoo-1317138495.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kiss7m2t-1305595184.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-lyemd3y8-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mitx0ap6-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -480,6 +480,7 @@ service-ntfl1fj6-1300612713.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-q07ntsqs-1301775575.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain
@@ -507,7 +508,6 @@ t1.kzo1.top,Possible Cobalt Strike C2 Domain
 t2.kzo1.top,Possible Cobalt Strike C2 Domain
 ta.oksys.lol,Possible Cobalt Strike C2 Domain
 tcessolution.com,Possible Cobalt Strike C2 Domain
-tencentcs.com,Possible Cobalt Strike C2 Domain
 test.227api.com,Possible Cobalt Strike C2 Domain
 test.g-security.cn,Possible Cobalt Strike C2 Domain
 test.gin.lol,Possible Cobalt Strike C2 Fronting Domain
@@ -552,7 +552,6 @@ werewolves.su,Possible Cobalt Strike C2 Domain
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 win-update.co,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
-www.0nedriveup.com,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain
 www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain
