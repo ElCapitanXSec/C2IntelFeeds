@@ -299,6 +299,7 @@ service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-q07ntsqs-1301775575.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 severless-oss-1320564199.intlsdcn.com,Possible Cobalt Strike C2 Domain
 sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain
@@ -312,7 +313,6 @@ stratpringl.com,Possible Cobalt Strike C2 Domain
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain
 tcessolution.com,Possible Cobalt Strike C2 Domain
-tencentcs.com,Possible Cobalt Strike C2 Domain
 test.227api.com,Possible Cobalt Strike C2 Domain
 test.kolunbia.com,Possible Cobalt Strike C2 Domain
 theonecorp.live,Possible Cobalt Strike C2 Domain
@@ -338,7 +338,6 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 vps.cpple.tk,Possible Cobalt Strike C2 Domain
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
-www.0nedriveup.com,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain
