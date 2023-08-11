@@ -552,7 +552,6 @@ service-ntfl1fj6-1300612713.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,118.195.184.126
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.42.254.219
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,82.156.188.211
-service-q07ntsqs-1301775575.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/usersInfo,124.70.159.242
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,175.178.213.59
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.147.83
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js,20.46.112.10
@@ -583,10 +582,11 @@ ta.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,103.52.154.82
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,194.50.153.13
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,91.103.253.48
+tcessolution.com,Possible Cobalt Strike C2 Domain,/ce.js,91.103.253.48
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,194.50.153.13
-tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,91.103.253.48
 tcessolution.com,Possible Cobalt Strike C2 Domain,/ku.js,194.50.153.13
+tencentcs.com,Possible Cobalt Strike C2 Domain,/api/usersInfo,124.70.159.242
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
@@ -641,6 +641,7 @@ werewolves.su,Possible Cobalt Strike C2 Domain,/poll,51.222.196.75
 win-update.co,Possible Cobalt Strike C2 Domain,/activity,104.236.180.75
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,54.199.86.237
+www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push,47.75.108.68
 www.blackknightfinancials.com,Possible Cobalt Strike C2 Domain,/process.jsp,34.229.169.232
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.13.100
 www.checkupdates50.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,23.95.44.10

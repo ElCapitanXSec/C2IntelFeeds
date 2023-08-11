@@ -517,7 +517,6 @@ service-ntfl1fj6-1300612713.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-q07ntsqs-1301775575.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/usersInfo
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js
@@ -546,8 +545,10 @@ t1.kzo1.top,Possible Cobalt Strike C2 Domain,/cm
 t2.kzo1.top,Possible Cobalt Strike C2 Domain,/cm
 ta.oksys.lol,Possible Cobalt Strike C2 Domain,/__utm.gif
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
+tcessolution.com,Possible Cobalt Strike C2 Domain,/ce.js
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
 tcessolution.com,Possible Cobalt Strike C2 Domain,/ku.js
+tencentcs.com,Possible Cobalt Strike C2 Domain,/api/usersInfo
 test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.gin.lol,Possible Cobalt Strike C2 Fronting Domain,/activity
@@ -596,6 +597,7 @@ werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 win-update.co,Possible Cobalt Strike C2 Domain,/activity
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/jquery.js
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
