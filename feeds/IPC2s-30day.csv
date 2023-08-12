@@ -1563,6 +1563,7 @@
 45.32.65.63,Possible Metasploit C2 IP
 45.33.7.22,Possible Metasploit C2 IP
 45.55.131.52,Possible Cobaltstrike C2 IP
+45.55.61.11,Possible PoshC2 IP
 45.61.129.106,Possible Cobaltstrike C2 IP
 45.63.122.37,Possible Cobaltstrike C2 IP
 45.66.151.195,Possible Cobaltstrike C2 IP
