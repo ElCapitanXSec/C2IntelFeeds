@@ -166,10 +166,8 @@ ns1.corpais900.co,Possible Cobalt Strike C2 Domain,/
 ns1.digitelela.com,Possible Cobalt Strike C2 Fronted Domain,/search/
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/preload
 ns1.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
-ns1.gcloud-api.com,Possible Cobalt Strike C2 Domain,/updates.rss
 ns1.goporsche.de,Possible Cobalt Strike C2 Domain,/jquery.com/
 ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 ns1.niggerasssys.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -310,7 +308,6 @@ www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
 www.microsofer.top,Possible Cobalt Strike C2 Domain,/image/
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/g.pixel
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js
-www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css
 www.unbreakable.live,Possible Cobalt Strike C2 Domain,/visit.js
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
