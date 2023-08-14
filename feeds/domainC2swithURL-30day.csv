@@ -20,11 +20,11 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/html.js
 adspirenetwork.com,Possible Cobalt Strike C2 Domain,/ku.js
 akadns-02.net,Possible Cobalt Strike C2 Domain,/__utm.gif
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/visit.js
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.tanksw.top,Possible Cobalt Strike C2 Domain,/pixel.gif
-api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/fwlink
+api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch
 app.dbapp.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 app.livcloud.info,Possible Cobalt Strike C2 Domain,/include/template/isx.php
@@ -427,7 +427,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain,/__utm.gif
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink
-risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/j.ad
+risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/fwlink
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/
 rw1.sentrysource.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
