@@ -48,6 +48,7 @@
 "dingtaIk.tk","Possible Cobaltstrike DNS C2 Domain","47.94.43.210","ns1.dingtaIk.tk ns2.dingtaIk.tk"
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "dnslogs.eu.org","Possible Cobaltstrike DNS C2 Domain","124.222.14.232","e.dnslogs.eu.org"
+"dnsonlin.co","Possible Cobaltstrike DNS C2 Domain","43.136.40.179","cs1.dnsonlin.co"
 "doctordanm.com","Possible Cobaltstrike DNS C2 Domain","54.196.194.166","salt.doctordanm.com"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "ehealthsimplified.com","Possible Cobaltstrike DNS C2 Domain","54.196.123.144","success.ehealthsimplified.com"
@@ -146,4 +147,5 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
+"zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
 
