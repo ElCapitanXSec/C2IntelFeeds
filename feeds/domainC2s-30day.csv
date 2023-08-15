@@ -130,9 +130,8 @@ d4zy82lzfuvln.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 da.fulim.top,Possible Cobalt Strike C2 Domain
 dash.cloudflareo.info,Possible Cobalt Strike C2 Domain
 data.microsoft-cloud-upload.com,Possible Cobalt Strike C2 Domain
-dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain
+dbapp.eu.org,Possible Cobalt Strike C2 Fronting Domain
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain
-des.download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain
 developmentgear.com,Possible Cobalt Strike C2 Domain
@@ -141,7 +140,6 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
-digital.yesky.com,Possible Cobalt Strike C2 Fronted Domain
 dilidili.shop,Possible Cobalt Strike C2 Domain
 dirt.acemindtechnology.com,Possible Cobalt Strike C2 Domain
 dns.binsmob.com,Possible Cobalt Strike C2 Domain
@@ -223,7 +221,6 @@ leno.outlookonlines.com,Possible Cobalt Strike C2 Domain
 license.itekgroup.com,Possible Cobalt Strike C2 Domain
 license.werewolves.su,Possible Cobalt Strike C2 Domain
 lifeillus.securianretirementcenter.center,Possible Cobalt Strike C2 Domain
-lijiang.yunnan.cn,Possible Cobalt Strike C2 Fronted Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 login.webapi-telegram.com,Possible Cobalt Strike C2 Domain
@@ -364,13 +361,11 @@ o.wps.pics,Possible Cobalt Strike C2 Domain
 oa.cncb.info,Possible Cobalt Strike C2 Domain
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain
 office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain
-ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain
 one.gxzf.site,Possible Cobalt Strike C2 Domain
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain
 oob.plazar.xyz,Possible Cobalt Strike C2 Domain
-outlook.live.com,Possible Cobalt Strike C2 Fronting Domain
 pay.unionpayinte.com,Possible Cobalt Strike C2 Domain
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain
 pinterest.com,Possible Cobalt Strike C2 Fronting Domain
@@ -383,6 +378,7 @@ prepayersolutions.com,Possible Cobalt Strike C2 Domain
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain
 pro.vendamaisimovel.com,Possible Cobalt Strike C2 Fronted Domain
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain
+qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain
 quasarincorporated.com,Possible Cobalt Strike C2 Domain
@@ -396,11 +392,9 @@ resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain
 ringatpstul.com,Possible Cobalt Strike C2 Domain
 risky.dlingqling.cf,Possible Cobalt Strike C2 Domain
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
-rw1.sentrysource.com,Possible Cobalt Strike C2 Domain
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain
 sanjianke.icu,Possible Cobalt Strike C2 Domain
 schedule.sport-program.com,Possible Cobalt Strike C2 Domain
-search.zhenai.com,Possible Cobalt Strike C2 Fronted Domain
 seeusdt.com,Possible Cobalt Strike C2 Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -564,8 +558,6 @@ www.microsoft-update.club,Possible Cobalt Strike C2 Domain
 www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain
 www.newbing.fyi,Possible Cobalt Strike C2 Domain
-www.onlinedown.net,Possible Cobalt Strike C2 Fronted Domain
-www.pcsoft.com.cn,Possible Cobalt Strike C2 Fronted Domain
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain
 www.test9977.tk,Possible Cobalt Strike C2 Domain
 www.unbreakable.live,Possible Cobalt Strike C2 Domain
