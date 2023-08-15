@@ -489,6 +489,8 @@ ss.rlfslie.cloud,Possible Cobalt Strike C2 Domain
 static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain
 static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain
+static.js.apps.webproxy.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain
+static.js.apps.webproxy.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 staxonecommerce.com,Possible Cobalt Strike C2 Domain
 stela-artua.xyz,Possible Cobalt Strike C2 Domain
 stratpringl.com,Possible Cobalt Strike C2 Domain
