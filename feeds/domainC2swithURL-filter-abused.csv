@@ -154,6 +154,7 @@ notmalware.red-wizard-demo-01.nl,Possible Cobalt Strike C2 Domain,/718acd1d-f3aa
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.cra2demo.trip2health.com,Possible Cobalt Strike C2 Domain,/messages/NWLSxrC64q5AVywCSPP9Z4Y57NWbjh082MDLytg1
 ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/
+ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain,/Windows
 ns.rty.contact,Possible Cobalt Strike C2 Domain,/pixel.gif
 ns1.007work.icu,Possible Cobalt Strike C2 Domain,/cm
 ns1.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
@@ -182,6 +183,7 @@ ns1.nonalom.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888
 ns1.oneipsoft.com,Possible Cobalt Strike C2 Domain,/directory/tailwindcss/tags/tailwindcss.1.1.min.css
 ns1.ossqianxin.co,Possible Cobalt Strike C2 Domain,/updates
 ns1.paaszoo.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js
+ns1.staticjs.xyz,Possible Cobalt Strike C2 Domain,/js/view/index.js
 ns1.tosohindia.cloudns.nz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.wpspcdn.com,Possible Cobalt Strike C2 Domain,/owa
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -236,6 +238,7 @@ primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain,/owa/
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3
+qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
