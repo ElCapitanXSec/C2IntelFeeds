@@ -57,6 +57,7 @@ cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx,18.205.163.231
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
+creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ab.html,91.103.253.70
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,66.63.188.13
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,91.103.253.70
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,47.251.36.32
@@ -152,7 +153,6 @@ mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console,35.2
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console,35.230.4.164
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match,154.26.134.72
-microsoft-support.zapto.org,Possible PoshC2 Domain,/vssf/wppo/site/bgroup/visitor/,94.198.53.89
 mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/ca,178.128.193.49
 mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js,178.128.193.49
 mx.weixin3.bond,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/10/29136388_,43.138.66.231
@@ -265,6 +265,7 @@ risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/fwlink,152.67.249.70
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/,20.234.154.190
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/,20.61.76.122
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad,54.196.194.166
+samabasa.us,Possible Cobalt Strike C2 Fronted Domain,/styles.css,64.44.97.110
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/api/getit,165.154.131.126
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity,190.123.44.150
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73

@@ -54,6 +54,7 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
+creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ab.html
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -145,7 +146,6 @@ managerparty.com,Possible Cobalt Strike C2 Domain,/Communicate/Servlets/X51IK3U3
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match
-microsoft-support.zapto.org,Possible PoshC2 Fronting Domain,/vssf/wppo/site/bgroup/visitor/
 mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/ca
 mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js
 mx.weixin3.bond,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/10/29136388_
@@ -254,6 +254,7 @@ ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink
 risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/fwlink
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
+samabasa.us,Possible Cobalt Strike C2 Fronted Domain,/styles.css
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/api/getit
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
@@ -339,6 +340,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/j.ad
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/match
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
+wordpress.com,Possible Cobalt Strike C2 Fronting Domain,/styles.css
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/visit.js
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
