@@ -201,6 +201,8 @@ dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 dsa7mkr3avu2g.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.202.10.91
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php,137.184.25.81
 e.dnslogs.eu.org,Possible Cobalt Strike C2 Domain,/activity,124.222.14.232
+eapdns.com,Possible Cobalt Strike C2 Domain,/da.html,91.103.253.45
+eapdns.com,Possible Cobalt Strike C2 Domain,/zh,91.103.253.45
 edg.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/,166.1.18.100
 ekostroy33.ru,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5,194.169.175.143
 er.sky.florist,Possible Cobalt Strike C2 Domain,/load,88.214.26.100
@@ -236,6 +238,7 @@ iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,23.106.122.69
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 image.baiduu.org,Possible Cobalt Strike C2 Domain,/load,163.197.211.102
+image.baiduu.org,Possible Cobalt Strike C2 Domain,/push,163.197.211.102
 image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search,106.14.12.116
 incididunt.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.114.163.107
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js,82.157.145.234
@@ -440,7 +443,6 @@ prepayersolutions.com,Possible Cobalt Strike C2 Domain,/bg.html,194.50.153.78
 prepayersolutions.com,Possible Cobalt Strike C2 Domain,/fam_calendar.html,104.168.70.101
 prepayersolutions.com,Possible Cobalt Strike C2 Domain,/fam_calendar.html,194.50.153.78
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity,167.99.239.248
-pro.vendamaisimovel.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,201.95.96.120
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,3.237.41.66
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain,/owa/,1.14.65.206
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3,47.243.104.189

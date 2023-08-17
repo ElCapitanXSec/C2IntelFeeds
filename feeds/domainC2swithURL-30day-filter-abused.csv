@@ -172,6 +172,8 @@ dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dsa7mkr3avu2g.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
 e.dnslogs.eu.org,Possible Cobalt Strike C2 Domain,/activity
+eapdns.com,Possible Cobalt Strike C2 Domain,/da.html
+eapdns.com,Possible Cobalt Strike C2 Domain,/zh
 edg.mdstech.com.tw,Possible Cobalt Strike C2 Domain,/fd/ls/
 ekostroy33.ru,Possible Cobalt Strike C2 Domain,/Stop/affiliate/A3GFX8A5
 er.sky.florist,Possible Cobalt Strike C2 Domain,/load
@@ -206,6 +208,7 @@ huvoyofib.org,Possible Cobalt Strike C2 Fronted Domain,/eso.html
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 image.baiduu.org,Possible Cobalt Strike C2 Domain,/load
+image.baiduu.org,Possible Cobalt Strike C2 Domain,/push
 image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search
 incididunt.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js
@@ -392,7 +395,6 @@ ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu
 prepayersolutions.com,Possible Cobalt Strike C2 Domain,/bg.html
 prepayersolutions.com,Possible Cobalt Strike C2 Domain,/fam_calendar.html
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity
-pro.vendamaisimovel.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain,/owa/
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3
