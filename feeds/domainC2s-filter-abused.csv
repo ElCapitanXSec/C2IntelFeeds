@@ -21,6 +21,7 @@ auto-gpt.pw,Possible Cobalt Strike C2 Domain
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain
 binsmob.com,Possible Cobalt Strike C2 Domain
+biohealth.azurewebsites.net,Possible Cobalt Strike C2 Domain
 bks.loginke.xyz,Possible Cobalt Strike C2 Domain
 block.health-degree.com,Possible Cobalt Strike C2 Domain
 bopever.co,Possible Cobalt Strike C2 Domain
@@ -264,6 +265,7 @@ service-0gfsz81a-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-0wjkcltb-1317846665.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1no61otq-1255887418.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-3ardqx66-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-3j67aa2t-1259727864.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -276,7 +278,6 @@ service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-8wufk5et-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-d7elcuq0-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -305,6 +306,7 @@ static.js.apps.webproxy.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fro
 stela-artua.xyz,Possible Cobalt Strike C2 Domain
 stub.ignorelist.com,Possible Cobalt Strike C2 Domain
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain
+support.dnsgdn.com,Possible Cobalt Strike C2 Domain
 tcessolution.com,Possible Cobalt Strike C2 Domain
 test.227api.com,Possible Cobalt Strike C2 Domain
 test.g-security.cn,Possible Cobalt Strike C2 Domain
