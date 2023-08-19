@@ -20,7 +20,6 @@ akadns-02.net,Possible Cobalt Strike C2 Domain
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain
 api.office-updates.org,Possible Cobalt Strike C2 Domain
-api.tanksw.top,Possible Cobalt Strike C2 Domain
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain
 app.livcloud.info,Possible Cobalt Strike C2 Domain
@@ -254,6 +253,7 @@ ns.chinare.cf,Possible Cobalt Strike C2 Domain
 ns.cra2demo.trip2health.com,Possible Cobalt Strike C2 Domain
 ns.googlearth.top,Possible Cobalt Strike C2 Domain
 ns.killbaidu.cn,Possible Cobalt Strike C2 Domain
+ns.matrika.cn,Possible Cobalt Strike C2 Domain
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain
 ns.mydhx.top,Possible Cobalt Strike C2 Domain
 ns.rty.contact,Possible Cobalt Strike C2 Domain
@@ -381,6 +381,7 @@ ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain
 prepayersolutions.com,Possible Cobalt Strike C2 Domain
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain
+prx.pcr21t.com,Possible Cobalt Strike C2 Domain
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain
@@ -404,7 +405,6 @@ server1.bre1ce.top,Possible Cobalt Strike C2 Domain
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-04nl8z8p-1300276284.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-0gfsz81a-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-0odwwo2z-1256327773.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-0wjkcltb-1317846665.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1925bm5o-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -480,8 +480,6 @@ software.cncb.info,Possible Cobalt Strike C2 Domain
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain
 sport-program.com,Possible Cobalt Strike C2 Domain
 sport-program.com,Possible Cobalt Strike C2 Fronted Domain
-static.cgbchina.com.cn.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain
-static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain
 static.js.apps.webproxy.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain
 static.js.apps.webproxy.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
