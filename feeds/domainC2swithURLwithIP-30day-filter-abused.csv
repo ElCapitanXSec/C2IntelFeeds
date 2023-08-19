@@ -144,8 +144,8 @@ cs.dingjie.eu.org,Possible Cobalt Strike C2 Fronted Domain,/image/,149.115.229.5
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson,192.144.231.244
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
 cs1.dnsonlin.co,Possible Cobalt Strike C2 Domain,/sub/console/Y4E77EFO,43.136.40.179
-cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Domain,/push,208.70.74.144
-cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/g.pixel,208.70.74.144
+cs45tx230726.gamesmetaa.com,Possible Cobalt Strike C2 Domain,/pixel.gif,208.70.74.144
+cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/dpixel,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,50.17.149.220
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/activity,194.135.17.31
@@ -183,7 +183,7 @@ dns.cloudserve.store,Possible Cobalt Strike C2 Domain,/u/vercheck,159.203.164.15
 dns.exploitresearch.art,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.79.125.241
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/updates.rss,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
-dns.incididunt.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.114.163.107
+dns.incididunt.com,Possible Cobalt Strike C2 Domain,/ga.js,103.114.163.107
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/dpixel,31.44.184.39
 dns.stratpringl.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,31.44.184.88
@@ -238,7 +238,7 @@ iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 image.baiduu.org,Possible Cobalt Strike C2 Domain,/load,163.197.211.102
 image.baiduu.org,Possible Cobalt Strike C2 Domain,/push,163.197.211.102
 image.toutiao.com,Possible Cobalt Strike C2 Fronting Domain,/toutiao/search,106.14.12.116
-incididunt.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.114.163.107
+incididunt.com,Possible Cobalt Strike C2 Domain,/activity,103.114.163.107
 info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js,82.157.145.234
 info.gtjas.site,Possible Cobalt Strike C2 Domain,/functionalStatus/TqKwawSVfLIhmsolAo7M2TzcQ8,123.60.89.125
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/load,42.193.252.92
