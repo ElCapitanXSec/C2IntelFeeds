@@ -425,7 +425,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain,/__utm.gif
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink
-risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/activity
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
 samabasa.us,Possible Cobalt Strike C2 Fronted Domain,/styles.css
@@ -620,6 +620,7 @@ xisowah.info,Possible Cobalt Strike C2 Domain,/put/util/AXXRV7P4
 xmkq08012g.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 xovohed.org,Possible Cobalt Strike C2 Domain,/restore/v5.88/W0V7CRVFH
 xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain,/cr.css
+y1.changbaishanlab.top,Possible Cobalt Strike C2 Domain,/api/3
 ys035.tv,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 yuiko.xyz,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain,/api/3
