@@ -191,7 +191,6 @@ gold.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/pixel
 groupline.org,Possible Cobalt Strike C2 Domain,/bg
-groupline.org,Possible Cobalt Strike C2 Domain,/faq
 haha.com,Possible Cobalt Strike C2 Fronting Domain,/api/x
 harmonyshoused.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/default.jsp
@@ -212,6 +211,7 @@ jdklove.top,Possible Cobalt Strike C2 Domain,/improve/v7.98/F60H46TG
 jkda0aska11.freemyip.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 jquery.elf33ferr.eu.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/dpixel
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/load
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 jtexpress.life,Possible Cobalt Strike C2 Domain,/dpixel
 k.mo4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM
@@ -252,6 +252,7 @@ mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel.gif
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/updates.rss
 nn.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 note.jianshu.com,Possible Cobalt Strike C2 Fronting Domain,/azure/api/v2/userinfo/get
 note.jianshu.com.wsdvs.com,Possible Cobalt Strike C2 Fronted Domain,/azure/api/v2/userinfo/get
@@ -480,6 +481,7 @@ service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj
 service-plcnurt7-1300693486.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
+service-rfzb8g23-1319095131.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service.coffeeplato.com,Possible Cobalt Strike C2 Domain,/j.ad
 service.jaguarlandroverglobalservice.com,Possible Cobalt Strike C2 Domain,/visit.js
 severless-oss-1320564199.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda
