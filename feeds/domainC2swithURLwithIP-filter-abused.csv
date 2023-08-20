@@ -96,6 +96,7 @@ dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/updates.rss,31.44.184.73
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/,54.149.61.80
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/ga.js,103.114.163.107
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
+dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/cx,31.44.184.97
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/dpixel,31.44.184.39
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/pixel,31.44.184.63
 dnslog.zhaoyr.online,Possible Cobalt Strike C2 Domain,/load,61.136.208.3
@@ -189,7 +190,7 @@ ns1.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,
 ns1.goporsche.de,Possible Cobalt Strike C2 Domain,/jquery.com/,185.155.96.178
 ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.90.150
 ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js,192.144.198.126
-ns1.libai.monster,Possible Cobalt Strike C2 Domain,/updates.rss,45.135.117.110
+ns1.libai.monster,Possible Cobalt Strike C2 Domain,/push,45.135.117.110
 ns1.m0ksh4.com,Possible Cobalt Strike C2 Domain,/haiku.aspx,118.208.115.22
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,66.29.131.147
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
@@ -275,6 +276,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.22
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain,/__utm.gif,198.13.34.82
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink,31.44.184.39
+ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js,31.44.184.97
 risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/activity,152.67.249.70
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/,20.234.154.190
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/,20.61.76.122

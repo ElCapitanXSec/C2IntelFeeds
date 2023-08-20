@@ -154,6 +154,7 @@ dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/updates.rss
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
 dns.incididunt.com,Possible Cobalt Strike C2 Domain,/ga.js
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
+dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/cx
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/dpixel
 dns.stratpringl.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 dns.velmeded.com,Possible Cobalt Strike C2 Domain,/push
@@ -300,7 +301,7 @@ ns1.goporsche.de,Possible Cobalt Strike C2 Domain,/jquery.com/
 ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js
 ns1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
-ns1.libai.monster,Possible Cobalt Strike C2 Domain,/updates.rss
+ns1.libai.monster,Possible Cobalt Strike C2 Domain,/push
 ns1.m0ksh4.com,Possible Cobalt Strike C2 Domain,/haiku.aspx
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
@@ -406,6 +407,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain,/__utm.gif
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink
+ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js
 risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/activity
 rttest7-dns-rdir.westeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/image/
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
