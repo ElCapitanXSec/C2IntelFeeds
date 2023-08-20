@@ -99,7 +99,7 @@
 "qianxinsecurity.com","Possible Cobaltstrike DNS C2 Domain","121.199.70.107","testdcxtadmin.qianxinsecurity.com testdcxtadmin1.qianxinsecurity.com"
 "readquotations.com","Possible Cobaltstrike DNS C2 Domain","44.211.149.61","vegetable.readquotations.com"
 "red-wizard-demo-01.nl","Possible Cobaltstrike DNS C2 Domain","85.10.134.79","notmalware.red-wizard-demo-01.nl"
-"ringatpstul.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.39","dns.ringatpstul.com ringatpstul.com"
+"ringatpstul.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.39 31.44.184.97","dns.ringatpstul.com ringatpstul.com"
 "rttest7-dns-rdir.westeurope.cloudapp.azure.com","Possible Cobaltstrike DNS C2 Domain","20.234.154.190 20.61.76.122","rttest7-dns-rdir.westeurope.cloudapp.azure.com"
 "rty.contact","Possible Cobaltstrike DNS C2 Domain","46.30.43.121","ns.rty.contact"
 "securianretirementcenter.center","Possible Cobaltstrike DNS C2 Domain","66.175.213.178","lifeillus.securianretirementcenter.center"
