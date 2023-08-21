@@ -107,7 +107,6 @@ company1.ccb.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/jque
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
-creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/link.html
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -408,9 +407,6 @@ prx.pcr21t.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain,/owa/
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-quasarincorporated.com,Possible Cobalt Strike C2 Domain,/groupcp
-quasarincorporated.com,Possible Cobalt Strike C2 Domain,/html
-quasarincorporated.com,Possible Cobalt Strike C2 Domain,/template
 qw.dsvchost.com,Possible Cobalt Strike C2 Domain,/zh
 r1.dread-it.online,Possible Cobalt Strike C2 Domain,/picture/slashdot/8OY5EI1E
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
@@ -457,7 +453,6 @@ service-8wufk5et-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/yowell/1
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/launchpage/ELR8U5MOB
-service-asejzoh9-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/yowell/1
 service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity
 service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
