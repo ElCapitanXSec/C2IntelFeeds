@@ -5,7 +5,7 @@
 "acemindtechnology.com","Possible Cobaltstrike DNS C2 Domain","44.211.200.71","dirt.acemindtechnology.com"
 "ad4min.com","Possible Cobaltstrike DNS C2 Domain","198.13.42.85","aaa.ad4min.com"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
-"anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.196.13.153","ns1.anaitea.com ns2.anaitea.com"
+"anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.196.13.153 154.211.18.108","ns1.anaitea.com ns2.anaitea.com"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "azureeservices.co.uk","Possible Cobaltstrike DNS C2 Domain","98.71.232.223","cdn.azureeservices.co.uk"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
