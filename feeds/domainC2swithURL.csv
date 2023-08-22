@@ -98,6 +98,7 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/ca
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/cx
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/dpixel
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/dot.gif
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/pixel
 dnslog.zhaoyr.online,Possible Cobalt Strike C2 Domain,/load
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
@@ -356,6 +357,7 @@ userla.de,Possible Cobalt Strike C2 Domain,/r_config.html
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vegetable.readquotations.com,Possible Cobalt Strike C2 Domain,/j.ad
+veriernano.com,Possible Cobalt Strike C2 Domain,/j.ad
 veriernano.com,Possible Cobalt Strike C2 Domain,/match
 version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
