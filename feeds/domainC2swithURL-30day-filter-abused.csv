@@ -114,6 +114,7 @@ cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/push
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.dabiaoge.eu.org,Possible Cobalt Strike C2 Fronting Domain,/image/
 cs.dingjie.eu.org,Possible Cobalt Strike C2 Fronted Domain,/image/
+cs.fighter-team.xyz,Possible Cobalt Strike C2 Domain,/api/3
 cs.p0dan.site,Possible Cobalt Strike C2 Domain,/async/ddljson
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cs1.dnsonlin.co,Possible Cobalt Strike C2 Domain,/sub/console/Y4E77EFO
@@ -563,6 +564,7 @@ vps.cpple.tk,Possible Cobalt Strike C2 Domain,/match
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js
 werewolves.su,Possible Cobalt Strike C2 Domain,/poll
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/cx
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.checkupdates50.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
