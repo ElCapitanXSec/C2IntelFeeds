@@ -1,5 +1,5 @@
 #domain,ioc,IPs,C2Domains
-"007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17 116.205.140.54","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
+"007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
 "acemindtechnology.com","Possible Cobaltstrike DNS C2 Domain","44.202.2.233 44.211.200.71","dirt.acemindtechnology.com give.acemindtechnology.com"
@@ -33,7 +33,6 @@
 "cityoall.com","Possible Cobaltstrike DNS C2 Domain","104.223.121.37","cityoall.com dns.cityoall.com"
 "cloudfleras.com","Possible Cobaltstrike DNS C2 Domain","104.200.67.121 195.133.23.90","one.cloudfleras.com"
 "cloudns.nz","Possible Cobaltstrike DNS C2 Domain","94.131.113.34","ns1.tosohindia.cloudns.nz"
-"cloudns.ph","Possible Cobaltstrike DNS C2 Domain","45.140.146.74","ns1.tosohindiacdn.cloudns.ph"
 "cloudserve.store","Possible Cobaltstrike DNS C2 Domain","159.203.164.157","dns.cloudserve.store"
 "clubreadbook.online","Possible Cobaltstrike DNS C2 Domain","198.211.36.91","bqq.clubreadbook.online bqq2.clubreadbook.online"
 "cncb.info","Possible Cobaltstrike DNS C2 Domain","35.78.175.21 54.199.86.237","mail.cncb.info oa.cncb.info software.cncb.info wps.cncb.info"
@@ -148,7 +147,6 @@
 "velmeded.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.88","dns.velmeded.com velmeded.com"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","194.34.133.87 31.44.184.63","dns.veriernano.com veriernano.com"
 "weathersin.com","Possible Cobaltstrike DNS C2 Domain","149.28.208.144","apple.weathersin.com"
-"werewolves.su","Possible Cobaltstrike DNS C2 Domain","51.222.196.75","license.werewolves.su"
 "winexmarkets11.com","Possible Cobaltstrike DNS C2 Domain","54.226.51.227","peace.winexmarkets11.com"
 "wizardsfinance.com","Possible Cobaltstrike DNS C2 Domain","34.226.249.189","machine.wizardsfinance.com"
 "wpspcdn.com","Possible Cobaltstrike DNS C2 Domain","121.36.2.165","ns1.wpspcdn.com ns2.wpspcdn.com"
@@ -161,4 +159,3 @@
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-
