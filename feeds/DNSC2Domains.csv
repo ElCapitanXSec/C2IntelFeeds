@@ -6,6 +6,7 @@
 "ad4min.com","Possible Cobaltstrike DNS C2 Domain","198.13.42.85","aaa.ad4min.com"
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.211.18.108","ns1.anaitea.com ns2.anaitea.com"
+"asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "azureeservices.co.uk","Possible Cobaltstrike DNS C2 Domain","98.71.232.223","cdn.azureeservices.co.uk"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "binsmob.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.74","binsmob.com dns.binsmob.com"
@@ -112,3 +113,4 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahootk.tk","Possible Cobaltstrike DNS C2 Domain","45.130.146.133","ns1.yahootk.tk ns2.yahootk.tk ns3.yahootk.tk"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+

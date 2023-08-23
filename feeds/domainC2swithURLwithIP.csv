@@ -1,11 +1,13 @@
 #domain,ioc,uri_path,ip
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain,/api/x,119.45.252.164
+5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,167.71.51.239
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,150.158.75.102
 7w.lv,Possible Cobalt Strike C2 Domain,/updates.rss,8.217.9.171
 99avip.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_,172.93.189.47
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.155.75.235
 a.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V,216.238.74.154
 a.wps.pics,Possible Cobalt Strike C2 Domain,/js/components/content-info-b0c0e5245b.js,103.126.211.119
+a0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/__utm.gif,213.142.159.117
 aaa.ad4min.com,Possible Cobalt Strike C2 Domain,/dot.gif,198.13.42.85
 acc.hello.ljjjkkklll.asia,Possible Cobalt Strike C2 Domain,/api/3,139.196.47.225
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,146.70.79.23
@@ -48,6 +50,7 @@ cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css,103.57.228.99
 cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad,104.223.121.37
 cloud.microsoft.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js,119.3.224.30
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/fam_cart,104.129.21.224
+cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/fam_cart,47.87.207.170
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/fam_cart,91.103.253.37
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/modcp,104.129.21.224
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/modcp,91.103.253.37
@@ -106,6 +109,7 @@ dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.218.129.91
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2016/12/29136388_,172.93.189.47
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
+dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif,213.142.159.117
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 eapdns.com,Possible Cobalt Strike C2 Domain,/da.html,91.103.253.45
 eapdns.com,Possible Cobalt Strike C2 Domain,/zh,91.103.253.45
@@ -120,6 +124,7 @@ forcorpor.com,Possible Cobalt Strike C2 Domain,/activity,31.44.184.73
 framedscenes.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,46.21.153.179
 freehish.xyz,Possible Cobalt Strike C2 Domain,/image/,154.204.60.102
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,194.169.175.143
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/cm,137.184.137.107
 haha.com,Possible Cobalt Strike C2 Fronting Domain,/api/x,119.45.252.164
 harmonyshoused.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,46.21.153.175
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/default.jsp,100.25.156.1
@@ -136,7 +141,7 @@ jdklove.top,Possible Cobalt Strike C2 Domain,/improve/v7.98/F60H46TG,139.162.74.
 jdklove.top,Possible Cobalt Strike C2 Domain,/improve/v7.98/F60H46TG,152.32.145.237
 jquery.elf33ferr.eu.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,84.21.171.174
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/match,8.212.44.149
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/match,8.212.49.116
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/ptj,8.212.49.116
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html,47.93.51.191
 l.wps.pics,Possible Cobalt Strike C2 Domain,/www/handle/doc,116.205.232.186
 lack.protax123.com,Possible Cobalt Strike C2 Domain,/j.ad,54.144.139.62
@@ -156,7 +161,7 @@ mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js,178.128.193.49
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,143.92.39.125
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/fwlink,8.212.44.149
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/fwlink,8.212.49.116
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel,8.212.49.116
 nn.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.90.150
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.cra2demo.trip2health.com,Possible Cobalt Strike C2 Domain,/messages/NWLSxrC64q5AVywCSPP9Z4Y57NWbjh082MDLytg1,54.172.116.21
@@ -319,6 +324,7 @@ service-rfzb8g23-1319095131.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-rsb9hux9-1258128533.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push,111.67.195.154
 sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda,124.222.239.153
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad,52.14.74.190
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js,120.79.64.164
@@ -358,7 +364,6 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js,104.168.59.8
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,120.79.64.164
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
-www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/cx,47.75.108.68
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.101.76.53
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,104.238.153.140
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,23.105.210.39
