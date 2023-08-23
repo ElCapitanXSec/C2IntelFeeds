@@ -205,7 +205,7 @@ gk.stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/cm
-googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/pixel
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/j.ad
 haha.com,Possible Cobalt Strike C2 Fronting Domain,/api/x
 harmonyshoused.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/default.jsp

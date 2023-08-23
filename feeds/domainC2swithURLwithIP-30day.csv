@@ -231,7 +231,7 @@ gk.stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,194.169.175.143
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css,23.108.57.187
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html,172.93.201.58
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/cm,137.184.137.107
-googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/pixel,137.184.137.107
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/j.ad,137.184.137.107
 haha.com,Possible Cobalt Strike C2 Fronting Domain,/api/x,119.45.252.164
 harmonyshoused.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,46.21.153.175
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/default.jsp,100.25.156.1

@@ -125,6 +125,7 @@ framedscenes.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,46.21
 freehish.xyz,Possible Cobalt Strike C2 Domain,/image/,154.204.60.102
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,194.169.175.143
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/cm,137.184.137.107
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/j.ad,137.184.137.107
 haha.com,Possible Cobalt Strike C2 Fronting Domain,/api/x,119.45.252.164
 harmonyshoused.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,46.21.153.175
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/default.jsp,100.25.156.1
@@ -333,6 +334,8 @@ static.js.apps.webproxy.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fro
 stela-artua.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_,91.207.183.54
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html,8.218.28.246
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_,185.224.139.82
+tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,91.103.253.48
+tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,192.3.76.67
 teams.microsoft.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js,119.3.224.30
 test.227api.com,Possible Cobalt Strike C2 Domain,/match,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/match,154.83.17.116
