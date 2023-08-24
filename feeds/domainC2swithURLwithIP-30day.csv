@@ -43,6 +43,8 @@ awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel,23
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/__utm.gif,137.184.137.107
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.43.156.246
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc,124.71.34.132
+beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,213.142.151.236
+beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca,213.142.151.236
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,102.117.169.88
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/push,102.117.169.88
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12

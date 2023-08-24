@@ -38,6 +38,8 @@ auto.safariupdate.net,Possible Cobalt Strike C2 Domain,/api/v4/zones/entitlement
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc
+beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 bell.dyndns-server.com,Possible Cobalt Strike C2 Domain,/push
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js

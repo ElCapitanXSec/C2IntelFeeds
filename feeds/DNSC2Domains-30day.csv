@@ -78,6 +78,7 @@
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
 "kagotsurube.org","Possible Cobaltstrike DNS C2 Domain","198.211.58.80","dev01.kagotsurube.org dev02.kagotsurube.org"
+"keremsarmis.com","Possible Cobaltstrike DNS C2 Domain","213.142.151.236","beacon.keremsarmis.com beacon2.keremsarmis.com"
 "killbaidu.cn","Possible Cobaltstrike DNS C2 Domain","119.13.90.176","ns.killbaidu.cn"
 "kolunbia.com","Possible Cobaltstrike DNS C2 Domain","216.238.74.154","a.kolunbia.com file.kolunbia.com test.kolunbia.com"
 "kp-crdc.org","Possible Cobaltstrike DNS C2 Domain","198.211.104.128","polling.campaigns.kp-crdc.org"
@@ -159,3 +160,4 @@
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+

@@ -21,6 +21,8 @@ arpaa.ddns.net,Possible Cobalt Strike C2 Domain
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain
 auto-gpt.pw,Possible Cobalt Strike C2 Domain
 baidu.com,Possible Cobalt Strike C2 Domain
+beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain
+beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain
 binsmob.com,Possible Cobalt Strike C2 Domain
 biohealth.azurewebsites.net,Possible Cobalt Strike C2 Domain
 bks.loginke.xyz,Possible Cobalt Strike C2 Domain
@@ -141,6 +143,7 @@ ns.checkavail.space,Possible Cobalt Strike C2 Domain
 ns.googlearth.top,Possible Cobalt Strike C2 Domain
 ns.matrika.cn,Possible Cobalt Strike C2 Domain
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain
+ns.mydhx.top,Possible Cobalt Strike C2 Domain
 ns.rty.contact,Possible Cobalt Strike C2 Domain
 ns1.007work.icu,Possible Cobalt Strike C2 Domain
 ns1.a1batr0ss.xyz,Possible Cobalt Strike C2 Domain
@@ -200,7 +203,6 @@ ns2.niggerasssys.com,Possible Cobalt Strike C2 Domain
 ns2.oneipsoft.com,Possible Cobalt Strike C2 Domain
 ns2.ossqianxin.co,Possible Cobalt Strike C2 Domain
 ns2.paaszoo.tk,Possible Cobalt Strike C2 Domain
-ns2.smartlinkcorp.net,Possible Cobalt Strike C2 Domain
 ns2.wpspcdn.com,Possible Cobalt Strike C2 Domain
 ns2.xiaopeng111.com,Possible Cobalt Strike C2 Domain
 ns2.xn--mil-ixy.com,Possible Cobalt Strike C2 Domain
@@ -301,6 +303,7 @@ tcessolution.com,Possible Cobalt Strike C2 Domain
 test.227api.com,Possible Cobalt Strike C2 Domain
 test.g-security.cn,Possible Cobalt Strike C2 Domain
 test.kolunbia.com,Possible Cobalt Strike C2 Domain
+test.mydhx.top,Possible Cobalt Strike C2 Domain
 testdcxtadmin.qianxinsecurity.com,Possible Cobalt Strike C2 Domain
 testdcxtadmin1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain
 tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain
