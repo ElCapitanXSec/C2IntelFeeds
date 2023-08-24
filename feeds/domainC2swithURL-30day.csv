@@ -21,6 +21,7 @@ admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 akadns-02.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/cm
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
+api.nextgpt.fun,Possible Cobalt Strike C2 Domain,/br.js
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch
@@ -56,7 +57,7 @@ biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 bjb.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
 bjb.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/poll
 bjbbkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/poll
-bks.loginke.xyz,Possible Cobalt Strike C2 Domain,/js/main.js
+bks.loginke.com,Possible Cobalt Strike C2 Domain,/js/main.js
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 blog.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 blt.msoffice2.com,Possible Cobalt Strike C2 Domain,/poll
@@ -132,7 +133,9 @@ d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/activity
 d1m383qkjwdfx0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html
 d2042y8vbs9p7p.cloudfront.net,Possible Cobalt Strike C2 Domain,/RELEASE
+d2h4y03w84zuqp.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3ryeb3hz8ljby.cloudfront.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -201,8 +204,8 @@ gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gk.stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 google.com,Possible Cobalt Strike C2 Fronting Domain,/modcp.css
 google.ru,Possible Cobalt Strike C2 Fronting Domain,/eso.html
-googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/cm
-googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/j.ad
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/cx
+googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 gvlgq3xhw5-spot-sta1.b-cdn.net,Possible Cobalt Strike C2 Domain,/recaptcha/web/player
 haha.com,Possible Cobalt Strike C2 Fronting Domain,/api/x
 harmonyshoused.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
