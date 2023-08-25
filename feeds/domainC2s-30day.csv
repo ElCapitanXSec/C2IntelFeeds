@@ -28,11 +28,9 @@ app.livcloud.info,Possible Cobalt Strike C2 Domain
 apple.weathersin.com,Possible Cobalt Strike C2 Domain
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain
 artwest35-dgeygpfqhxgqdeap.z01.azurefd.net,Possible Cobalt Strike C2 Domain
-as.dsvchost.com,Possible Cobalt Strike C2 Domain
 ask.healthgurues.com,Possible Cobalt Strike C2 Domain
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain
 auto-gpt.pw,Possible Cobalt Strike C2 Domain
-auto.safariupdate.net,Possible Cobalt Strike C2 Domain
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain
 baidu.com,Possible Cobalt Strike C2 Domain
@@ -374,7 +372,6 @@ prx.pcr21t.com,Possible Cobalt Strike C2 Domain
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain
-qw.dsvchost.com,Possible Cobalt Strike C2 Domain
 r1.dread-it.online,Possible Cobalt Strike C2 Domain
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
@@ -418,7 +415,6 @@ service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-8wufk5et-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a85mcmy2-1259015174.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -496,7 +492,6 @@ tiepanghu.xyz,Possible Cobalt Strike C2 Domain
 toddy.sytes.net,Possible Cobalt Strike C2 Domain
 tools.internalupdate.net,Possible Cobalt Strike C2 Domain
 tu.oksys.lol,Possible Cobalt Strike C2 Domain
-tw.aptce4.top,Possible Cobalt Strike C2 Domain
 unbreakable.live,Possible Cobalt Strike C2 Domain
 upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
@@ -565,4 +560,3 @@ yuiko.xyz,Possible Cobalt Strike C2 Domain
 zero.kdocs.cc,Possible Cobalt Strike C2 Domain
 zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
-zx.dsvchost.com,Possible Cobalt Strike C2 Domain
