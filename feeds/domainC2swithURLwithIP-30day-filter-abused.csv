@@ -35,7 +35,7 @@ ask.healthgurues.com,Possible Cobalt Strike C2 Domain,/j.ad,18.212.64.222
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,178.128.59.129
 auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU,47.236.24.0
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel,23.98.137.196
-aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/__utm.gif,137.184.137.107
+aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/g.pixel,137.184.137.107
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc,124.71.34.132
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,213.142.151.236
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca,213.142.151.236
@@ -297,6 +297,7 @@ ns1.bre1ce.top,Possible Cobalt Strike C2 Domain,/ptj,155.94.170.73
 ns1.bustring.com,Possible Cobalt Strike C2 Domain,/baidu.com,154.196.13.135
 ns1.bustring.com,Possible Cobalt Strike C2 Domain,/safebrowsing/QVXHQf/QVXHQfXdpinARC06MctcJ4hprcWoBIZaDp2-M,45.81.128.183
 ns1.caigoupangza.top,Possible Cobalt Strike C2 Domain,/fwlink,120.46.211.40
+ns1.ccadn.org,Possible Cobalt Strike C2 Domain,/api/3,146.70.149.251
 ns1.cdnmax.info,Possible Cobalt Strike C2 Domain,/__utm.gif,64.176.35.130
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 ns1.chat666.live,Possible Cobalt Strike C2 Domain,/user/get,175.27.224.35
@@ -308,6 +309,7 @@ ns1.digitelela.com,Possible Cobalt Strike C2 Fronted Domain,/search/,104.238.153
 ns1.dilidili.shop,Possible Cobalt Strike C2 Domain,/j.ad,106.15.74.69
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/preload,47.94.43.210
 ns1.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6,36.140.73.231
+ns1.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6,36.140.76.50
 ns1.fcdncloud.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,185.239.84.203
 ns1.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 ns1.gcloud-api.com,Possible Cobalt Strike C2 Domain,/updates.rss,91.215.85.166
@@ -326,6 +328,7 @@ ns1.paaszoo.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.172.206.242
 ns1.proxyservice.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,124.221.58.61
 ns1.staticjs.xyz,Possible Cobalt Strike C2 Domain,/js/view/index.js,111.230.26.9
 ns1.tosohindia.cloudns.nz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,94.131.113.34
+ns1.unixkernelhelp.com,Possible Cobalt Strike C2 Domain,/pixel.gif,140.82.23.123
 ns1.wpspcdn.com,Possible Cobalt Strike C2 Domain,/owa,121.36.2.165
 ns1.wsusmicrsotf2012.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,139.59.252.173
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/__utm.gif,101.91.154.125
@@ -352,6 +355,7 @@ ns2.ctfer.club,Possible Cobalt Strike C2 Domain,/g.pixel,101.34.23.227
 ns2.dilidili.shop,Possible Cobalt Strike C2 Domain,/activity,106.15.74.69
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/preload,47.94.43.210
 ns2.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6,36.140.73.231
+ns2.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6,36.140.76.50
 ns2.fcdncloud.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,185.239.84.203
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 ns2.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.90.150
@@ -397,6 +401,7 @@ oob.plazar.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,51.68.174.80
 pay.unionpayinte.com,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js,47.92.27.53
 payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr,45.82.78.106
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.51.227
+pics.autistan.lu,Possible Cobalt Strike C2 Domain,/api/v1/Update,52.31.239.60
 pics.bonplan.lu,Possible Cobalt Strike C2 Domain,/api/v1/Update,34.251.142.170
 plazar.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,51.68.174.80
 policy.sso-epg.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/10/29136388_,134.209.103.87
