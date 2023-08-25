@@ -117,7 +117,7 @@
 "pdota.top","Possible Cobaltstrike DNS C2 Domain","120.48.87.88","ns188.pdota.top"
 "plazar.xyz","Possible Cobaltstrike DNS C2 Domain","51.68.174.80","oob.plazar.xyz"
 "portcom-slpa.site","Possible Cobaltstrike DNS C2 Domain","178.128.59.129","auth.up.portcom-slpa.site port.up.portcom-slpa.site"
-"protax123.com","Possible Cobaltstrike DNS C2 Domain","54.144.139.62","lack.protax123.com"
+"protax123.com","Possible Cobaltstrike DNS C2 Domain", "54.144.139.62","lack.protax123.com"
 "proxyservice.shop","Possible Cobaltstrike DNS C2 Domain","124.221.58.61","ns1.proxyservice.shop"
 "qianxinsecurity.com","Possible Cobaltstrike DNS C2 Domain","121.199.70.107","testdcxtadmin.qianxinsecurity.com testdcxtadmin1.qianxinsecurity.com"
 "readquotations.com","Possible Cobaltstrike DNS C2 Domain","44.211.149.61","vegetable.readquotations.com"
@@ -159,4 +159,3 @@
 "zengjunhe.top","Possible Cobaltstrike DNS C2 Domain","39.105.143.177","ns1.zengjunhe.top ns2.zengjunhe.top"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-
