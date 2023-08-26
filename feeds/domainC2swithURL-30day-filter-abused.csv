@@ -33,6 +33,7 @@ aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU
+aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/j.ad
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/g.pixel
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc
@@ -165,6 +166,7 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.baidumusic.cloud,Possible Cobalt Strike C2 Domain,/api/broadcast/index
+dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/j.ad
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dsa7mkr3avu2g.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain,/api/get.php
