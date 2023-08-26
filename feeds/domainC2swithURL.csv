@@ -18,6 +18,7 @@ app.ethvseos.nl,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 apple.weathersin.com,Possible Cobalt Strike C2 Domain,/dot.gif
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/activity
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/load
+aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -112,6 +113,7 @@ exl.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu
 file.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/BIzYK6YEu70ADGkJwUC4OcGQl
 forcorpor.com,Possible Cobalt Strike C2 Domain,/activity
 framedscenes.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
+github.com,Possible Cobalt Strike C2 Fronting Domain,/jp.css
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 gvlgq3xhw5-spot-sta1.b-cdn.net,Possible Cobalt Strike C2 Domain,/recaptcha/web/player
@@ -143,12 +145,10 @@ machine.wizardsfinance.com,Possible Cobalt Strike C2 Domain,/j.ad
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 measurement.springhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
-mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/ca
 mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel
 nn.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.googlearth.top,Possible Cobalt Strike C2 Domain,/image/
@@ -262,6 +262,7 @@ ringatpstul.com,Possible Cobalt Strike C2 Domain,/load
 risky.dlingqling.cf,Possible Cobalt Strike C2 Domain,/activity
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/api/getit
+secureservices.fun,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
