@@ -18,6 +18,7 @@ app.ethvseos.nl,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,37.139.129
 apple.weathersin.com,Possible Cobalt Strike C2 Domain,/dot.gif,149.28.208.144
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/activity,119.148.49.49
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/load,119.148.49.49
+aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink,178.128.193.49
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js,178.128.193.49
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,178.128.59.129
 auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU,47.236.24.0
@@ -148,7 +149,6 @@ machine.wizardsfinance.com,Possible Cobalt Strike C2 Domain,/j.ad,34.226.249.189
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 measurement.springhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad,44.208.22.232
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
-mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js,178.128.193.49
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,143.92.39.125
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.44.149

@@ -18,6 +18,7 @@ app.ethvseos.nl,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 apple.weathersin.com,Possible Cobalt Strike C2 Domain,/dot.gif
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/activity
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/load
+aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU
@@ -139,7 +140,6 @@ machine.wizardsfinance.com,Possible Cobalt Strike C2 Domain,/j.ad
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 measurement.springhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
-mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
