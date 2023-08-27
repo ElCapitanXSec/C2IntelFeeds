@@ -243,6 +243,7 @@ lifeillus.securianretirementcenter.center,Possible Cobalt Strike C2 Domain,/sear
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
+look.oregonwomenshealthnetwork.com,Possible Cobalt Strike C2 Domain,/j.ad
 lvluo.buzz,Possible Cobalt Strike C2 Domain,/fwlink
 lxnft.org,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain,/getapi
@@ -290,7 +291,7 @@ ns1.bustring.com,Possible Cobalt Strike C2 Domain,/baidu.com
 ns1.bustring.com,Possible Cobalt Strike C2 Domain,/safebrowsing/QVXHQf/QVXHQfXdpinARC06MctcJ4hprcWoBIZaDp2-M
 ns1.caigoupangza.top,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.ccadn.org,Possible Cobalt Strike C2 Domain,/api/3
-ns1.cdnmax.info,Possible Cobalt Strike C2 Domain,/__utm.gif
+ns1.cdnmax.info,Possible Cobalt Strike C2 Domain,/ptj
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
 ns1.chat666.live,Possible Cobalt Strike C2 Domain,/user/get
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
@@ -335,7 +336,7 @@ ns2.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min
 ns2.anaitea.com,Possible Cobalt Strike C2 Domain,/jquery.com/
 ns2.bustring.com,Possible Cobalt Strike C2 Domain,/safebrowsing/QVXHQf/QVXHQfXdpinARC06MctcJ4hprcWoBIZaDp2-M
 ns2.caigoupangza.top,Possible Cobalt Strike C2 Domain,/dpixel
-ns2.cdnmax.info,Possible Cobalt Strike C2 Domain,/match
+ns2.cdnmax.info,Possible Cobalt Strike C2 Domain,/j.ad
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
 ns2.chat666.live,Possible Cobalt Strike C2 Domain,/user/get
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
@@ -489,7 +490,7 @@ sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-packa
 shop.zandda.club,Possible Cobalt Strike C2 Domain,/__utm.gif
 shopzandda.azureedge.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/push
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
