@@ -60,7 +60,7 @@
 "kagotsurube.org","Possible Cobaltstrike DNS C2 Domain","198.211.58.80","dev01.kagotsurube.org dev02.kagotsurube.org"
 "keremsarmis.com","Possible Cobaltstrike DNS C2 Domain","213.142.151.236","beacon.keremsarmis.com beacon2.keremsarmis.com"
 "kolunbia.com","Possible Cobaltstrike DNS C2 Domain","216.238.74.154","a.kolunbia.com file.kolunbia.com test.kolunbia.com"
-"libai.monster","Possible Cobaltstrike DNS C2 Domain","45.135.117.110","ns1.libai.monster"
+"libai.monster","Possible Cobaltstrike DNS C2 Domain","45.135.117.110 45.155.222.221","ns1.libai.monster"
 "lionhealthpharmacy.com","Possible Cobaltstrike DNS C2 Domain","52.14.74.190","solid.lionhealthpharmacy.com"
 "luqiqi.top","Possible Cobaltstrike DNS C2 Domain","123.57.92.227","nsxx.luqiqi.top"
 "mammothspoon.xyz","Possible Cobaltstrike DNS C2 Domain","123.56.75.209","ns2.mammothspoon.xyz"
@@ -98,6 +98,7 @@
 "springhealthpharmacy.com","Possible Cobaltstrike DNS C2 Domain","44.208.22.232","measurement.springhealthpharmacy.com"
 "sso-epg.com","Possible Cobaltstrike DNS C2 Domain","134.209.103.87","policy.sso-epg.com"
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
+"sybercodesilver.lol","Possible Cobaltstrike DNS C2 Domain","194.15.102.26","1.sybercodesilver.lol"
 "unixkernelhelp.com","Possible Cobaltstrike DNS C2 Domain","140.82.23.123","ns1.unixkernelhelp.com"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","194.34.133.87 31.44.184.63","dns.veriernano.com veriernano.com"
 "weathersin.com","Possible Cobaltstrike DNS C2 Domain","149.28.208.144","apple.weathersin.com"
@@ -109,3 +110,4 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahootk.tk","Possible Cobaltstrike DNS C2 Domain","45.130.146.133","ns1.yahootk.tk ns2.yahootk.tk ns3.yahootk.tk"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+

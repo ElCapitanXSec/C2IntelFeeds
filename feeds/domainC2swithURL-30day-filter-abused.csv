@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+1.sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/dpixel
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -111,10 +112,11 @@ d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/activity
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html
 d2042y8vbs9p7p.cloudfront.net,Possible Cobalt Strike C2 Domain,/RELEASE
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/IE9CompatViewList.xml
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/activity
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/cx
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/dot.gif
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/push
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/ga.js
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/updates.rss
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/visit.js
 d2h4y03w84zuqp.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books

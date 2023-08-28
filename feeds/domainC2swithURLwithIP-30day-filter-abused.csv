@@ -1,4 +1,5 @@
 #domain,ioc,uri_path,ip
+1.sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/dpixel,194.15.102.26
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain,/api/x,119.45.252.164
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,167.71.51.239
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,150.158.75.102
@@ -126,10 +127,11 @@ d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/activity,194.135.17.31
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html,43.206.63.126
 d2042y8vbs9p7p.cloudfront.net,Possible Cobalt Strike C2 Domain,/RELEASE,54.165.147.46
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/IE9CompatViewList.xml,213.142.159.117
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/activity,213.142.159.117
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/cx,213.142.159.117
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/dot.gif,213.142.159.117
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/push,213.142.159.117
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/ga.js,213.142.159.117
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/updates.rss,213.142.159.117
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/visit.js,213.142.159.117
 d2h4y03w84zuqp.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
@@ -304,6 +306,7 @@ ns1.goporsche.de,Possible Cobalt Strike C2 Domain,/jquery.com/,185.155.96.178
 ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.90.150
 ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js,192.144.198.126
 ns1.libai.monster,Possible Cobalt Strike C2 Domain,/push,45.135.117.110
+ns1.libai.monster,Possible Cobalt Strike C2 Domain,/push,45.155.222.221
 ns1.m0ksh4.com,Possible Cobalt Strike C2 Domain,/haiku.aspx,118.208.115.22
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,66.29.131.147
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
