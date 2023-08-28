@@ -15,7 +15,7 @@ acc.hello.ljjjkkklll.asia,Possible Cobalt Strike C2 Domain,/api/3
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
 akadns-02.net,Possible Cobalt Strike C2 Domain,/__utm.gif
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/activity
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -233,6 +233,7 @@ mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 managerparty.com,Possible Cobalt Strike C2 Domain,/Communicate/Servlets/X51IK3U39S
 measurement.springhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css
+meetlak.link,Possible Cobalt Strike C2 Domain,/api/3
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match

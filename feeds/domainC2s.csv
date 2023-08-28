@@ -1,7 +1,6 @@
 #domain,ioc
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain
-6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
 7w.lv,Possible Cobalt Strike C2 Domain
 99avip.online,Possible Cobalt Strike C2 Fronted Domain
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain
@@ -19,7 +18,6 @@ apple.weathersin.com,Possible Cobalt Strike C2 Domain
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain
-auto-gpt.pw,Possible Cobalt Strike C2 Domain
 aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain
@@ -140,6 +138,7 @@ lxnft.org,Possible Cobalt Strike C2 Domain
 machine.wizardsfinance.com,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 measurement.springhealthpharmacy.com,Possible Cobalt Strike C2 Domain
+meetlak.link,Possible Cobalt Strike C2 Domain
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain
