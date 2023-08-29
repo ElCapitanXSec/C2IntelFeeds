@@ -39,7 +39,7 @@ auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/
 auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU,47.236.24.0
 aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/j.ad,213.142.159.117
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel,23.98.137.196
-aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/g.pixel,137.184.137.107
+aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm,137.184.137.107
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc,124.71.34.132
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,213.142.151.236
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca,213.142.151.236

@@ -21,7 +21,7 @@ aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/j.ad
-aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/g.pixel
+aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca
 biohealth.azurewebsites.net,Possible Cobalt Strike C2 Domain,/find
