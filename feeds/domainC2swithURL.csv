@@ -305,6 +305,7 @@ service-gnzojfcb-1302811215.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-hzdiypvm-1318122919.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
+service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact
@@ -338,16 +339,19 @@ update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/cx
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+v10.officaesmicrasftonline.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vegetable.readquotations.com,Possible Cobalt Strike C2 Domain,/j.ad
 veriernano.com,Possible Cobalt Strike C2 Domain,/j.ad
 version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
+vps.cpple.tk,Possible Cobalt Strike C2 Domain,/cx
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js
