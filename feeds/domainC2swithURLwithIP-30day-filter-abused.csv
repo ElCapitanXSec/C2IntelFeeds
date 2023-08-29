@@ -137,6 +137,7 @@ d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/visit.j
 d2h4y03w84zuqp.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
+d3a95mnixoebky.cloudfront.net,Possible Cobalt Strike C2 Domain,/j.ad,44.198.16.37
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3ondvpc6davvt.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,194.182.190.61
@@ -260,6 +261,7 @@ mx.weixin3.bond,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/202
 mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search,147.182.229.244
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.241.22
+netdevstudio.com,Possible Cobalt Strike C2 Domain,/es.css,91.103.253.7
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/es.css,91.103.253.8
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,91.103.253.7
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,143.92.39.125
@@ -491,7 +493,6 @@ service-lyemd3y8-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
 service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cgi-bin/mmwebwx-bin/webwxgetcontact,36.139.58.168
-service-ntfl1fj6-1300612713.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/static/js/vue.min.js,159.75.254.173
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,118.195.184.126
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj,101.42.254.219
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,175.178.213.59
@@ -585,7 +586,6 @@ www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search,147.182.2
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css,45.77.24.248
 www.newbing.fyi,Possible Cobalt Strike C2 Domain,/search/,81.71.68.50
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/detect/v3.33/EZZF2Q31RFAY,43.228.91.212
-www.test9977.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js,47.99.177.59
 www.unbreakable.live,Possible Cobalt Strike C2 Domain,/visit.js,54.151.32.137
 www.union-pay.vip,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js,43.138.10.93
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js,47.242.203.102
