@@ -19,6 +19,7 @@ aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink,178.128.193.49
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js,178.128.193.49
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,178.128.59.129
 aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/j.ad,213.142.159.117
+awda.updatecode.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,212.192.15.231
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm,137.184.137.107
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,213.142.151.236
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca,213.142.151.236
@@ -110,6 +111,7 @@ download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownlo
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/j.ad,213.142.159.117
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
+dyqlwc826gfy0.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/xElMzj/LBisNgqGX2xhHvXLgCwe3rasI,157.245.97.186
 er.sky.florist,Possible Cobalt Strike C2 Domain,/load,88.214.26.100
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,23.95.44.80
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,23.95.44.80
@@ -161,6 +163,7 @@ netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,104.129.20.43
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,91.103.253.7
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,91.103.253.8
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,104.129.20.43
+netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,47.87.133.176
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,91.103.253.6
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,91.103.253.7
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,91.103.253.8
