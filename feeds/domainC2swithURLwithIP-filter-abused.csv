@@ -63,8 +63,8 @@ crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-st
 cs-go.btpanel.asia,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_,172.93.189.47
 cs.fighter-team.xyz,Possible Cobalt Strike C2 Domain,/updates,107.175.142.215
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
-cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/dpixel,208.70.74.144
-cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/j.ad,208.70.74.144
+cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/visit.js,208.70.74.144
+cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/pixel.gif,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink,194.135.17.31
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif,213.142.159.117
@@ -151,6 +151,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.1
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.241.22
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,104.129.20.43
+netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,91.103.253.6
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,91.103.253.7
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,91.103.253.8
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,104.129.20.43
@@ -341,6 +342,7 @@ vps.cpple.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,23.234
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js,104.168.59.8
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,39.107.102.129
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
+www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs,106.52.236.88
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.101.76.53
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink,123.60.43.138
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js,49.232.90.103

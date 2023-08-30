@@ -90,6 +90,7 @@ dns.veriernano.com,Possible Cobalt Strike C2 Domain
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
+dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
@@ -314,6 +315,7 @@ websystemdisk.com,Possible Cobalt Strike C2 Domain
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
+www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain
 www.alwy.live,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain

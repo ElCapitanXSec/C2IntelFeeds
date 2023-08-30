@@ -61,8 +61,8 @@ crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-st
 cs-go.btpanel.asia,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_
 cs.fighter-team.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/dpixel
-cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/j.ad
+cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/visit.js
+cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif
@@ -100,6 +100,7 @@ dns.veriernano.com,Possible Cobalt Strike C2 Domain,/dot.gif
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/Docs
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2016/12/29136388_
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/j.ad
@@ -331,6 +332,7 @@ websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
