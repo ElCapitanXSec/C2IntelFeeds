@@ -19,6 +19,7 @@ auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain
 aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain
 awda.updatecode.xyz,Possible Cobalt Strike C2 Domain
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain
+b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain
 biohealth.azurewebsites.net,Possible Cobalt Strike C2 Domain
@@ -301,6 +302,7 @@ websystemdisk.com,Possible Cobalt Strike C2 Domain
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain
+www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain
 www.emohack.xyz,Possible Cobalt Strike C2 Domain
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain
 www.micorsoft.live,Possible Cobalt Strike C2 Domain

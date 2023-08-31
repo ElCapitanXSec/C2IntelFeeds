@@ -36,6 +36,7 @@ aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/j.ad
 awda.updatecode.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm
+b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.6.0.js
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -377,7 +378,7 @@ pinterest.com,Possible Cobalt Strike C2 Fronting Domain,/kj.html
 policy.sso-epg.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/10/29136388_
 polling.campaigns.kp-crdc.org,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/76184694_
 port.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
-powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/bg.js
+powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/lu.js
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -541,6 +542,7 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
