@@ -70,7 +70,7 @@
 "health-degree.com","Possible Cobaltstrike DNS C2 Domain","54.145.9.123","block.health-degree.com"
 "healthxpr.com","Possible Cobaltstrike DNS C2 Domain","54.227.126.177","front.healthxpr.com"
 "healthyalwayss.com","Possible Cobaltstrike DNS C2 Domain","44.201.241.22","net.healthyalwayss.com"
-"icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","118.25.137.239","ns3.icbcbc.com.cn ns4.icbcbc.com.cn"
+"icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","118.25.137.239","m1.icbcbc.com.cn m2.icbcbc.com.cn ns3.icbcbc.com.cn ns4.icbcbc.com.cn"
 "incididunt.com","Possible Cobaltstrike DNS C2 Domain","103.114.163.107","dns.incididunt.com incididunt.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"

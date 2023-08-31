@@ -153,6 +153,7 @@ dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 download.baidumusic.cloud,Possible Cobalt Strike C2 Domain
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
+driverstorage.firmware.keenetic.pro,Possible Cobalt Strike C2 Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 dt.localtoast.co.za,Possible Cobalt Strike C2 Domain
 dyqlwc826gfy0.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -209,8 +210,9 @@ log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 look.oregonwomenshealthnetwork.com,Possible Cobalt Strike C2 Domain
-lvluo.buzz,Possible Cobalt Strike C2 Domain
 lxnft.org,Possible Cobalt Strike C2 Domain
+m1.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
+m2.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
 machine.wizardsfinance.com,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 managerparty.com,Possible Cobalt Strike C2 Domain
@@ -474,7 +476,6 @@ testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain
 theonecorp.live,Possible Cobalt Strike C2 Domain
 tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain
 tiepanghu.xyz,Possible Cobalt Strike C2 Domain
-toddy.sytes.net,Possible Cobalt Strike C2 Domain
 tools.internalupdate.net,Possible Cobalt Strike C2 Domain
 tu.oksys.lol,Possible Cobalt Strike C2 Domain
 upd343.winserverupdates.com,Possible Cobalt Strike C2 Domain
