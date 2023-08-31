@@ -64,6 +64,7 @@ cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain
 cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain
 cdn.google-cloudflare-static.store,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
+cdn.osn.gov.uk,Possible Cobalt Strike C2 Fronted Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain
@@ -482,7 +483,6 @@ vps.cpple.tk,Possible Cobalt Strike C2 Domain
 websystemdisk.com,Possible Cobalt Strike C2 Domain
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain
 www.alwy.live,Possible Cobalt Strike C2 Domain
 www.certinstall.cc,Possible Cobalt Strike C2 Domain
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain

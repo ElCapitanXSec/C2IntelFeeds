@@ -74,6 +74,7 @@ cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,179.43.155
 cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png,123.56.218.129
 cdn.google-cloudflare-static.store,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,152.32.173.164
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1,124.220.19.234
+cdn.osn.gov.uk,Possible Cobalt Strike C2 Fronted Domain,/index.html,213.142.159.117
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.125.214
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x,121.4.237.161
 cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push,107.172.206.242
@@ -123,12 +124,8 @@ d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink,194.135.17.31
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html,43.206.63.126
 d2042y8vbs9p7p.cloudfront.net,Possible Cobalt Strike C2 Domain,/RELEASE,54.165.147.46
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif,213.142.159.117
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/activity,213.142.159.117
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/en_US/all.js,213.142.159.117
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/pixel.gif,213.142.159.117
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/push,213.142.159.117
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/visit.js,213.142.159.117
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/index.html,213.142.159.117
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/priviasecurity,213.142.159.117
 d2h4y03w84zuqp.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.0.77.64
@@ -561,7 +558,6 @@ vps.cpple.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,23.234
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js,104.168.59.8
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,39.107.102.129
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs,106.52.236.88
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.101.76.53
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.207.13.100
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink,123.60.43.138

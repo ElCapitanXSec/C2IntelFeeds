@@ -67,7 +67,7 @@ cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain
 cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain
 cdn.google-cloudflare-static.store,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
-cdn.ons.gov.uk,Possible Cobalt Strike C2 Fronted Domain
+cdn.osn.gov.uk,Possible Cobalt Strike C2 Fronted Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
 cdn.update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain
@@ -149,7 +149,6 @@ dnslog.zhaoyr.online,Possible Cobalt Strike C2 Domain
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
-dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 download.baidumusic.cloud,Possible Cobalt Strike C2 Domain
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
@@ -506,7 +505,6 @@ weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 wordpress.com,Possible Cobalt Strike C2 Fronting Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain
 www.alwy.live,Possible Cobalt Strike C2 Domain
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain

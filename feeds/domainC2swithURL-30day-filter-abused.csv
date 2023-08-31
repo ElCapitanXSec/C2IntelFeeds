@@ -67,6 +67,7 @@ cdn.ethvseos.nl,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.glgjssy.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png
 cdn.google-cloudflare-static.store,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
+cdn.osn.gov.uk,Possible Cobalt Strike C2 Fronted Domain,/index.html
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 cdn.whereismyip.cf,Possible Cobalt Strike C2 Domain,/push
@@ -107,12 +108,8 @@ d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink
 d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html
 d2042y8vbs9p7p.cloudfront.net,Possible Cobalt Strike C2 Domain,/RELEASE
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/activity
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/en_US/all.js
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/pixel.gif
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/push
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/visit.js
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/index.html
+d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/priviasecurity
 d2h4y03w84zuqp.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d2nc4vdebby89a.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -513,7 +510,6 @@ vps.cpple.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
