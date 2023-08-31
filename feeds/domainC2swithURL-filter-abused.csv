@@ -258,7 +258,6 @@ service-6wt8xswb-1307888624.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-74yuo2f8-1300892604.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-7tnbn05f-1319135578.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/enable/PDF/ITZE5SUW
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-d7elcuq0-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-dauzg94w-1258021343.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
@@ -310,7 +309,6 @@ vps.cpple.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
