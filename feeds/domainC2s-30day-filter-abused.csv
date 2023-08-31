@@ -226,6 +226,7 @@ ns.checkavail.space,Possible Cobalt Strike C2 Domain
 ns.chinare.cf,Possible Cobalt Strike C2 Domain
 ns.cra2demo.trip2health.com,Possible Cobalt Strike C2 Domain
 ns.googlearth.top,Possible Cobalt Strike C2 Domain
+ns.higogo.me,Possible Cobalt Strike C2 Domain
 ns.matrika.cn,Possible Cobalt Strike C2 Domain
 ns.msazure.dnsrd.com,Possible Cobalt Strike C2 Domain
 ns.mydhx.top,Possible Cobalt Strike C2 Domain
@@ -391,6 +392,7 @@ service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-8wufk5et-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a85mcmy2-1259015174.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-bvle58gz-1311190281.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -434,6 +436,7 @@ software.cncb.info,Possible Cobalt Strike C2 Domain
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain
 static.js.apps.webproxy.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain
 static.js.apps.webproxy.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
+station.startupstorey.com,Possible Cobalt Strike C2 Domain
 stela-artua.xyz,Possible Cobalt Strike C2 Domain
 stratpringl.com,Possible Cobalt Strike C2 Domain
 stub.ignorelist.com,Possible Cobalt Strike C2 Domain
@@ -483,8 +486,10 @@ vps.cpple.tk,Possible Cobalt Strike C2 Domain
 websystemdisk.com,Possible Cobalt Strike C2 Domain
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
+www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain
 www.alwy.live,Possible Cobalt Strike C2 Domain
 www.certinstall.cc,Possible Cobalt Strike C2 Domain
+www.emohack.xyz,Possible Cobalt Strike C2 Domain
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain
 www.healthylifeandliving.org,Possible PoshC2 Domain
 www.micorsoft.live,Possible Cobalt Strike C2 Domain
