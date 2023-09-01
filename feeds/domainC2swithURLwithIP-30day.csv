@@ -48,9 +48,6 @@ beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,213.142.15
 beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html,213.142.159.117
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca,213.142.151.236
 beacon2.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html,213.142.159.117
-bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
-bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
-biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js,195.133.53.144
 bingobangobongobishbashbosh.xyz,Possible Cobalt Strike C2 Domain,/ki.js,45.66.151.195
 binsmob.com,Possible Cobalt Strike C2 Domain,/j.ad,31.44.184.74
