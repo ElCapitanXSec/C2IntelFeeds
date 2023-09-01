@@ -105,9 +105,9 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js,47.87.207.163
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js,66.63.188.3
-creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js,91.103.253.70
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/link.html,91.103.253.70
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,66.63.188.13
+creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,91.103.253.70
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,47.251.36.32
 crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,47.251.36.32
 cs-go.btpanel.asia,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_,172.93.189.47
@@ -400,6 +400,7 @@ pics.bonplan.lu,Possible Cobalt Strike C2 Domain,/api/v1/Update,34.251.142.170
 policy.sso-epg.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/10/29136388_,134.209.103.87
 polling.campaigns.kp-crdc.org,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/76184694_,198.211.104.128
 port.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,178.128.59.129
+postreq.net,Possible Cobalt Strike C2 Domain,/show/v5.33/D70MZ560Q8,5.42.64.3
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain,/lu.js,137.184.101.24
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,146.70.79.23
 ppt.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,37.120.234.98
@@ -583,6 +584,7 @@ www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/g.pixel,124.220.10.7
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js,124.220.10.78
 www.mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search,147.182.229.244
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css,45.77.24.248
+www.postreq.net,Possible Cobalt Strike C2 Domain,/show/v5.33/D70MZ560Q8,5.42.64.3
 www.qtencent.life,Possible Cobalt Strike C2 Domain,/owa/,185.239.224.69
 www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/destroy/v6.82/E4QYN5HVXJ,43.228.91.212
 www.unbreakable.live,Possible Cobalt Strike C2 Domain,/visit.js,54.151.32.137
