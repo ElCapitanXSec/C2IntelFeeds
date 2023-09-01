@@ -36,7 +36,9 @@ aws-na-ec2.com,Possible Cobalt Strike C2 Domain
 b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain
+beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain
+beacon2.keremsarmis.xyz,Possible Cobalt Strike C2 Domain
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain
 bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain
 biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain
@@ -204,7 +206,6 @@ machine.wizardsfinance.com,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 managerparty.com,Possible Cobalt Strike C2 Domain
 measurement.springhealthpharmacy.com,Possible Cobalt Strike C2 Domain
-mecezom.biz,Possible Cobalt Strike C2 Fronted Domain
 meetlak.link,Possible Cobalt Strike C2 Domain
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
@@ -401,7 +402,6 @@ service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-d7elcuq0-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dauzg94w-1258021343.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain

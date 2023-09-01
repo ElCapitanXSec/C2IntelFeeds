@@ -42,7 +42,9 @@ aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm,137.184.137.107
 b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.6.0.js,174.138.79.156
 bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc,124.71.34.132
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,213.142.151.236
+beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html,213.142.159.117
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca,213.142.151.236
+beacon2.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html,213.142.159.117
 bia.msoffice2.com,Possible Cobalt Strike C2 Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
 bia.msoffice2.com,Possible Cobalt Strike C2 Fronting Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
 biabkp.msoffice2.com,Possible Cobalt Strike C2 Fronted Domain,/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js,104.248.91.12
@@ -166,7 +168,7 @@ dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/ca,185.74.254.12
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/cx,31.44.184.97
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/dpixel,31.44.184.39
 dns.stratpringl.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,31.44.184.88
-dns.veriernano.com,Possible Cobalt Strike C2 Domain,/dot.gif,194.34.133.87
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/pixel,194.34.133.87
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/pixel,31.44.184.63
 dnslog.zhaoyr.online,Possible Cobalt Strike C2 Domain,/load,61.136.208.3
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf,185.74.222.16
@@ -240,7 +242,6 @@ machine.wizardsfinance.com,Possible Cobalt Strike C2 Domain,/j.ad,34.226.249.189
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 managerparty.com,Possible Cobalt Strike C2 Domain,/Communicate/Servlets/X51IK3U39S,46.161.27.160
 measurement.springhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad,44.208.22.232
-mecezom.biz,Possible Cobalt Strike C2 Fronted Domain,/modcp.css,23.108.57.187
 meetlak.link,Possible Cobalt Strike C2 Domain,/api/3,139.159.196.229
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console,34.82.224.93
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console,35.227.144.96
@@ -471,7 +472,6 @@ service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.212.90
 service-d7elcuq0-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,129.211.222.142
 service-dauzg94w-1258021343.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,175.24.176.137
-service-df5bnsx8-1305350386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,152.32.191.36
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,117.50.174.131
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.93.112
@@ -557,8 +557,8 @@ v10.officaesmicrasftonline.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=n
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 vegetable.readquotations.com,Possible Cobalt Strike C2 Domain,/j.ad,44.211.149.61
-veriernano.com,Possible Cobalt Strike C2 Domain,/j.ad,194.34.133.87
 veriernano.com,Possible Cobalt Strike C2 Domain,/match,31.44.184.63
+veriernano.com,Possible Cobalt Strike C2 Domain,/visit.js,194.34.133.87
 version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad,44.206.245.176
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196

@@ -22,7 +22,9 @@ awda.updatecode.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm
 b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.6.0.js
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca
+beacon2.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html
 biohealth.azurewebsites.net,Possible Cobalt Strike C2 Domain,/find
 bks.loginke.com,Possible Cobalt Strike C2 Domain,/js/main.js
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -89,7 +91,7 @@ dns.greypsecurity.training,Possible Cobalt Strike C2 Domain,/search/
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/ca
 dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/cx
-dns.veriernano.com,Possible Cobalt Strike C2 Domain,/dot.gif
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/pixel
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -318,7 +320,7 @@ updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v10.officaesmicrasftonline.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-veriernano.com,Possible Cobalt Strike C2 Domain,/j.ad
+veriernano.com,Possible Cobalt Strike C2 Domain,/visit.js
 version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 vps.cpple.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
