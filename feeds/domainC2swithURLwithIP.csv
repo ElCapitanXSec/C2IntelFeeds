@@ -56,9 +56,9 @@ comecode.name,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx,18.205.163.231
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
+creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js,47.87.207.163
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js,66.63.188.3
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/link.html,91.103.253.70
-creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,47.87.207.163
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,91.103.253.70
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,47.251.36.32
 crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,47.251.36.32
@@ -321,6 +321,7 @@ tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,91.103.253.48
 test.227api.com,Possible Cobalt Strike C2 Domain,/match,103.146.141.98
 test.227api.com,Possible Cobalt Strike C2 Domain,/match,154.83.17.116
+test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V,216.238.74.154
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match,82.157.63.28
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,39.107.102.129
