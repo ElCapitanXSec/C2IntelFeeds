@@ -7,7 +7,7 @@
 "akingump.cloud","Possible Cobaltstrike DNS C2 Domain","100.26.145.203","dns.ns1.akingump.cloud ns1.akingump.cloud"
 "anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.211.18.108","ns1.anaitea.com ns2.anaitea.com"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
-"autistan.lu","Possible Cobaltstrike DNS C2 Domain","52.31.239.60","pics.autistan.lu"
+"autistan.lu","Possible Cobaltstrike DNS C2 Domain", "52.31.239.60","pics.autistan.lu"
 "aws-na-ec2.com","Possible Cobaltstrike DNS C2 Domain","137.184.137.107","aws-na-ec2.com"
 "azureeservices.co.uk","Possible Cobaltstrike DNS C2 Domain","98.71.232.223","cdn.azureeservices.co.uk"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
