@@ -27,6 +27,8 @@ apple.phruit.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 apple.weathersin.com,Possible Cobalt Strike C2 Domain,/dot.gif
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/activity
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/load
+aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink
+aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU
 aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/j.ad
@@ -236,8 +238,6 @@ microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match
 microsoft-support.zapto.org,Possible PoshC2 Fronting Domain,/vssf/wppo/site/bgroup/visitor/
 mkbkygbgwcdc.buzz,Possible Cobalt Strike C2 Domain,/api/3
 msdwn.herokuapp.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/ca
-mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js
 mx.weixin3.bond,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/10/29136388_
 mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
@@ -405,11 +405,12 @@ server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-0gfsz81a-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/sgget-0725
 service-0wjkcltb-1317846665.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-1925bm5o-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1no61otq-1255887418.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel
+service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-2r21z5dz-1258209792.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-3ardqx66-1300773162.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/otsi-update-url.js
+service-3j67aa2t-1259727864.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/SpringG
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/check
 service-4tr9xklk-1301910104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
@@ -426,7 +427,6 @@ service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-8wufk5et-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/launchpage/ELR8U5MOB
 service-a85mcmy2-1259015174.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -459,6 +459,7 @@ service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-n8rz74li-1301267584.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-rfzb8g23-1319095131.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -485,7 +486,7 @@ sviacloud.link,Possible Cobalt Strike C2 Domain,/dot.gif
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
 teams.microsoft.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
-test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
+test.227api.com,Possible Cobalt Strike C2 Domain,/match
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match

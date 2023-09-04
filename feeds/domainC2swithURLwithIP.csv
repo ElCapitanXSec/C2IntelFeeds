@@ -17,6 +17,8 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.242.20
 apiv1.financialservicesnorthamerica.com,Possible Cobalt Strike C2 Domain,/opensearch,34.82.224.93
 apple.phruit.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,13.228.103.159
 apple.weathersin.com,Possible Cobalt Strike C2 Domain,/dot.gif,149.28.208.144
+aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink,178.128.193.49
+aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js,178.128.193.49
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,178.128.59.129
 awda.updatecode.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,212.192.15.231
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel,23.98.137.196
@@ -164,8 +166,6 @@ mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console,34.8
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match,154.26.134.72
 mkbkygbgwcdc.buzz,Possible Cobalt Strike C2 Domain,/api/3,38.54.85.31
-mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/ca,178.128.193.49
-mx.kortex-tech.com,Possible Cobalt Strike C2 Domain,/visit.js,178.128.193.49
 mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search,147.182.229.244
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.241.22
@@ -298,9 +298,10 @@ sentinelupdate.click,Possible Cobalt Strike C2 Domain,/Upset/v5.99/L3LR13HA,87.1
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.67.229.116
 service-0gfsz81a-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/sgget-0725,114.132.156.55
-service-1925bm5o-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,129.211.222.142
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-1no61otq-1255887418.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel,1.14.65.125
+service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
+service-3j67aa2t-1259727864.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,60.204.133.143
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/SpringG,8.130.106.206
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/SpringG,8.130.66.2
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/check,38.147.172.79
@@ -317,7 +318,6 @@ service-7tnbn05f-1319135578.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.132.73.232
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.103.213.209
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,116.63.173.221
-service-a3q6cine-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/launchpage/ELR8U5MOB,43.138.29.85
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.103.213.209
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Define/v4.38/J6FPKAIO8,111.230.11.169
@@ -342,6 +342,7 @@ service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-n8rz74li-1301267584.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,45.77.21.253
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,118.195.184.126
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.42.254.219
+service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,129.211.222.142
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,175.178.213.59
 service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,182.161.38.11
 service-rsb9hux9-1258128533.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm,111.67.195.154
@@ -361,8 +362,8 @@ tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,91.103.253.48
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,91.103.253.48
-test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,103.146.141.98
-test.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel,154.83.17.116
+test.227api.com,Possible Cobalt Strike C2 Domain,/match,103.146.141.98
+test.227api.com,Possible Cobalt Strike C2 Domain,/match,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V,216.238.74.154
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match,82.157.63.28
