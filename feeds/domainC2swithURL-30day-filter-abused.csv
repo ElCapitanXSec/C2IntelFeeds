@@ -377,7 +377,6 @@ seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 sentinelupdate.click,Possible Cobalt Strike C2 Domain,/Upset/v5.99/L3LR13HA
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-0gfsz81a-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/sgget-0725
 service-0wjkcltb-1317846665.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1no61otq-1255887418.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel
@@ -434,6 +433,7 @@ service-n8rz74li-1301267584.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-rfzb8g23-1319095131.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -499,6 +499,8 @@ www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/j
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
+www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
+www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
 www.microsofer.top,Possible Cobalt Strike C2 Domain,/image/

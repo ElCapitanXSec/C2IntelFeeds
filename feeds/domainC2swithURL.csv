@@ -67,6 +67,7 @@ crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-st
 cs-go.btpanel.asia,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/push
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
+cs1.dnsonlin.co,Possible Cobalt Strike C2 Domain,/sub/console/Y4E77EFO
 cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/match
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
@@ -267,7 +268,6 @@ seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 sentinelupdate.click,Possible Cobalt Strike C2 Domain,/Upset/v5.99/L3LR13HA
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-0gfsz81a-1306743016.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/sgget-0725
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1no61otq-1255887418.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
@@ -311,6 +311,7 @@ service-n8rz74li-1301267584.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rsb9hux9-1258128533.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm
@@ -357,6 +358,8 @@ www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/j
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
+www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
+www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/g.pixel
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js
