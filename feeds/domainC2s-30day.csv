@@ -26,6 +26,7 @@ app.livcloud.info,Possible Cobalt Strike C2 Domain
 apple.phruit.shop,Possible Cobalt Strike C2 Domain
 apple.weathersin.com,Possible Cobalt Strike C2 Domain
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain
+as.svchostsreg.com,Possible Cobalt Strike C2 Domain
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain
 auto-gpt.pw,Possible Cobalt Strike C2 Domain
@@ -143,7 +144,6 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
-download.baidumusic.cloud,Possible Cobalt Strike C2 Domain
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 driverstorage.firmware.keenetic.pro,Possible Cobalt Strike C2 Domain
@@ -353,6 +353,7 @@ qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
 qlvbsnv.binhphuoc.unixkernelhelp.com,Possible Cobalt Strike C2 Domain
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain
+qw.svchostsreg.com,Possible Cobalt Strike C2 Domain
 r1.dread-it.online,Possible Cobalt Strike C2 Domain
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
@@ -514,7 +515,6 @@ www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
 xcaadoadw.store,Possible Cobalt Strike C2 Domain
-xisowah.info,Possible Cobalt Strike C2 Domain
 xmkq08012g.top,Possible Cobalt Strike C2 Domain
 xovohed.org,Possible Cobalt Strike C2 Domain
 xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain
@@ -524,3 +524,4 @@ ys035.tv,Possible Cobalt Strike C2 Domain
 yuiko.xyz,Possible Cobalt Strike C2 Domain
 zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
+zx.svchostsreg.com,Possible Cobalt Strike C2 Domain

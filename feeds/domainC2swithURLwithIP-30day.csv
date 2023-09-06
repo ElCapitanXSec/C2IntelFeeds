@@ -31,6 +31,7 @@ apple.phruit.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,13.228.1
 apple.weathersin.com,Possible Cobalt Strike C2 Domain,/dot.gif,149.28.208.144
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/activity,119.148.49.49
 arpaa.ddns.net,Possible Cobalt Strike C2 Domain,/load,119.148.49.49
+as.svchostsreg.com,Possible Cobalt Strike C2 Domain,/get.css,5.188.87.41
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink,178.128.193.49
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js,178.128.193.49
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,178.128.59.129
@@ -170,7 +171,6 @@ dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,159.75.187.222
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.218.129.91
 dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/Docs,106.52.236.88
-download.baidumusic.cloud,Possible Cobalt Strike C2 Domain,/api/broadcast/index,222.186.168.244
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2016/12/29136388_,172.93.189.47
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,170.64.169.229
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
@@ -412,6 +412,7 @@ qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3,47.243.104.189
 qlvbsnv.binhphuoc.unixkernelhelp.com,Possible Cobalt Strike C2 Domain,/pixel,140.82.23.123
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.55.180.110
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,111.230.194.172
+qw.svchostsreg.com,Possible Cobalt Strike C2 Domain,/get.css,5.188.87.41
 r1.dread-it.online,Possible Cobalt Strike C2 Domain,/picture/slashdot/8OY5EI1E,3.252.135.5
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d,103.16.231.87
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
@@ -599,7 +600,6 @@ www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 xcaadoadw.store,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,179.43.142.53
-xisowah.info,Possible Cobalt Strike C2 Domain,/put/util/AXXRV7P4,185.243.113.173
 xmkq08012g.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.154.14.120
 xovohed.org,Possible Cobalt Strike C2 Domain,/restore/v5.88/W0V7CRVFH,64.44.102.84
 xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain,/cr.css,23.108.57.45
@@ -609,3 +609,4 @@ ys035.tv,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,128.1.134.49
 yuiko.xyz,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,101.37.164.243
 zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,39.107.32.219
 zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,39.107.32.219
+zx.svchostsreg.com,Possible Cobalt Strike C2 Domain,/ki.css,5.188.87.41
