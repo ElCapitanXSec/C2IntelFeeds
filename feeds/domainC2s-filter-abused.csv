@@ -59,6 +59,7 @@ crew1.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain
 cs-go.btpanel.asia,Possible Cobalt Strike C2 Fronted Domain
 cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain
+cs.sharksbaby.pro,Possible Cobalt Strike C2 Domain
 cs1.dnsonlin.co,Possible Cobalt Strike C2 Domain
 cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain
 cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain
@@ -208,6 +209,7 @@ ns4.10010.buzz,Possible Cobalt Strike C2 Domain
 ns4.digitelela.com,Possible Cobalt Strike C2 Domain
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain
 oa.cncb.info,Possible Cobalt Strike C2 Domain
+oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain
 payloads.one,Possible Cobalt Strike C2 Domain
@@ -228,7 +230,7 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 rapidevolution.org,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
-res.mall.10010.cn,Possible Cobalt Strike C2 Domain
+res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain
 ringatpstul.com,Possible Cobalt Strike C2 Domain
 risky.dlingqling.cf,Possible Cobalt Strike C2 Domain
@@ -277,7 +279,6 @@ service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-n8rz74li-1301267584.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -328,7 +329,6 @@ www.microsoft-update.club,Possible Cobalt Strike C2 Domain
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain
 www.postreq.net,Possible Cobalt Strike C2 Domain
 www.qtencent.life,Possible Cobalt Strike C2 Domain
-www.sharksbaby.pro,Possible Cobalt Strike C2 Domain
 www.sitennews.com,Possible Cobalt Strike C2 Domain
 www.unbreakable.live,Possible Cobalt Strike C2 Domain
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain

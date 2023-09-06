@@ -107,6 +107,7 @@ cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates,47.107.36.89
 cs.dabiaoge.eu.org,Possible Cobalt Strike C2 Fronting Domain,/image/,149.115.229.58
 cs.dingjie.eu.org,Possible Cobalt Strike C2 Fronted Domain,/image/,149.115.229.58
 cs.fighter-team.xyz,Possible Cobalt Strike C2 Domain,/updates,107.175.142.215
+cs.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/destroy/v6.82/E4QYN5HVXJ,43.228.91.212
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,114.115.184.15
 cs1.dnsonlin.co,Possible Cobalt Strike C2 Domain,/sub/console/Y4E77EFO,43.136.40.179
 cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,208.70.74.144
@@ -366,6 +367,7 @@ ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/fwlink,199.195.251.219
 nsxx.luqiqi.top,Possible Cobalt Strike C2 Domain,/updates.rss,123.57.92.227
 o.wps.pics,Possible Cobalt Strike C2 Domain,/www/handle/doc,116.205.232.186
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
+oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js,39.105.107.87
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,104.200.67.121
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,195.133.23.90
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/en,104.168.48.208
@@ -404,7 +406,7 @@ rapidevolution.org,Possible Cobalt Strike C2 Domain,/us.html,104.129.20.190
 rapidevolution.org,Possible Cobalt Strike C2 Domain,/us.html,91.103.253.5
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 rendnar.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.67.159.186
-res.mall.10010.cn,Possible Cobalt Strike C2 Domain,/static/js/21.4ba2507c.js,39.105.107.87
+res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js,39.105.107.87
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain,/__utm.gif,198.13.34.82
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink,31.44.184.39
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js,31.44.184.97
@@ -561,7 +563,6 @@ www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js,124.220.10.78
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css,45.77.24.248
 www.postreq.net,Possible Cobalt Strike C2 Domain,/show/v5.33/D70MZ560Q8,5.42.64.3
 www.qtencent.life,Possible Cobalt Strike C2 Domain,/owa/,185.239.224.69
-www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/destroy/v6.82/E4QYN5HVXJ,43.228.91.212
 www.sitennews.com,Possible Cobalt Strike C2 Domain,/Siten_News/Zous,94.131.118.23
 www.unbreakable.live,Possible Cobalt Strike C2 Domain,/visit.js,54.151.32.137
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js,47.242.203.102

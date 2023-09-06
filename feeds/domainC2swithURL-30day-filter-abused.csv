@@ -94,6 +94,7 @@ cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates
 cs.dabiaoge.eu.org,Possible Cobalt Strike C2 Fronting Domain,/image/
 cs.dingjie.eu.org,Possible Cobalt Strike C2 Fronted Domain,/image/
 cs.fighter-team.xyz,Possible Cobalt Strike C2 Domain,/updates
+cs.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/destroy/v6.82/E4QYN5HVXJ
 cs.wsxqaz.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cs1.dnsonlin.co,Possible Cobalt Strike C2 Domain,/sub/console/Y4E77EFO
 cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -333,6 +334,7 @@ ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/fwlink
 nsxx.luqiqi.top,Possible Cobalt Strike C2 Domain,/updates.rss
 o.wps.pics,Possible Cobalt Strike C2 Domain,/www/handle/doc
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/en
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js
@@ -363,7 +365,7 @@ rapidevolution.org,Possible Cobalt Strike C2 Domain,/rw
 rapidevolution.org,Possible Cobalt Strike C2 Domain,/us.html
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 rendnar.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-res.mall.10010.cn,Possible Cobalt Strike C2 Domain,/static/js/21.4ba2507c.js
+res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 resource.sekretariatparti.org,Possible Cobalt Strike C2 Domain,/__utm.gif
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js
@@ -510,7 +512,6 @@ www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css
 www.postreq.net,Possible Cobalt Strike C2 Domain,/show/v5.33/D70MZ560Q8
 www.qtencent.life,Possible Cobalt Strike C2 Domain,/owa/
-www.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/destroy/v6.82/E4QYN5HVXJ
 www.sitennews.com,Possible Cobalt Strike C2 Domain,/Siten_News/Zous
 www.unbreakable.live,Possible Cobalt Strike C2 Domain,/visit.js
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
