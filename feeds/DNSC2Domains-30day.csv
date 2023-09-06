@@ -86,7 +86,7 @@
 "microsoft.com","Possible Cobaltstrike DNS C2 Domain","119.3.224.30","cloud.microsoft.com info.microsoft.com teams.microsoft.com"
 "microsoftapply.com","Possible Cobaltstrike DNS C2 Domain","45.12.138.94","update.microsoftapply.com"
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","45.12.138.95","update.microsofthk.com"
-"microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain", "45.12.138.95","update.microsoftkernel.com"
+"microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain","45.12.138.95","update.microsoftkernel.com"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","181.214.39.102 23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top exchanges1.microsoftser.top exchanges2.microsoftser.top"
 "microtimezone.com","Possible Cobaltstrike DNS C2 Domain","66.29.131.147","ns1.microtimezone.com ns2.microtimezone.com"
 "mlcr0s0ft.one","Possible Cobaltstrike DNS C2 Domain","45.32.253.112","nc1.mlcr0s0ft.one ns1.mlcr0s0ft.one"
@@ -143,4 +143,3 @@
 "yahootk.tk","Possible Cobaltstrike DNS C2 Domain","45.130.146.133","ns1.yahootk.tk ns2.yahootk.tk ns3.yahootk.tk"
 "zhaoyr.online","Possible Cobaltstrike DNS C2 Domain","61.136.208.3","dnslog.zhaoyr.online"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-

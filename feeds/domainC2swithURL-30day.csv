@@ -1,5 +1,7 @@
 #domain,ioc,uri_path
 1.sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/dpixel
+2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
+2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 360.cn,Possible Cobalt Strike C2 Fronting Domain,/cr.css
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -178,6 +180,7 @@ forcorpor.com,Possible Cobalt Strike C2 Domain,/activity
 framedscenes.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 freehish.xyz,Possible Cobalt Strike C2 Domain,/image/
 front.healthxpr.com,Possible Cobalt Strike C2 Domain,/j.ad
+fwe43.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 github.com,Possible Cobalt Strike C2 Fronting Domain,/jp.css
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gobyhacking.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -475,6 +478,7 @@ stub.ignorelist.com,Possible Cobalt Strike C2 Domain,/ptj
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_
 sviacloud.link,Possible Cobalt Strike C2 Domain,/dot.gif
+sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/ptj
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
 teams.microsoft.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js

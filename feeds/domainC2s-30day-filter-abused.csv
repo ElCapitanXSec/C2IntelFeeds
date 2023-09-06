@@ -1,5 +1,7 @@
 #domain,ioc
 1.sybercodesilver.lol,Possible Cobalt Strike C2 Domain
+2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain
+2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
@@ -153,6 +155,7 @@ forcorpor.com,Possible Cobalt Strike C2 Domain
 framedscenes.com,Possible Cobalt Strike C2 Domain
 freehish.xyz,Possible Cobalt Strike C2 Domain
 front.healthxpr.com,Possible Cobalt Strike C2 Domain
+fwe43.danamoninternal.com,Possible Cobalt Strike C2 Domain
 gk-stst.ru,Possible Cobalt Strike C2 Domain
 gobyhacking.online,Possible Cobalt Strike C2 Domain
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain
@@ -431,6 +434,7 @@ stub.ignorelist.com,Possible Cobalt Strike C2 Domain
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain
 sviacloud.link,Possible Cobalt Strike C2 Domain
+sybercodesilver.lol,Possible Cobalt Strike C2 Domain
 tcessolution.com,Possible Cobalt Strike C2 Domain
 test.227api.com,Possible Cobalt Strike C2 Domain
 test.g-security.cn,Possible Cobalt Strike C2 Domain
