@@ -38,7 +38,6 @@ cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain
 cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
-cdn.osn.gov.uk,Possible Cobalt Strike C2 Fronted Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
 cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domain
 cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain
@@ -66,7 +65,6 @@ cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain
 cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
-d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 d3a4778vul2s2h.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -83,6 +81,7 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dirt.acemindtechnology.com,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
+dns.elsewhens.org,Possible Cobalt Strike C2 Domain
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain
 dns.greypsecurity.training,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
@@ -159,7 +158,6 @@ ns1.caigoupangza.top,Possible Cobalt Strike C2 Domain
 ns1.ccadn.org,Possible Cobalt Strike C2 Domain
 ns1.cdnmax.info,Possible Cobalt Strike C2 Domain
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
-ns1.chat666.live,Possible Cobalt Strike C2 Domain
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns1.corpais900.co,Possible Cobalt Strike C2 Domain
 ns1.digitelela.com,Possible Cobalt Strike C2 Fronted Domain
@@ -173,7 +171,6 @@ ns1.microtimezone.com,Possible Cobalt Strike C2 Domain
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
 ns1.niggerasssys.com,Possible Cobalt Strike C2 Domain
 ns1.ossqianxin.co,Possible Cobalt Strike C2 Domain
-ns1.proxyservice.shop,Possible Cobalt Strike C2 Domain
 ns1.tosohindia.cloudns.nz,Possible Cobalt Strike C2 Domain
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain
 ns1.xn--mil-ixy.com,Possible Cobalt Strike C2 Domain
@@ -184,7 +181,6 @@ ns2.anaitea.com,Possible Cobalt Strike C2 Domain
 ns2.caigoupangza.top,Possible Cobalt Strike C2 Domain
 ns2.cdnmax.info,Possible Cobalt Strike C2 Domain
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
-ns2.chat666.live,Possible Cobalt Strike C2 Domain
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns2.corpais900.co,Possible Cobalt Strike C2 Domain
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain
@@ -217,6 +213,7 @@ onlinetechdesk.com,Possible Cobalt Strike C2 Domain
 payloads.one,Possible Cobalt Strike C2 Domain
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain
 percheck.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain
+piac.elsewhens.org,Possible Cobalt Strike C2 Domain
 pics.autistan.lu,Possible Cobalt Strike C2 Domain
 postreq.net,Possible Cobalt Strike C2 Domain
 powellfamilydentist.com,Possible Cobalt Strike C2 Domain
@@ -226,7 +223,6 @@ prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain
 qianxin.edr-down.uk,Possible Cobalt Strike C2 Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
-qq.chenda.xyz,Possible Cobalt Strike C2 Domain
 qw.svchostsreg.com,Possible Cobalt Strike C2 Domain
 r1.dread-it.online,Possible Cobalt Strike C2 Domain
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain
@@ -320,7 +316,6 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain
-www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain
 www.emohack.xyz,Possible Cobalt Strike C2 Domain
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain
