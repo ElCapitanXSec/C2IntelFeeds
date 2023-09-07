@@ -115,7 +115,6 @@ cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/match,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d11xzcebh7lvkz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,50.17.149.220
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink,194.135.17.31
-d1n3g6gayr311x.cloudfront.net,Possible Cobalt Strike C2 Domain,/html,43.206.63.126
 d2042y8vbs9p7p.cloudfront.net,Possible Cobalt Strike C2 Domain,/RELEASE,54.165.147.46
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/index.html,213.142.159.117
 d24tgyiz1j2beu.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/priviasecurity,213.142.159.117
@@ -474,7 +473,6 @@ service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-jr0q1pv2-1259371952.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,62.234.206.247
 service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/news/details,1.13.101.231
 service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js,82.156.151.200
-service-kiss7m2t-1305595184.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.143.186.7
 service-lyemd3y8-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.4.52.176
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
