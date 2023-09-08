@@ -58,7 +58,6 @@ comecode.name,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain,/cx,18.205.163.231
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
-creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js,66.63.188.3
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/link.html,91.103.253.70
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,47.87.207.163
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,91.103.253.70
@@ -71,6 +70,7 @@ cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,
 cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/match,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink,194.135.17.31
+d1t18p67ia2cnc.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/mztKH-/2PTsM8-7uVUYJuAl7E4zRMhs4n,157.245.97.186
 d3a4778vul2s2h.cloudfront.net,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_,34.231.109.93
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
@@ -100,7 +100,6 @@ download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownlo
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_,193.42.32.143
 driverstorage.firmware.keenetic.pro,Possible Cobalt Strike C2 Domain,/Start/ps/INHCOEVIG,91.213.50.35
 dsa7mkr3avu2g.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.202.10.91
-dyqlwc826gfy0.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/xElMzj/LBisNgqGX2xhHvXLgCwe3rasI,157.245.97.186
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js,43.138.10.232
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,23.95.44.80
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js,23.95.44.80
