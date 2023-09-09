@@ -66,8 +66,8 @@ cs.125nmlx-op125.top,Possible Cobalt Strike C2 Domain,/push,34.92.206.127
 cs.aazurenet.xyz,Possible Cobalt Strike C2 Domain,/updates,47.107.36.89
 cs.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/destroy/v6.82/E4QYN5HVXJ,43.228.91.212
 cs1.dnsonlin.co,Possible Cobalt Strike C2 Domain,/sub/console/Y4E77EFO,43.136.40.179
-cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,208.70.74.144
-cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/match,208.70.74.144
+cs45up230808.iqiyia.com,Possible Cobalt Strike C2 Domain,/ptj,208.70.74.144
+cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/activity,208.70.74.144
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3,60.188.56.136
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink,194.135.17.31
 d1t18p67ia2cnc.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/mztKH-/2PTsM8-7uVUYJuAl7E4zRMhs4n,157.245.97.186
