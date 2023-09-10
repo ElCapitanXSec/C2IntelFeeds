@@ -297,7 +297,8 @@ solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 station.startupstorey.com,Possible Cobalt Strike C2 Domain,/j.ad
 stela-artua.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_
-sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/users.jsp
+sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/login.jsp
+sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/pages.jsp
 sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/ptj
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
@@ -338,6 +339,7 @@ www.postreq.net,Possible Cobalt Strike C2 Domain,/show/v5.33/D70MZ560Q8
 www.sitennews.com,Possible Cobalt Strike C2 Domain,/Siten_News/Zous
 www.unbreakable.live,Possible Cobalt Strike C2 Domain,/visit.js
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
+www.weatherths.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

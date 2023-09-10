@@ -210,7 +210,6 @@ images.instagram.com,Possible Cobalt Strike C2 Fronted Domain,/index.html
 incididunt.com,Possible Cobalt Strike C2 Domain,/activity
 incitewebsolution.com,Possible Cobalt Strike C2 Domain,/copyright
 incitewebsolution.com,Possible Cobalt Strike C2 Domain,/lt
-info.bookworld-langchao.work,Possible Cobalt Strike C2 Domain,/jquery.js
 info.microsoft.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 intrafi.azureedge.net,Possible Cobalt Strike C2 Domain,/search
 jdklove.top,Possible Cobalt Strike C2 Domain,/improve/v7.98/F60H46TG
@@ -485,7 +484,8 @@ static.tumblr.com,Possible Cobalt Strike C2 Fronted Domain,/index.html
 station.startupstorey.com,Possible Cobalt Strike C2 Domain,/j.ad
 stela-artua.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_
 stub.ignorelist.com,Possible Cobalt Strike C2 Domain,/ptj
-sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/users.jsp
+sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/login.jsp
+sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/pages.jsp
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_
 sviacloud.link,Possible Cobalt Strike C2 Domain,/dot.gif
@@ -553,6 +553,7 @@ www.qtencent.life,Possible Cobalt Strike C2 Domain,/owa/
 www.sitennews.com,Possible Cobalt Strike C2 Domain,/Siten_News/Zous
 www.unbreakable.live,Possible Cobalt Strike C2 Domain,/visit.js
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
+www.weatherths.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
