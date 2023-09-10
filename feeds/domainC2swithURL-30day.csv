@@ -77,6 +77,7 @@ cdn.zendesk.com,Possible Cobalt Strike C2 Fronted Domain,/priviasecurity
 cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js
 cdnoss.sec.cm,Possible Cobalt Strike C2 Domain,/image/
 cdnoss.sec.cm,Possible Cobalt Strike C2 Fronting Domain,/image/
+charon2.corporate-helpdesk.de,Possible Cobalt Strike C2 Domain,/push
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -484,7 +485,7 @@ static.tumblr.com,Possible Cobalt Strike C2 Fronted Domain,/index.html
 station.startupstorey.com,Possible Cobalt Strike C2 Domain,/j.ad
 stela-artua.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_
 stub.ignorelist.com,Possible Cobalt Strike C2 Domain,/ptj
-sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/index.jsp
+sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/users.jsp
 support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_
 sviacloud.link,Possible Cobalt Strike C2 Domain,/dot.gif
@@ -493,7 +494,6 @@ tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
 teams.microsoft.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif
-test.227api.com,Possible Cobalt Strike C2 Domain,/match
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match

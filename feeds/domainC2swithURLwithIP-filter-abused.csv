@@ -40,6 +40,7 @@ cdn.update.microsoft.com.w.kunluncan.com,Possible Cobalt Strike C2 Fronted Domai
 cdn2.whereismyip.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js,107.172.206.242
 cdnoss.sec.cm,Possible Cobalt Strike C2 Domain,/image/,185.81.68.90
 cdnoss.sec.cm,Possible Cobalt Strike C2 Fronting Domain,/image/,185.81.68.90
+charon2.corporate-helpdesk.de,Possible Cobalt Strike C2 Domain,/push,18.185.47.242
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/groupcp.css,103.57.228.100
@@ -119,6 +120,7 @@ iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 image.baiduu.org,Possible Cobalt Strike C2 Domain,/load,163.197.211.102
 image.baiduu.org,Possible Cobalt Strike C2 Domain,/push,163.197.211.102
 incitewebsolution.com,Possible Cobalt Strike C2 Domain,/copyright,104.129.20.44
+incitewebsolution.com,Possible Cobalt Strike C2 Domain,/copyright,91.103.253.4
 incitewebsolution.com,Possible Cobalt Strike C2 Domain,/lt,104.129.20.44
 jdklove.top,Possible Cobalt Strike C2 Domain,/improve/v7.98/F60H46TG,152.32.145.237
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/__utm.gif,8.212.44.149
@@ -322,7 +324,7 @@ software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad,52.14.74.190
 station.startupstorey.com,Possible Cobalt Strike C2 Domain,/j.ad,54.211.209.214
 stela-artua.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_,91.207.183.54
-sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/index.jsp,43.138.52.211
+sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/users.jsp,43.138.52.211
 sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/ptj,194.15.102.26
 sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/ptj,85.111.90.157
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,192.3.76.67
@@ -330,7 +332,7 @@ tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html,91.103.253.48
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,192.3.76.67
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js,91.103.253.48
 test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.146.141.98
-test.227api.com,Possible Cobalt Strike C2 Domain,/match,154.83.17.116
+test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif,154.83.17.116
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.138.226.44
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V,216.238.74.154
 test.mydhx.top,Possible Cobalt Strike C2 Domain,/match,82.157.63.28
