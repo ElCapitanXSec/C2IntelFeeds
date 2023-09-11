@@ -42,7 +42,6 @@ aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm,137.184.137.107
 b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.6.0.js,174.138.79.156
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.43.156.246
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,60.204.187.184
-bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc,124.71.34.132
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,213.142.151.236
 beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html,213.142.159.117
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca,213.142.151.236

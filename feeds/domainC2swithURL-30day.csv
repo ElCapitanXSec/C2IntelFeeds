@@ -40,7 +40,6 @@ awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm
 b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.6.0.js
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-bbc.cctv03.tk,Possible Cobalt Strike C2 Domain,/www/handle/doc
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca
