@@ -365,6 +365,7 @@ outlook.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
 percheck.dingtalk.com,Possible Cobalt Strike C2 Fronting Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
+phruit.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 piac.elsewhens.org,Possible Cobalt Strike C2 Domain,/owa/
 pics.autistan.lu,Possible Cobalt Strike C2 Domain,/api/v1/Update
 pics.bonplan.lu,Possible Cobalt Strike C2 Domain,/api/v1/Update
@@ -454,6 +455,7 @@ service-hzdiypvm-1318122919.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/news/details
+service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-lyemd3y8-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
