@@ -155,6 +155,7 @@ dnslog.zhaoyr.online,Possible Cobalt Strike C2 Domain,/load
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpf
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/j.ad
 driverstorage.firmware.keenetic.pro,Possible Cobalt Strike C2 Domain,/Start/ps/INHCOEVIG
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
@@ -486,6 +487,7 @@ testdcxtadmin.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/j.ad
 testdcxtadmin1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain,/j.ad
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 theonecorp.live,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 tools.internalupdate.net,Possible Cobalt Strike C2 Domain,/admin-console
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_nb_noss_1/167-3294888-0262949/field-keywords=books
@@ -515,14 +517,14 @@ weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.m
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
-www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/get.css
+www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/d_config
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.hongtong502.cn,Possible Cobalt Strike C2 Domain,/r_config
-www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/get.css
+www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/d_config
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js

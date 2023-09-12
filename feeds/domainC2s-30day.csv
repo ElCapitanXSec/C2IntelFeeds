@@ -153,6 +153,7 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
+download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 driverstorage.firmware.keenetic.pro,Possible Cobalt Strike C2 Domain
@@ -479,6 +480,7 @@ testdcxtadmin.qianxinsecurity.com,Possible Cobalt Strike C2 Domain
 testdcxtadmin1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain
 theonecorp.live,Possible Cobalt Strike C2 Domain
+thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
 tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain
 tools.internalupdate.net,Possible Cobalt Strike C2 Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
