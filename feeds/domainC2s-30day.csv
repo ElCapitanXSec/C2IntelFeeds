@@ -38,6 +38,7 @@ awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 aws-na-ec2.com,Possible Cobalt Strike C2 Domain
 b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain
 baidu.com,Possible Cobalt Strike C2 Domain
+baldu.wiki,Possible Cobalt Strike C2 Domain
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain
 beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain
@@ -63,6 +64,8 @@ cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain
 cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.google-cloudflare-static.store,Possible Cobalt Strike C2 Domain
+cdn.jquerycodes.com,Possible Cobalt Strike C2 Domain
+cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.osn.gov.uk,Possible Cobalt Strike C2 Fronted Domain
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain
@@ -89,6 +92,8 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain
 comecode.name,Possible Cobalt Strike C2 Domain
 comvest.azureedge.net,Possible Cobalt Strike C2 Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain
 crew.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain
@@ -118,7 +123,6 @@ d3a95mnixoebky.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3ondvpc6davvt.cloudfront.net,Possible Cobalt Strike C2 Domain
-d3ryeb3hz8ljby.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain
 da.fulim.top,Possible Cobalt Strike C2 Domain
 dash.cloudflareo.info,Possible Cobalt Strike C2 Domain
@@ -439,7 +443,6 @@ service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-lyemd3y8-1302461797.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -479,13 +482,13 @@ test.mydhx.top,Possible Cobalt Strike C2 Domain
 testdcxtadmin.qianxinsecurity.com,Possible Cobalt Strike C2 Domain
 testdcxtadmin1.qianxinsecurity.com,Possible Cobalt Strike C2 Domain
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain
-theonecorp.live,Possible Cobalt Strike C2 Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
 tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain
 tools.internalupdate.net,Possible Cobalt Strike C2 Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.asiainfo-sec.com,Possible Cobalt Strike C2 Fronting Domain
 update.asiainfo-sec.com.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain
+update.edgeupdates.com,Possible Cobalt Strike C2 Domain
 update.ibaidu.buzz,Possible Cobalt Strike C2 Domain
 update.livcloud.info,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
@@ -544,6 +547,4 @@ xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain
 y1.changbaishanlab.top,Possible Cobalt Strike C2 Domain
 ys035.tv,Possible Cobalt Strike C2 Domain
 yuiko.xyz,Possible Cobalt Strike C2 Domain
-zh-cn.imags.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
-zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 zx.svchostsreg.com,Possible Cobalt Strike C2 Domain
