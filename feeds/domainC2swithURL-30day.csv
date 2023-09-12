@@ -18,7 +18,7 @@ acc.hello.ljjjkkklll.asia,Possible Cobalt Strike C2 Domain,/api/3
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 admin.alw536.com,Possible Cobalt Strike C2 Domain,/dot.gif
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/pixel.gif
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/match
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -135,9 +135,11 @@ dash.cloudflareo.info,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-f
 db.dbzjk.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dbapp.eu.org,Possible Cobalt Strike C2 Fronting Domain,/owa/
 dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
+detectportalupdate.ru,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 developmentgear.com,Possible Cobalt Strike C2 Domain,/Inquiry/logs/X0VKBR6TJL9
+devopszone.org,Possible Cobalt Strike C2 Domain,/ab
 dg.gdga.org.cn,Possible Cobalt Strike C2 Domain,/update/
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -537,6 +539,7 @@ wordpress.com,Possible Cobalt Strike C2 Fronting Domain,/styles.css
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
+www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/get.css
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js
@@ -544,8 +547,8 @@ www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
 www.certinstall.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
-www.hongtong502.cn,Possible Cobalt Strike C2 Domain,/ab.html
-www.hongtong502.cn,Possible Cobalt Strike C2 Domain,/rs.html
+www.hongtong502.cn,Possible Cobalt Strike C2 Domain,/r_config
+www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/get.css
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js
