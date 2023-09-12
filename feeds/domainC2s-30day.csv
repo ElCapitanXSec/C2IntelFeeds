@@ -157,6 +157,7 @@ dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
 dotnet.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
+download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dqlj2ofakwimy.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain

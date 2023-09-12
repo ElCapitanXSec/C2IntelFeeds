@@ -78,6 +78,7 @@ dns.veriernano.com,Possible Cobalt Strike C2 Domain
 dnsproxy.blueseaedu.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 doc.bluework.ink,Possible Cobalt Strike C2 Domain
+download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 dsa7mkr3avu2g.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -92,7 +93,6 @@ forcorpor.com,Possible Cobalt Strike C2 Domain
 fwe43.danamoninternal.com,Possible Cobalt Strike C2 Domain
 fxe12.danamoninternal.com,Possible Cobalt Strike C2 Domain
 github.com,Possible Cobalt Strike C2 Fronting Domain
-gk-stst.ru,Possible Cobalt Strike C2 Domain
 gvlgq3xhw5-spot-sta1.b-cdn.net,Possible Cobalt Strike C2 Domain
 harudake.com,Possible Cobalt Strike C2 Domain
 hepinghealth365.top,Possible Cobalt Strike C2 Domain
