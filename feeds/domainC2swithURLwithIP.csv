@@ -25,6 +25,7 @@ biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,47.109.79.
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad,54.145.9.123
 blog.awscustomersupport.com,Possible Cobalt Strike C2 Domain,/page.jsp,107.22.105.161
 blog.awscustomersupport.com,Possible Cobalt Strike C2 Domain,/page.jsp,54.164.170.197
+casualscorner.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,146.0.79.18
 cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain,/__utm.gif,98.71.232.223
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,213.61.251.56
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,148.66.6.29
@@ -311,7 +312,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,39.107.102.129
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
-www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/d_config,101.43.165.220
+www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/ms,101.43.165.220
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js,174.138.79.156
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,104.238.153.140
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,23.105.210.39
@@ -319,7 +320,7 @@ www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,64.176.7.118
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6,36.140.76.50
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink,123.60.43.138
 www.hongtong502.cn,Possible Cobalt Strike C2 Domain,/r_config,101.43.165.220
-www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/d_config,101.43.165.220
+www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/ms,101.43.165.220
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink,163.197.217.35
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel,163.197.217.35
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg,8.210.2.157
