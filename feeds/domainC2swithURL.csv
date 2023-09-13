@@ -11,6 +11,7 @@ acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/fwlink
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+app.baidu-soft.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 apple.weathersin.com,Possible Cobalt Strike C2 Domain,/dot.gif
 as.svchostsreg.com,Possible Cobalt Strike C2 Domain,/get.css
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink
@@ -55,6 +56,7 @@ cs45up230823s.iqiyia.com,Possible Cobalt Strike C2 Domain,/activity
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
 csxv.sec.cm,Possible Cobalt Strike C2 Fronted Domain,/image/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/fwlink
+d1qzl7xiwymjyn.cloudfront.net,Possible Cobalt Strike C2 Domain,/groupcp.html
 d1t18p67ia2cnc.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/mztKH-/2PTsM8-7uVUYJuAl7E4zRMhs4n
 d3a4778vul2s2h.cloudfront.net,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
@@ -208,6 +210,7 @@ ringatpstul.com,Possible Cobalt Strike C2 Domain,/cm
 safebulkers.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/___utm.gif
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/api/getit
+sectorzerosecurity.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 secureservices.fun,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
@@ -228,6 +231,7 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-gnzojfcb-1302811215.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -276,6 +280,7 @@ www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.hongtong502.cn,Possible Cobalt Strike C2 Domain,/r_config
 www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/ms
+www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
