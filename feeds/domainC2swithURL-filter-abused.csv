@@ -24,7 +24,6 @@ biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 blog.awscustomersupport.com,Possible Cobalt Strike C2 Domain,/page.jsp
 cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain,/__utm.gif
-cdn.cdndbapp.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -39,6 +38,7 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/fam_cart
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/modcp
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
+clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 comecode.name,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
@@ -249,6 +249,7 @@ stela-artua.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/202
 sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/login.jsp
 sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/pages.jsp
 sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/ptj
+t.takaelot.com,Possible Cobalt Strike C2 Domain,/j.ad
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
 tcessolution.com,Possible Cobalt Strike C2 Domain,/us.js

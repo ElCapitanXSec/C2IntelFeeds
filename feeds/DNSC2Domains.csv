@@ -50,6 +50,7 @@
 "kolunbia.com","Possible Cobaltstrike DNS C2 Domain","216.238.74.154","a.kolunbia.com file.kolunbia.com test.kolunbia.com"
 "libai.monster","Possible Cobaltstrike DNS C2 Domain","45.155.222.221","ns1.libai.monster"
 "lionhealthpharmacy.com","Possible Cobaltstrike DNS C2 Domain","52.14.74.190","solid.lionhealthpharmacy.com"
+"localhost-microsoft.com","Possible Cobaltstrike DNS C2 Domain","43.129.28.136","clouds.localhost-microsoft.com"
 "mammothspoon.xyz","Possible Cobaltstrike DNS C2 Domain","123.56.75.209","ns2.mammothspoon.xyz"
 "microsoftapply.com","Possible Cobaltstrike DNS C2 Domain","45.12.138.94","update.microsoftapply.com"
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","45.12.138.95","update.microsofthk.com"
@@ -75,6 +76,7 @@
 "startupstorey.com","Possible Cobaltstrike DNS C2 Domain","54.211.209.214","station.startupstorey.com"
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "sybercodesilver.lol","Possible Cobaltstrike DNS C2 Domain","194.15.102.26","1.sybercodesilver.lol"
+"takaelot.com","Possible Cobaltstrike DNS C2 Domain","46.101.108.125","t.takaelot.com"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","194.34.133.87","dns.veriernano.com veriernano.com"
 "weathersin.com","Possible Cobaltstrike DNS C2 Domain","149.28.208.144","apple.weathersin.com"
 "winexmarkets11.com","Possible Cobaltstrike DNS C2 Domain","54.226.51.227","peace.winexmarkets11.com"
@@ -82,3 +84,4 @@
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
+

@@ -2,7 +2,6 @@
 1.sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/dpixel
 2b594.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 2b597.danamoninternal.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
-360.cn,Possible Cobalt Strike C2 Fronting Domain,/cr.css
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -90,6 +89,7 @@ cloud.microsoft.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/fam_cart
 cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/modcp
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
+clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.4.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
@@ -500,6 +500,7 @@ support.azrue-mircosoft.com,Possible Cobalt Strike C2 Domain,/rs.html
 support.dnsgdn.com,Possible Cobalt Strike C2 Domain,/d/msdownload/update/others/2022/09/32561369_
 sviacloud.link,Possible Cobalt Strike C2 Domain,/dot.gif
 sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/ptj
+t.takaelot.com,Possible Cobalt Strike C2 Domain,/j.ad
 tcessolution.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 tcessolution.com,Possible Cobalt Strike C2 Domain,/dz.js
 tcessolution.com,Possible Cobalt Strike C2 Domain,/us.js
@@ -574,7 +575,6 @@ www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 xcaadoadw.store,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 xmkq08012g.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 xovohed.org,Possible Cobalt Strike C2 Domain,/restore/v5.88/W0V7CRVFH
-xoyukiveni.co,Possible Cobalt Strike C2 Fronted Domain,/cr.css
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 y1.changbaishanlab.top,Possible Cobalt Strike C2 Domain,/api/3
 ys035.tv,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
