@@ -362,6 +362,7 @@ office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/en
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/index.js
+onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js
 outlook.com,Possible Cobalt Strike C2 Domain,/static/skin/js/jquery-3.3.1.min.js
 payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
