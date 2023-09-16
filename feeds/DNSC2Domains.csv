@@ -30,7 +30,7 @@
 "doctordanm.com","Possible Cobaltstrike DNS C2 Domain","54.196.194.166","salt.doctordanm.com"
 "easthudsoninvestments.com","Possible Cobaltstrike DNS C2 Domain","44.206.245.176","version.easthudsoninvestments.com"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
-"emohack.xyz","Possible Cobaltstrike DNS C2 Domain","36.140.76.50","ns1.emohack.xyz ns2.emohack.xyz"
+"emohack.xyz","Possible Cobaltstrike DNS C2 Domain ","36.140.76.50","ns1.emohack.xyz ns2.emohack.xyz"
 "ergonomic-survey.com","Possible Cobaltstrike DNS C2 Domain","3.237.41.66","prod.ergonomic-survey.com"
 "fcdncloud.link","Possible Cobaltstrike DNS C2 Domain","185.239.84.203","ns1.fcdncloud.link ns2.fcdncloud.link"
 "forcorpor.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.73","dns.forcorpor.com forcorpor.com"
@@ -76,4 +76,3 @@
 "wizardsfinance.com","Possible Cobaltstrike DNS C2 Domain","34.226.249.189","machine.wizardsfinance.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
-
