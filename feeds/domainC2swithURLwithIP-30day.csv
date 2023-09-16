@@ -158,6 +158,7 @@ dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml,3.137.214.11
 detectportalupdate.ru,Possible Cobalt Strike C2 Fronted Domain,/jp.css,195.211.96.186
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.211.58.80
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.211.58.80
+devopspdx.com,Possible Cobalt Strike C2 Domain,/nd.html,50.3.132.232
 devopszone.org,Possible Cobalt Strike C2 Domain,/ab,204.44.125.82
 devopszone.org,Possible Cobalt Strike C2 Domain,/ab,204.44.125.83
 devopszone.org,Possible Cobalt Strike C2 Domain,/ab,91.103.253.41
@@ -274,6 +275,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.1
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match,154.26.134.72
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mkbkygbgwcdc.buzz,Possible Cobalt Strike C2 Domain,/api/3,38.54.85.31
+mortgagetf.com,Possible Cobalt Strike C2 Domain,/tab_shop_active,18.189.13.230
 mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search,147.182.229.244
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.241.22
@@ -395,8 +397,8 @@ oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.j
 office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload,47.94.43.210
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,104.200.67.121
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,195.133.23.90
+onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/copyright,104.168.48.208
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/copyright,91.103.253.98
-onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/en,104.168.48.208
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js,104.168.48.208
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js,91.103.253.98
 payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr,45.82.78.106

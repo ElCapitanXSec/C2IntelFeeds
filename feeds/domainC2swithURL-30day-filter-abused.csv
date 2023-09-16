@@ -131,6 +131,7 @@ dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
 detectportalupdate.ru,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+devopspdx.com,Possible Cobalt Strike C2 Domain,/nd.html
 devopszone.org,Possible Cobalt Strike C2 Domain,/ab
 devopszone.org,Possible Cobalt Strike C2 Domain,/template
 dg.gdga.org.cn,Possible Cobalt Strike C2 Domain,/update/
@@ -231,6 +232,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mkbkygbgwcdc.buzz,Possible Cobalt Strike C2 Domain,/api/3
+mortgagetf.com,Possible Cobalt Strike C2 Domain,/tab_shop_active
 mycustomos-sa.com,Possible Cobalt Strike C2 Domain,/en/home/search
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -340,7 +342,6 @@ oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/copyright
-onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/en
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js
 payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
