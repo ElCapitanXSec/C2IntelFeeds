@@ -1,5 +1,6 @@
 #domain,ioc,uri_path
 1.sybercodesilver.lol,Possible Cobalt Strike C2 Domain,/dpixel
+1398747042169696.cn-hangzhou.fc.aliyuncs.com,Possible Cobalt Strike C2 Domain,/2016-08-15/proxy/kkk.LATEST/proxy/index.html
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -51,6 +52,7 @@ blog.awscustomersupport.com,Possible Cobalt Strike C2 Domain,/page.jsp
 blog.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 blueroadproject.viewdns.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos
 bova.fyi,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
+c1.flashjick.top,Possible Cobalt Strike C2 Domain,/api/3
 cabin.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 canadaforestry.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 casualscorner.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
@@ -174,6 +176,7 @@ financialservicesunion.com,Possible Cobalt Strike C2 Domain,/ro
 forcorpor.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 framedscenes.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 front.healthxpr.com,Possible Cobalt Strike C2 Domain,/j.ad
+fswtf.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/msft-ajx
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gobyhacking.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -436,6 +439,7 @@ service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
+service-p54klbhi-1300810596.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getversion
 service-qgq5kvsb-1311579215.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-rfzb8g23-1319095131.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
@@ -447,6 +451,7 @@ sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/j.ad
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain,/j.ad
+stackpath-analytics-gpvlqzqeda-uc.a.run.app,Possible Cobalt Strike C2 Fronted Domain,/feed/sale/0/continous/
 station.startupstorey.com,Possible Cobalt Strike C2 Domain,/j.ad
 stela-artua.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_
 sunshine.nicetrue.one,Possible Cobalt Strike C2 Domain,/login.jsp

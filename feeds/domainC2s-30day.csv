@@ -1,5 +1,6 @@
 #domain,ioc
 1.sybercodesilver.lol,Possible Cobalt Strike C2 Domain
+1398747042169696.cn-hangzhou.fc.aliyuncs.com,Possible Cobalt Strike C2 Domain
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain
 6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain
@@ -14,6 +15,7 @@ acc.hello.ljjjkkklll.asia,Possible Cobalt Strike C2 Domain
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain
 admin.alw536.com,Possible Cobalt Strike C2 Domain
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain
+ajax.microsoft.com,Possible Cobalt Strike C2 Fronted Domain
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain
 api.office-updates.org,Possible Cobalt Strike C2 Domain
@@ -50,6 +52,7 @@ blog.awscustomersupport.com,Possible Cobalt Strike C2 Domain
 blog.kagotsurube.org,Possible Cobalt Strike C2 Domain
 blueroadproject.viewdns.net,Possible Cobalt Strike C2 Domain
 bova.fyi,Possible Cobalt Strike C2 Domain
+c1.flashjick.top,Possible Cobalt Strike C2 Domain
 cabin.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain
 canadaforestry.azureedge.net,Possible Cobalt Strike C2 Domain
 casualscorner.com,Possible Cobalt Strike C2 Domain
@@ -170,6 +173,7 @@ financialservicesunion.com,Possible Cobalt Strike C2 Domain
 forcorpor.com,Possible Cobalt Strike C2 Domain
 framedscenes.com,Possible Cobalt Strike C2 Domain
 front.healthxpr.com,Possible Cobalt Strike C2 Domain
+fswtf.azureedge.net,Possible Cobalt Strike C2 Fronting Domain
 github.com,Possible Cobalt Strike C2 Fronting Domain
 gk-stst.ru,Possible Cobalt Strike C2 Domain
 gobyhacking.online,Possible Cobalt Strike C2 Domain
@@ -424,6 +428,7 @@ service-ogf120ck-1300456157.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-p54klbhi-1300810596.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-qgq5kvsb-1311579215.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-rfzb8g23-1319095131.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -435,6 +440,7 @@ sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 solid.lionhealthpharmacy.com,Possible Cobalt Strike C2 Domain
+stackpath-analytics-gpvlqzqeda-uc.a.run.app,Possible Cobalt Strike C2 Fronted Domain
 static.dingtalk.com,Possible Cobalt Strike C2 Fronted Domain
 static.tumblr.com,Possible Cobalt Strike C2 Fronted Domain
 station.startupstorey.com,Possible Cobalt Strike C2 Domain
