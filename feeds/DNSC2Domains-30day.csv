@@ -63,7 +63,7 @@
 "healthxpr.com","Possible Cobaltstrike DNS C2 Domain","54.227.126.177","front.healthxpr.com"
 "healthyalwayss.com","Possible Cobaltstrike DNS C2 Domain","44.201.241.22","net.healthyalwayss.com"
 "higogo.me","Possible Cobaltstrike DNS C2 Domain","103.173.237.13","ns.higogo.me"
-"icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","118.25.137.239","m1.icbcbc.com.cn m2.icbcbc.com.cn ns3.icbcbc.com.cn ns4.icbcbc.com.cn"
+"icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","118.25.137.239","m1.icbcbc.com.cn m2.icbcbc.com.cn"
 "incididunt.com","Possible Cobaltstrike DNS C2 Domain","103.114.163.107 104.245.213.48","dns.incididunt.com incididunt.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
@@ -94,7 +94,6 @@
 "niggerasssys.com","Possible Cobaltstrike DNS C2 Domain","167.179.114.165","ns1.niggerasssys.com ns2.niggerasssys.com"
 "npmstatic.com","Possible Cobaltstrike DNS C2 Domain","100.25.156.1","help.npmstatic.com"
 "officeappsreviews.com","Possible Cobaltstrike DNS C2 Domain","146.70.79.23 37.120.234.98","acc.officeappsreviews.com exl.officeappsreviews.com ppt.officeappsreviews.com"
-"oneipsoft.com","Possible Cobaltstrike DNS C2 Domain","103.159.133.210","ns1.oneipsoft.com ns2.oneipsoft.com ns3.oneipsoft.com"
 "oregonwomenshealthnetwork.com","Possible Cobaltstrike DNS C2 Domain","100.26.177.234","look.oregonwomenshealthnetwork.com"
 "ossqianxin.co","Possible Cobaltstrike DNS C2 Domain","204.236.138.252","ns1.ossqianxin.co ns2.ossqianxin.co ns3.ossqianxin.co"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
@@ -130,3 +129,4 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahootk.tk","Possible Cobaltstrike DNS C2 Domain","45.130.146.133","ns1.yahootk.tk ns2.yahootk.tk ns3.yahootk.tk"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
