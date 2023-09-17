@@ -13,7 +13,6 @@
 "aws-na-ec2.com","Possible Cobaltstrike DNS C2 Domain","137.184.137.107","aws-na-ec2.com"
 "azureeservices.co.uk","Possible Cobaltstrike DNS C2 Domain","98.71.232.223","cdn.azureeservices.co.uk"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
-"binsmob.com","Possible Cobaltstrike DNS C2 Domain","31.44.184.74","binsmob.com dns.binsmob.com"
 "blueseaedu.com","Possible Cobaltstrike DNS C2 Domain","185.74.222.16","dnsproxy.blueseaedu.com"
 "bogotatrade.co","Possible Cobaltstrike DNS C2 Domain","23.105.210.39","ns1.bogotatrade.co"
 "bonplan.lu","Possible Cobaltstrike DNS C2 Domain","34.251.142.170","pics.bonplan.lu"
@@ -131,4 +130,3 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahootk.tk","Possible Cobaltstrike DNS C2 Domain","45.130.146.133","ns1.yahootk.tk ns2.yahootk.tk ns3.yahootk.tk"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-

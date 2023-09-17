@@ -14,7 +14,7 @@ acc.hello.ljjjkkklll.asia,Possible Cobalt Strike C2 Domain,/api/3
 acc.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d
 admin.alw536.com,Possible Cobalt Strike C2 Domain,/dot.gif
 admin.yuexiu.life,Possible Cobalt Strike C2 Domain,/api/info
-api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/match
+api.0nedriveup.com,Possible Cobalt Strike C2 Domain,/fwlink
 api.mmmllkps.tk,Possible Cobalt Strike C2 Domain,/pixel
 api.office-updates.org,Possible Cobalt Strike C2 Domain,/owa/
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -45,7 +45,6 @@ beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca
 beacon2.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
-binsmob.com,Possible Cobalt Strike C2 Domain,/j.ad
 biohealth.azurewebsites.net,Possible Cobalt Strike C2 Domain,/find
 biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 bks.loginke.com,Possible Cobalt Strike C2 Domain,/js/main.js
@@ -53,7 +52,6 @@ block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 blog.awscustomersupport.com,Possible Cobalt Strike C2 Domain,/page.jsp
 blog.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 blueroadproject.viewdns.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos
-bopever.co,Possible Cobalt Strike C2 Domain,/Kill/message/SLZ5D6LY
 bova.fyi,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 cabin.up.flysmart-piac-aero.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 canadaforestry.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -139,6 +137,7 @@ dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
 detectportalupdate.ru,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+devopspdx.com,Possible Cobalt Strike C2 Domain,/links
 devopspdx.com,Possible Cobalt Strike C2 Domain,/nd.html
 devopszone.org,Possible Cobalt Strike C2 Domain,/ab
 devopszone.org,Possible Cobalt Strike C2 Domain,/template
@@ -148,7 +147,6 @@ dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dirt.acemindtechnology.com,Possible Cobalt Strike C2 Domain,/j.ad
-dns.binsmob.com,Possible Cobalt Strike C2 Domain,/cx
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/ca
 dns.elsewhens.org,Possible Cobalt Strike C2 Domain,/owa/
@@ -202,7 +200,6 @@ hello-world-steep-glade-9514.ddosploit.workers.dev,Possible Cobalt Strike C2 Dom
 help.npmstatic.com,Possible Cobalt Strike C2 Domain,/default.jsp
 hepinghealth365.top,Possible Cobalt Strike C2 Domain,/index.html
 home.yangguifeiyahoo.shop,Possible Cobalt Strike C2 Domain,/image/
-hufoxapom.us,Possible Cobalt Strike C2 Domain,/calculate/v3.3/9AIEC05QK8H8
 hunanshengweibajgongshi.site,Possible Cobalt Strike C2 Domain,/api/3
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
@@ -514,7 +511,6 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/ca
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ga.js
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
-update.micsoft365.online,Possible Cobalt Strike C2 Domain,/image/png0101002396901
 update.optaneinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 update.optelinteloss.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
