@@ -407,6 +407,7 @@ service-a85mcmy2-1259015174.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Define/v4.38/J6FPKAIO8
 service-c3p2vbb6-1313164119.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-d7elcuq0-1308639534.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
@@ -503,7 +504,7 @@ windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/match
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
-www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/an.js
+www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/link.html
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/fam_newspaper.js
@@ -511,7 +512,7 @@ www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.gdstictk.buzz,Possible Cobalt Strike C2 Domain,/pixel
 www.hongtong502.cn,Possible Cobalt Strike C2 Domain,/r_config
-www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/an.js
+www.hongtong502.cn,Possible Cobalt Strike C2 Fronting Domain,/link.html
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
