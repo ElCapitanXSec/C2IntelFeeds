@@ -244,6 +244,7 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.180.115
 service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js,82.156.151.200
+service-kvmc8be7-1304892907.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,82.156.27.247
 service-lqymkqhs-1306655841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,60.204.151.115
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,49.234.22.80
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,101.35.46.154
@@ -296,6 +297,7 @@ weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.m
 windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/match,139.59.65.211
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/link.html,101.43.165.220
+www.baidusec.top,Possible Cobalt Strike C2 Domain,/dom.js,81.68.152.129
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/eo.js,81.68.152.129
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,104.238.153.140
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,23.105.210.39
@@ -314,5 +316,4 @@ www.weatherths.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,27.124.
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.152.67.162
-y1.changbaishanlab.top,Possible Cobalt Strike C2 Domain,/api/3,123.249.104.83
 zx.regsvrsvc.com,Possible Cobalt Strike C2 Domain,/r_config,179.60.149.231
