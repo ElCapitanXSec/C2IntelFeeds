@@ -404,7 +404,6 @@ service-74yuo2f8-1300892604.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-75n84cfg-1300295584.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/v1
 service-7tnbn05f-1319135578.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/enable/PDF/ITZE5SUW
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-8wufk5et-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/launchpage/ELR8U5MOB
@@ -525,7 +524,6 @@ www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
 www.micorsoft.live,Possible Cobalt Strike C2 Domain,/ga.js
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
-www.microsofer.top,Possible Cobalt Strike C2 Domain,/image/
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/g.pixel
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js
 www.nacosgov.xyz,Possible Cobalt Strike C2 Domain,/assets/code-3d7b701fc6eb.css
