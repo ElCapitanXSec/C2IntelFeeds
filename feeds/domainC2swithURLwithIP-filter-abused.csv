@@ -165,6 +165,7 @@ ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.90.1
 ns1.libai.monster,Possible Cobalt Strike C2 Domain,/ptj,45.155.222.221
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 ns1.tosohindia.cloudns.nz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,94.131.113.34
+ns1.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/js.js,81.68.152.129
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/__utm.gif,101.91.154.125
 ns2.007work.icu,Possible Cobalt Strike C2 Domain,/load,104.238.151.17
 ns2.227api.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.146.141.98
@@ -178,11 +179,13 @@ ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/preload,47.94.43.210
 ns2.fcdncloud.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,185.239.84.203
 ns2.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.90.150
 ns2.mammothspoon.xyz,Possible Cobalt Strike C2 Domain,/en_US/all.js,123.56.75.209
+ns2.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/js.js,81.68.152.129
 ns2.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,101.91.154.125
 ns3.007work.icu,Possible Cobalt Strike C2 Domain,/cm,104.238.151.17
 ns3.227api.com,Possible Cobalt Strike C2 Domain,/updates.rss,103.146.141.98
 ns3.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js,195.133.53.144
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
+ns3.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/newspaper.js,81.68.152.129
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load,101.91.154.125
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/fwlink,199.195.251.219
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
@@ -282,6 +285,7 @@ update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.95.15.23
+upload.flash-update.info,Possible Cobalt Strike C2 Domain,/api/3,47.105.69.34
 utilityupdate.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_,46.30.45.154
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7

@@ -151,6 +151,7 @@ ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.libai.monster,Possible Cobalt Strike C2 Domain,/ptj
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 ns1.tosohindia.cloudns.nz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/js.js
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns2.007work.icu,Possible Cobalt Strike C2 Domain,/load
 ns2.227api.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -164,11 +165,13 @@ ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/preload
 ns2.fcdncloud.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.mammothspoon.xyz,Possible Cobalt Strike C2 Domain,/en_US/all.js
+ns2.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/js.js
 ns2.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns3.007work.icu,Possible Cobalt Strike C2 Domain,/cm
 ns3.227api.com,Possible Cobalt Strike C2 Domain,/updates.rss
 ns3.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
+ns3.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/newspaper.js
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/fwlink
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
@@ -262,6 +265,7 @@ update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel
 updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+upload.flash-update.info,Possible Cobalt Strike C2 Domain,/api/3
 utilityupdate.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2020/10/29136388_
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
