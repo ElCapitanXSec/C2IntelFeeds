@@ -3,7 +3,6 @@
 1398747042169696.cn-hangzhou.fc.aliyuncs.com,Possible Cobalt Strike C2 Domain,/2016-08-15/proxy/kkk.LATEST/proxy/index.html
 4.xianlaohu.com,Possible Cobalt Strike C2 Fronted Domain,/api/x
 5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-6.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 7w.lv,Possible Cobalt Strike C2 Domain,/updates.rss
 99avip.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_
 a.bwvwvwv.cf,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
@@ -31,7 +30,6 @@ as.svchostsreg.com,Possible Cobalt Strike C2 Domain,/get.css
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/fwlink
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain,/ga.js
 auth.up.portcom-slpa.site,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
-auto-gpt.pw,Possible Cobalt Strike C2 Domain,/Apply/smilies/SG4M1OMMSWBU
 aw0.awsstatic.om,Possible Cobalt Strike C2 Fronted Domain,/j.ad
 awda.updatecode.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 awesomejackson.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/dpixel
@@ -129,7 +127,7 @@ dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
 detectportalupdate.ru,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-devopspdx.com,Possible Cobalt Strike C2 Domain,/links
+devopspdx.com,Possible Cobalt Strike C2 Domain,/mobile-ipad-home
 devopspdx.com,Possible Cobalt Strike C2 Domain,/nd.html
 devopszone.org,Possible Cobalt Strike C2 Domain,/ab
 devopszone.org,Possible Cobalt Strike C2 Domain,/template
@@ -514,7 +512,7 @@ www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/link.html
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/dom.js
-www.baidusec.top,Possible Cobalt Strike C2 Domain,/eo.js
+www.baidusec.top,Possible Cobalt Strike C2 Domain,/fam_newspaper.js
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.gdstictk.buzz,Possible Cobalt Strike C2 Domain,/pixel
