@@ -28,7 +28,6 @@ charon2.corporate-helpdesk.de,Possible Cobalt Strike C2 Domain,/push
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cityoall.com,Possible Cobalt Strike C2 Domain,/j.ad
-cloudappsoftware.com,Possible Cobalt Strike C2 Domain,/modcp
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 cloudupdateservice.online,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
@@ -109,7 +108,6 @@ mortgagetf.com,Possible Cobalt Strike C2 Domain,/tab_shop_active
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain,/j.ad
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/es.css
-netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -233,7 +231,6 @@ test.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 test.g-security.cn,Possible Cobalt Strike C2 Domain,/www/handle/doc
 test.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/KEWcLUqa3HMDW8EYqD0AIa3V
 testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain,/azure/api/v2/userinfo/get
-testwscdn.m.37.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 tourist.healthgradespro.com,Possible Cobalt Strike C2 Domain,/j.ad
 upbetanetworks.org,Possible Cobalt Strike C2 Domain,/dz
@@ -251,7 +248,6 @@ v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
-weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/match
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/link.html
