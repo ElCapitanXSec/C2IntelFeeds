@@ -35,10 +35,12 @@ aws-na-ec2.com,Possible Cobalt Strike C2 Domain,/cm
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 b2n7m4f3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.6.0.js
 baldu.wiki,Possible Cobalt Strike C2 Domain,/j.ad
+bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/jd/
 beacon.keremsarmis.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 beacon.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html
 beacon2.keremsarmis.com,Possible Cobalt Strike C2 Domain,/ca
 beacon2.keremsarmis.xyz,Possible Cobalt Strike C2 Domain,/index.html
+betshopkipstri.com,Possible Cobalt Strike C2 Domain,/pixel
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 biohealth.azurewebsites.net,Possible Cobalt Strike C2 Domain,/find
 biubiu.qgodaxin.tk,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
@@ -124,7 +126,7 @@ dentaldev.azureedge.net,Possible Cobalt Strike C2 Domain,/query.xml
 detectportalupdate.ru,Possible Cobalt Strike C2 Fronted Domain,/jp.css
 dev01.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dev02.kagotsurube.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-devopspdx.com,Possible Cobalt Strike C2 Domain,/links
+devopspdx.com,Possible Cobalt Strike C2 Domain,/mobile-ipad-home
 devopspdx.com,Possible Cobalt Strike C2 Domain,/nd.html
 devopszone.org,Possible Cobalt Strike C2 Domain,/ab
 devopszone.org,Possible Cobalt Strike C2 Domain,/template
