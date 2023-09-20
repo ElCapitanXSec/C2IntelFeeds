@@ -403,6 +403,7 @@ service-7tnbn05f-1319135578.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-9wkno0fh-1304892907.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/launchpage/ELR8U5MOB
 service-a83yg9pg-1307556005.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-a85mcmy2-1259015174.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -428,7 +429,6 @@ service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-k6s27a4s-1318658931.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/news/details
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-k797j4br-1318291330.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-kvmc8be7-1304892907.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-lqymkqhs-1306655841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -441,6 +441,7 @@ service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-opiag0j1-1308639534.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
 service-p54klbhi-1300810596.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getversion
+service-qgq5kvsb-1311579215.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-rfzb8g23-1319095131.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js
 service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -511,8 +512,8 @@ www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/link.html
 www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js
-www.baidusec.top,Possible Cobalt Strike C2 Domain,/dom.js
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/fam_newspaper.js
+www.baidusec.top,Possible Cobalt Strike C2 Domain,/js.js
 www.emohack.xyz,Possible Cobalt Strike C2 Domain,/api/vs/asf/v1/6
 www.fayevalentine.world,Possible Cobalt Strike C2 Domain,/fwlink
 www.gdstictk.buzz,Possible Cobalt Strike C2 Domain,/pixel
