@@ -64,7 +64,7 @@
 "healthyalwayss.com","Possible Cobaltstrike DNS C2 Domain","44.201.241.22","net.healthyalwayss.com"
 "higogo.me","Possible Cobaltstrike DNS C2 Domain","103.173.237.13","ns.higogo.me"
 "icbcbc.com.cn","Possible Cobaltstrike DNS C2 Domain","118.25.137.239","m1.icbcbc.com.cn m2.icbcbc.com.cn"
-"incididunt.com","Possible Cobaltstrike DNS C2 Domain","103.114.163.107 104.245.213.48","dns.incididunt.com incididunt.com"
+" incididunt.com","Possible Cobaltstrike DNS C2 Domain","103.114.163.107 104.245.213.48","dns.incididunt.com incididunt.com"
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
@@ -128,4 +128,3 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahootk.tk","Possible Cobaltstrike DNS C2 Domain","45.130.146.133","ns1.yahootk.tk ns2.yahootk.tk ns3.yahootk.tk"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
-
