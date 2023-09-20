@@ -135,9 +135,7 @@ nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3,45.32.253.112
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain,/j.ad,44.201.241.22
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/es.css,192.3.76.138
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,91.103.253.6
-netdevstudio.com,Possible Cobalt Strike C2 Domain,/get.css,91.103.253.8
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,192.3.76.138
-netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,91.103.253.6
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,91.103.253.7
 netdevstudio.com,Possible Cobalt Strike C2 Domain,/lu,91.103.253.8
 network.drivespacenet.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,143.92.39.125
