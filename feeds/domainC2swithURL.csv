@@ -48,9 +48,7 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/cm
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/cm
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
-creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js
 cs.sangfor911.top,Possible Cobalt Strike C2 Domain,/visit.js
-cs.sharksbaby.pro,Possible Cobalt Strike C2 Domain,/destroy/v6.82/E4QYN5HVXJ
 cs45upb230906.iqiyid.com,Possible Cobalt Strike C2 Domain,/cm
 cs45upb230906a.iqiyid.com,Possible Cobalt Strike C2 Domain,/ptj
 csxv.sec.cm,Possible Cobalt Strike C2 Fronted Domain,/image/
@@ -94,8 +92,6 @@ exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVP
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
 ext.cdninternal.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 file.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/BIzYK6YEu70ADGkJwUC4OcGQl
-financialservicesunion.com,Possible Cobalt Strike C2 Domain,/af.js
-financialservicesunion.com,Possible Cobalt Strike C2 Domain,/ro
 forcorpor.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 fswtf.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/msft-ajx
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -215,7 +211,6 @@ res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/cx
 salt.doctordanm.com,Possible Cobalt Strike C2 Domain,/j.ad
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/api/getit
-sectorzerosecurity.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
