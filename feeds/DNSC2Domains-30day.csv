@@ -99,7 +99,7 @@
 "nadra-pk.org","Possible Cobaltstrike DNS C2 Domain","45.76.90.103","check.update.nadra-pk.org pak.update.nadra-pk.org verify.update.nadra-pk.org"
 "niggerasssys.com","Possible Cobaltstrike DNS C2 Domain","167.179.114.165","ns1.niggerasssys.com ns2.niggerasssys.com"
 "npmstatic.com","Possible Cobaltstrike DNS C2 Domain","100.25.156.1","help.npmstatic.com"
-"officeappsreviews.com","Possible Cobaltstrike DNS C2 Domain","146.70.79.23 37.120.234.98","acc.officeappsreviews.com exl.officeappsreviews.com ppt.officeappsreviews.com"
+"officeappsreviews.com","Possible Cobaltstrike DNS C2 Domain","146.70.79.23 158.247.218.76 37.120.234.98","acc.officeappsreviews.com exl.officeappsreviews.com ppt.officeappsreviews.com"
 "oregonwomenshealthnetwork.com","Possible Cobaltstrike DNS C2 Domain","100.26.177.234","look.oregonwomenshealthnetwork.com"
 "ossqianxin.co","Possible Cobaltstrike DNS C2 Domain","204.236.138.252","ns1.ossqianxin.co ns2.ossqianxin.co ns3.ossqianxin.co"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
@@ -137,3 +137,4 @@
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "yahootk.tk","Possible Cobaltstrike DNS C2 Domain","45.130.146.133","ns1.yahootk.tk ns2.yahootk.tk ns3.yahootk.tk"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
