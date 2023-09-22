@@ -244,6 +244,7 @@ meetlak.link,Possible Cobalt Strike C2 Domain,/api/3
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match
+microsoft-support.zapto.org,Possible PoshC2 Fronting Domain,/putil/2018/0/11/po.html/
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 miira.live,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 mkbkygbgwcdc.buzz,Possible Cobalt Strike C2 Domain,/api/3
