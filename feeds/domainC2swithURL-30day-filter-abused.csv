@@ -107,6 +107,7 @@ cs45upb230906.iqiyid.com,Possible Cobalt Strike C2 Domain,/cm
 cs45upb230906a.iqiyid.com,Possible Cobalt Strike C2 Domain,/ptj
 cscscscscs.imalloc.cn,Possible Cobalt Strike C2 Domain,/api/3
 csxv.sec.cm,Possible Cobalt Strike C2 Fronted Domain,/image/
+ctbtest.azureedge.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
 d1qzl7xiwymjyn.cloudfront.net,Possible Cobalt Strike C2 Domain,/groupcp.html
 d1t18p67ia2cnc.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/mztKH-/2PTsM8-7uVUYJuAl7E4zRMhs4n
@@ -522,7 +523,6 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
 www.360mon.cn,Possible Cobalt Strike C2 Fronted Domain,/Docs
 www.5cq.com,Possible Cobalt Strike C2 Fronted Domain,/link.html
-www.alwy.live,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.association-financial.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.6.0.js
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/eo.js
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/newspaper.js
