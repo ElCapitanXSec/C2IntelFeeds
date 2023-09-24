@@ -46,6 +46,7 @@
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "dnsonlin.co","Possible Cobaltstrike DNS C2 Domain","43.136.40.179","cs1.dnsonlin.co"
 "doctordanm.com","Possible Cobaltstrike DNS C2 Domain","54.196.194.166","salt.doctordanm.com"
+"dudu365.club","Possible Cobaltstrike DNS C2 Domain","47.106.171.201","c1.dudu365.club"
 "easthudsoninvestments.com","Possible Cobaltstrike DNS C2 Domain","44.206.245.176","version.easthudsoninvestments.com"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "ehealthnutrition.com","Possible Cobaltstrike DNS C2 Domain","52.70.93.129","high.ehealthnutrition.com"
@@ -105,6 +106,7 @@
 "oregonwomenshealthnetwork.com","Possible Cobaltstrike DNS C2 Domain","100.26.177.234","look.oregonwomenshealthnetwork.com"
 "ossqianxin.co","Possible Cobaltstrike DNS C2 Domain","204.236.138.252","ns1.ossqianxin.co ns2.ossqianxin.co ns3.ossqianxin.co"
 "outlookonlines.com","Possible Cobaltstrike DNS C2 Domain","172.105.192.139","iane.outlookonlines.com leno.outlookonlines.com rano.outlookonlines.com"
+"pain.capetown","Possible Cobaltstrike DNS C2 Domain","47.45.19.153","mom.pain.capetown"
 "pcr21t.com","Possible Cobaltstrike DNS C2 Domain","45.76.157.177","prx.pcr21t.com"
 "pdota.top","Possible Cobaltstrike DNS C2 Domain","120.48.87.88","ns188.pdota.top"
 "phruit.shop","Possible Cobaltstrike DNS C2 Domain","13.228.103.159","apple.phruit.shop"
@@ -126,6 +128,7 @@
 "sybercodesilver.lol","Possible Cobaltstrike DNS C2 Domain","194.15.102.26","1.sybercodesilver.lol"
 "takaelot.com","Possible Cobaltstrike DNS C2 Domain","46.101.108.125","t.takaelot.com"
 "theinternetsupply.com","Possible Cobaltstrike DNS C2 Domain","100.26.228.148","blue.theinternetsupply.com"
+"trip2health.com","Possible Cobaltstrike DNS C2 Domain","34.227.192.200","failover.ns.0692994.trip2health.com ns.0692994.trip2health.com"
 "unirorm.xyz","Possible Cobaltstrike DNS C2 Domain","124.220.29.161","c1.unirorm.xyz"
 "unixkernelhelp.com","Possible Cobaltstrike DNS C2 Domain","140.82.23.123","ns1.unixkernelhelp.com"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","194.34.133.87","dns.veriernano.com veriernano.com"
@@ -137,3 +140,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
