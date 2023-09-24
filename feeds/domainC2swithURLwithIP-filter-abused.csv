@@ -95,6 +95,7 @@ exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/rp/1hGciYbPE6ALKVP
 exl.officeappsreviews.com,Possible Cobalt Strike C2 Domain,/lanche-334e58sfj4eeu7h4dd3sss32d,158.247.218.76
 ext.cdninternal.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,119.18.157.142
 file.kolunbia.com,Possible Cobalt Strike C2 Domain,/owa/BIzYK6YEu70ADGkJwUC4OcGQl,216.238.74.154
+financialservicesunion.com,Possible Cobalt Strike C2 Domain,/admin.js,50.3.132.230
 forcorpor.com,Possible Cobalt Strike C2 Domain,/pixel.gif,31.44.184.73
 fswtf.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/msft-ajx,172.190.77.91
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,194.169.175.143
@@ -275,6 +276,7 @@ service-p54klbhi-1300810596.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-qgq5kvsb-1311579215.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/js/lib/jquery-1-edb203c114.10.2.js,82.156.151.200
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.106.171.201
 service-rsb9hux9-1258128533.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm,111.67.195.154
+servicedesk-solutions.net,Possible Cobalt Strike C2 Domain,/im.php,20.25.134.83
 sfioa-express.intlsdcn.com,Possible Cobalt Strike C2 Domain,/services/rule-package/sflink/updates/2679521d-ef7a-8507-8130-150fb28f5cda,124.222.239.153
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/pixel,85.175.101.203
@@ -321,6 +323,8 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108
 veriernano.com,Possible Cobalt Strike C2 Domain,/visit.js,194.34.133.87
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx,45.76.90.103
 version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad,44.206.245.176
+video.baiduu.online,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,209.146.124.206
+video.baiduu.online,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,209.146.124.208
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
 web.miira.live,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,139.59.235.156
