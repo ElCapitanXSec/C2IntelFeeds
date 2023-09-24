@@ -2,6 +2,7 @@
 "007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
 "10010.buzz","Possible Cobaltstrike DNS C2 Domain","110.41.189.19","ns3.10010.buzz ns4.10010.buzz"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","103.146.141.98","ns2.227api.com ns3.227api.com"
+"4fun.wiki","Possible Cobaltstrike DNS C2 Domain","154.202.60.234","log.1.4fun.wiki log.2.4fun.wiki log.3.4fun.wiki log.4.4fun.wiki"
 "95555cmbchina.com","Possible Cobaltstrike DNS C2 Domain","152.136.60.210","ns1.95555cmbchina.com ns2.95555cmbchina.com"
 "a1batr0ss.xyz","Possible Cobaltstrike DNS C2 Domain","124.223.83.171","ns1.a1batr0ss.xyz ns2.a1batr0ss.xyz"
 "ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
@@ -124,6 +125,7 @@
 "suiteb.io","Possible Cobaltstrike DNS C2 Domain","45.76.125.214","cdn.suiteb.io"
 "sybercodesilver.lol","Possible Cobaltstrike DNS C2 Domain","194.15.102.26","1.sybercodesilver.lol"
 "takaelot.com","Possible Cobaltstrike DNS C2 Domain","46.101.108.125","t.takaelot.com"
+"theinternetsupply.com","Possible Cobaltstrike DNS C2 Domain","100.26.228.148","blue.theinternetsupply.com"
 "unirorm.xyz","Possible Cobaltstrike DNS C2 Domain","124.220.29.161","c1.unirorm.xyz"
 "unixkernelhelp.com","Possible Cobaltstrike DNS C2 Domain","140.82.23.123","ns1.unixkernelhelp.com"
 "veriernano.com","Possible Cobaltstrike DNS C2 Domain","194.34.133.87","dns.veriernano.com veriernano.com"
@@ -135,3 +137,4 @@
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
 "xn--mil-ixy.com","Possible Cobaltstrike DNS C2 Domain","185.158.94.217","ns1.xn--mil-ixy.com ns2.xn--mil-ixy.com"
 "zpepc.net","Possible Cobaltstrike DNS C2 Domain","140.99.19.231","ns1.zpepc.net ns2.zpepc.net ns3.zpepc.net"
+
