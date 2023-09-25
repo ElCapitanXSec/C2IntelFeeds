@@ -111,6 +111,7 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/cm,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/cm,8.140.135.23
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel,162.19.68.68
+corporateupdates.info,Possible Cobalt Strike C2 Domain,/dpixel,134.209.122.196
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js,66.63.188.3
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/link.html,91.103.253.70
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/sm.js,47.87.207.163
@@ -246,6 +247,7 @@ leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 lifeillus.securianretirementcenter.center,Possible Cobalt Strike C2 Domain,/search/,66.175.213.178
 listen.appstored.store,Possible Cobalt Strike C2 Domain,/apple-3.3.1.min.js,5.188.230.55
+lkcagar.com,Possible Cobalt Strike C2 Domain,/Link/style_images/SYRP78GOG0W,46.161.27.152
 local.cnbcheadlines.com,Possible Cobalt Strike C2 Domain,/default.jsp,107.22.105.161
 local.cnbcheadlines.com,Possible Cobalt Strike C2 Domain,/default.jsp,54.164.170.197
 log.1.4fun.wiki,Possible Cobalt Strike C2 Domain,/tools/get,154.202.60.234
@@ -584,6 +586,7 @@ veriernano.com,Possible Cobalt Strike C2 Domain,/visit.js,194.34.133.87
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx,45.76.90.103
 version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad,44.206.245.176
 video.baiduu.online,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,209.146.124.206
+video.baiduu.online,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,209.146.124.207
 video.baiduu.online,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,209.146.124.208
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,20.94.177.31
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
