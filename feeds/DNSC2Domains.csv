@@ -8,6 +8,7 @@
 "anaitea.com","Possible Cobaltstrike DNS C2 Domain","154.211.18.108","ns1.anaitea.com ns2.anaitea.com"
 "asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "azureeservices.co.uk","Possible Cobaltstrike DNS C2 Domain","98.71.232.223","cdn.azureeservices.co.uk"
+"bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "bogotatrade.co","Possible Cobaltstrike DNS C2 Domain","23.105.210.39","ns1.bogotatrade.co"
 "bookworld-langchao.work","Possible Cobaltstrike DNS C2 Domain","82.157.145.234","ns1.bookworld-langchao.work"
 "bre1ce.top","Possible Cobaltstrike DNS C2 Domain","155.94.170.73","ns1.bre1ce.top server1.bre1ce.top"
@@ -33,6 +34,7 @@
 "dingtaIk.tk","Possible Cobaltstrike DNS C2 Domain","47.94.43.210","ns1.dingtaIk.tk ns2.dingtaIk.tk"
 "djn.blue","Possible Cobaltstrike DNS C2 Domain","159.203.60.8","dnsswag.djn.blue"
 "doctordanm.com","Possible Cobaltstrike DNS C2 Domain","54.196.194.166","salt.doctordanm.com"
+"douosadgaadonline.org","Possible Cobaltstrike DNS C2 Domain","156.245.19.127","bot.douosadgaadonline.org"
 "dudu365.club","Possible Cobaltstrike DNS C2 Domain","47.106.171.201","c1.dudu365.club"
 "easthudsoninvestments.com","Possible Cobaltstrike DNS C2 Domain","44.206.245.176","version.easthudsoninvestments.com"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
@@ -57,6 +59,7 @@
 "initiativeus.com","Possible Cobaltstrike DNS C2 Domain","103.16.231.87","iane.initiativeus.com leno.initiativeus.com rano.initiativeus.com"
 "jd-1111.cn","Possible Cobaltstrike DNS C2 Domain","62.234.13.73","ns1.jd-1111.cn ns2.jd-1111.cn"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
+"jquerys.cf","Possible Cobaltstrike DNS C2 Domain","175.178.238.91","ns1.jquerys.cf"
 "judicical.ml","Possible Cobaltstrike DNS C2 Domain","45.145.228.117","check.judicical.ml check1.judicical.ml"
 "libai.monster","Possible Cobaltstrike DNS C2 Domain","45.155.222.221","ns1.libai.monster"
 "lionhealthpharmacy.com","Possible Cobaltstrike DNS C2 Domain","52.14.74.190","solid.lionhealthpharmacy.com"
@@ -94,4 +97,3 @@
 "winexmarkets11.com","Possible Cobaltstrike DNS C2 Domain","54.226.51.227","peace.winexmarkets11.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
-

@@ -43,6 +43,7 @@ block.health-degree.com,Possible Cobalt Strike C2 Domain,/j.ad
 blog.awscustomersupport.com,Possible Cobalt Strike C2 Domain,/page.jsp
 blue.theinternetsupply.com,Possible Cobalt Strike C2 Domain,/j.ad
 blueroadproject.viewdns.net,Possible Cobalt Strike C2 Domain,/async/newtab_promos
+bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bqq.clubreadbook.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bqq2.clubreadbook.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 c1.dudu365.club,Possible Cobalt Strike C2 Domain,/api/x
@@ -273,6 +274,7 @@ ns1.goporsche.de,Possible Cobalt Strike C2 Domain,/jquery.com/
 ns1.gxyy77.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.hanqianye.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.4.1.min.js
 ns1.jd-1111.cn,Possible Cobalt Strike C2 Domain,/api/x
+ns1.jquerys.cf,Possible Cobalt Strike C2 Domain,/api/get
 ns1.libai.monster,Possible Cobalt Strike C2 Domain,/ptj
 ns1.microsoft2888.top,Possible Cobalt Strike C2 Domain,/ca
 ns1.microtimezone.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
