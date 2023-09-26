@@ -25,6 +25,7 @@ bqq2.clubreadbook.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 c1.dudu365.club,Possible Cobalt Strike C2 Domain,/api/x
 c1.flashjick.top,Possible Cobalt Strike C2 Domain,/api/3
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
+c2.marfei.zone,Possible Cobalt Strike C2 Domain,/fwlink
 cdn.apiadmin.live,Possible Cobalt Strike C2 Domain,/index/
 cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain,/broadcast
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
@@ -173,11 +174,13 @@ ns1.jquerys.cf,Possible Cobalt Strike C2 Domain,/api/get
 ns1.libai.monster,Possible Cobalt Strike C2 Domain,/ptj
 ns1.microsoft2888.top,Possible Cobalt Strike C2 Domain,/ca
 ns1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain,/api/3
+ns1.mysqlnet.org,Possible Cobalt Strike C2 Domain,/api/3
 ns1.sangfor911.top,Possible Cobalt Strike C2 Domain,/pixel
 ns1.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/js.js
 ns1.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns12.clsr.ca,Possible Cobalt Strike C2 Domain,/cx
 ns2.007work.icu,Possible Cobalt Strike C2 Domain,/load
+ns2.227api.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 ns2.95555cmbchina.com,Possible Cobalt Strike C2 Domain,/cx
 ns2.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 ns2.anaitea.com,Possible Cobalt Strike C2 Domain,/jquery.com/
@@ -196,6 +199,7 @@ ns2.tosohindia.cloudns.nz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/js.js
 ns2.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns3.007work.icu,Possible Cobalt Strike C2 Domain,/cm
+ns3.227api.com,Possible Cobalt Strike C2 Domain,/updates.rss
 ns3.ace3.ru,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns3.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/dot.gif
@@ -203,6 +207,7 @@ ns3.sangfor911.top,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns3.vpn.baidusec.top,Possible Cobalt Strike C2 Domain,/newspaper.js
 ns3.xiaopeng111.com,Possible Cobalt Strike C2 Domain,/load
 ns8.x7z.mom,Possible Cobalt Strike C2 Domain,/fwlink
+nsss.chtcom.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
 office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
