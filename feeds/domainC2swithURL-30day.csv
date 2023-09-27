@@ -187,6 +187,7 @@ fswtf.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/msft-ajx
 github.com,Possible Cobalt Strike C2 Fronting Domain,/jp.css
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gobyhacking.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+google.com,Possible Cobalt Strike C2 Fronting Domain,/copyright.html
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
 gvlgq3xhw5-spot-sta1.b-cdn.net,Possible Cobalt Strike C2 Domain,/recaptcha/web/player
 harudake.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -242,6 +243,7 @@ medtechgroups.com,Possible Cobalt Strike C2 Domain,/universal-access.css
 meetlak.link,Possible Cobalt Strike C2 Domain,/api/3
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
+microdotoffice.shop,Possible Cobalt Strike C2 Fronted Domain,/copyright.html
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match
 microsoft-support.zapto.org,Possible PoshC2 Fronting Domain,/putil/2018/0/11/po.html/
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -540,6 +542,7 @@ web.miira.live,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js
+windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/j.ad
 windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/match
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push
@@ -562,6 +565,7 @@ www.jtitraining.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg
+www.microdotoffice.shop,Possible Cobalt Strike C2 Fronted Domain,/copyright.html
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/g.pixel
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js
 www.mylinkedln.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast

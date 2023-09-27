@@ -212,6 +212,7 @@ github.com,Possible Cobalt Strike C2 Fronting Domain,/jp.css,195.211.96.186
 github.com,Possible Cobalt Strike C2 Fronting Domain,/jp.css,62.233.57.213
 gk-stst.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,194.169.175.143
 gobyhacking.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.21.31.242
+google.com,Possible Cobalt Strike C2 Fronting Domain,/copyright.html,212.8.251.142
 googlecloudsvcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,137.184.137.107
 gvlgq3xhw5-spot-sta1.b-cdn.net,Possible Cobalt Strike C2 Domain,/recaptcha/web/player,3.137.221.216
 gvlgq3xhw5-spot-sta1.b-cdn.net,Possible Cobalt Strike C2 Domain,/recaptcha/web/player,3.142.134.23
@@ -271,6 +272,7 @@ medtechgroups.com,Possible Cobalt Strike C2 Domain,/universal-access.css,192.3.7
 meetlak.link,Possible Cobalt Strike C2 Domain,/api/3,139.159.196.229
 mentalhealth.cghospital.org,Possible Cobalt Strike C2 Domain,/admin-console,34.82.224.93
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
+microdotoffice.shop,Possible Cobalt Strike C2 Fronted Domain,/copyright.html,212.8.251.142
 microsoft-bank.com,Possible Cobalt Strike C2 Domain,/match,154.26.134.72
 microsoft-support.zapto.org,Possible PoshC2 Domain,/putil/2018/0/11/po.html/,94.198.53.89
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
@@ -601,6 +603,7 @@ web.miira.live,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,139.59.
 websystemdisk.com,Possible Cobalt Strike C2 Domain,/aa.js,104.168.59.8
 weixin.zjstv.com,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,39.107.102.129
 whoamb.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/audiencemanager.js,120.79.64.164
+windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/j.ad,172.94.104.5
 windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/match,139.59.65.211
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.0nedriveup.com,Possible Cobalt Strike C2 Domain,/push,47.75.108.68
@@ -626,6 +629,7 @@ www.jtitraining.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/fwlink,163.197.217.35
 www.leakeddata.site,Possible Cobalt Strike C2 Domain,/pixel,163.197.217.35
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/mg,8.210.2.157
+www.microdotoffice.shop,Possible Cobalt Strike C2 Fronted Domain,/copyright.html,212.8.251.142
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/g.pixel,124.220.10.78
 www.microsoft-update.club,Possible Cobalt Strike C2 Domain,/ga.js,124.220.10.78
 www.mylinkedln.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast,98.71.232.223

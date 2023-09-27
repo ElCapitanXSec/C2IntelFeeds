@@ -127,6 +127,7 @@ mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 medtechgroups.com,Possible Cobalt Strike C2 Domain,/universal-access.css
 meetlak.link,Possible Cobalt Strike C2 Domain,/api/3
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
+microdotoffice.shop,Possible Cobalt Strike C2 Fronted Domain,/copyright.html
 microsoft-support.zapto.org,Possible PoshC2 Fronting Domain,/putil/2018/0/11/po.html/
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mobile.static.apiproxy.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain,/Display/chan/IB61I7MYA
@@ -312,12 +313,14 @@ version.easthudsoninvestments.com,Possible Cobalt Strike C2 Domain,/j.ad
 video.baiduu.online,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 web.miira.live,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+windowsupdate.viewdns.net,Possible Cobalt Strike C2 Domain,/j.ad
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/eo.js
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/newspaper.js
 www.chtcom.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.jntm.cn.com,Possible Cobalt Strike C2 Domain,/api/3
 www.jtitraining.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+www.microdotoffice.shop,Possible Cobalt Strike C2 Fronted Domain,/copyright.html
 www.mylinkedln.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast
 www.mysqlnet.org,Possible Cobalt Strike C2 Domain,/api/3
 www.porkchopsandwich.net,Possible Cobalt Strike C2 Domain,/en_US/all.js
