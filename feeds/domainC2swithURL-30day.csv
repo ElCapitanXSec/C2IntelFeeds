@@ -48,6 +48,7 @@ blueroadproject.viewdns.net,Possible Cobalt Strike C2 Domain,/async/newtab_promo
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bqq.clubreadbook.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bqq2.clubreadbook.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+buyredblog.com,Possible Cobalt Strike C2 Domain,/Communicate/Servlets/X51IK3U39S
 c1.dudu365.club,Possible Cobalt Strike C2 Domain,/api/x
 c1.flashjick.top,Possible Cobalt Strike C2 Domain,/api/3
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -96,7 +97,6 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/cm
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/cm
 core-win-up.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/pixel
-corporateupdates.info,Possible Cobalt Strike C2 Domain,/cx
 corporateupdates.info,Possible Cobalt Strike C2 Domain,/dpixel
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/ce.js
 creativesoftsolutions.com,Possible Cobalt Strike C2 Domain,/link.html
@@ -214,6 +214,7 @@ js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 jt.tnnd.ml,Possible Cobalt Strike C2 Domain,/xmlconnect.html
 l.wps.pics,Possible Cobalt Strike C2 Domain,/www/handle/doc
 lack.protax123.com,Possible Cobalt Strike C2 Domain,/j.ad
+lbx.symprod.ca,Possible Cobalt Strike C2 Fronting Domain,/r/webdev/comments/97ltxp
 leno.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 lifeillus.securianretirementcenter.center,Possible Cobalt Strike C2 Domain,/search/
@@ -355,6 +356,7 @@ office365.outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/copyright
 onlinetechdesk.com,Possible Cobalt Strike C2 Domain,/template.js
+opusmedical.info,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/g.pixel
 payloads.one,Possible Cobalt Strike C2 Domain,/r/webdev/comments/95ltyr
 peace.winexmarkets11.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -375,6 +377,7 @@ primerica.azureedge.net,Possible Cobalt Strike C2 Domain,/activity
 privia.keremsarmis.com,Possible Cobalt Strike C2 Domain,/bombaimha.php
 prod.ergonomic-survey.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 proxy.cdninternal.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+proxysg.symprod.ca,Possible Cobalt Strike C2 Fronted Domain,/r/webdev/comments/97ltxp
 qax.dbapp.eu.org,Possible Cobalt Strike C2 Fronted Domain,/owa/
 qianxin.edr-down.uk,Possible Cobalt Strike C2 Domain,/owa/
 qianxing.rocks,Possible Cobalt Strike C2 Domain,/api/3
