@@ -1,6 +1,6 @@
 #domain,ioc,IPs,C2Domains
 "007work.icu","Possible Cobaltstrike DNS C2 Domain","104.238.151.17","ns1.007work.icu ns2.007work.icu ns3.007work.icu"
-"227api.com","Possible Cobaltstrike DNS C2 Domain","103.146.141.98","ns2.227api.com ns3.227api.com"
+"227api.com", "Possible Cobaltstrike DNS C2 Domain","103.146.141.98","ns2.227api.com ns3.227api.com"
 "4fun.wiki","Possible Cobaltstrike DNS C2 Domain","154.202.60.234","log.1.4fun.wiki log.2.4fun.wiki log.3.4fun.wiki log.4.4fun.wiki"
 "95555cmbchina.com","Possible Cobaltstrike DNS C2 Domain","152.136.60.210","ns1.95555cmbchina.com ns2.95555cmbchina.com"
 "ace3.ru","Possible Cobaltstrike DNS C2 Domain","195.133.53.144","ns1.ace3.ru ns2.ace3.ru ns3.ace3.ru"
