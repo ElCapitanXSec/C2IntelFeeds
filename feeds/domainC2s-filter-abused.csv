@@ -8,7 +8,6 @@ api-prod.davantaged.com,Possible Cobalt Strike C2 Domain
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api.office-updates.org,Possible Cobalt Strike C2 Domain
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain
-as.regsvrsvc.com,Possible Cobalt Strike C2 Domain
 as.svcregsvr.com,Possible Cobalt Strike C2 Domain
 aspmx5.clsr.ca,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
@@ -129,7 +128,6 @@ micrusroft.com,Possible Cobalt Strike C2 Domain
 mobile.static.apiproxy.cloud.360.net,Possible Cobalt Strike C2 Fronting Domain
 mobile.static.apiproxy.cloud.360.net.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 mom.pain.capetown,Possible Cobalt Strike C2 Domain
-mortgagetf.com,Possible Cobalt Strike C2 Domain
 nc1.mlcr0s0ft.one,Possible Cobalt Strike C2 Domain
 net.healthyalwayss.com,Possible Cobalt Strike C2 Domain
 netdevstudio.com,Possible Cobalt Strike C2 Domain
@@ -223,7 +221,6 @@ qianxin.edr-down.uk,Possible Cobalt Strike C2 Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
 qocmkassa.store,Possible Cobalt Strike C2 Domain
 qq.chenda.xyz,Possible Cobalt Strike C2 Domain
-qw.regsvrsvc.com,Possible Cobalt Strike C2 Domain
 qw.svcregsvr.com,Possible Cobalt Strike C2 Domain
 rano.initiativeus.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
@@ -259,7 +256,6 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-k6swyxf1-1258536377.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-kvmc8be7-1304892907.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-npr00e01-1300810596.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -324,6 +320,5 @@ www1.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain
-zx.regsvrsvc.com,Possible Cobalt Strike C2 Domain
 zx.svcregsvr.com,Possible Cobalt Strike C2 Domain
 zzerxc.com,Possible Cobalt Strike C2 Domain
