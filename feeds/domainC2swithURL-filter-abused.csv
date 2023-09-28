@@ -27,6 +27,7 @@ c1.dudu365.club,Possible Cobalt Strike C2 Domain,/api/x
 c1.flashjick.top,Possible Cobalt Strike C2 Domain,/api/3
 c1.unirorm.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/fwlink
+cc.emergency-coms.com,Possible PoshC2 Fronting Domain,/wpaas/load.php/
 cdn.apiadmin.live,Possible Cobalt Strike C2 Domain,/index/
 cdn.azureeservices.co.uk,Possible Cobalt Strike C2 Domain,/broadcast
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
@@ -255,6 +256,7 @@ service-7tnbn05f-1319135578.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-a83yg9pg-1307556005.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-c016brab-1302420290.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/visit.js
+service-cufhwy32-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -332,6 +334,7 @@ www.weatherths.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www1.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www2.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www3.ceshi897.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+xavfgrtgrg.com,Possible Cobalt Strike C2 Domain,/preserve/picture/IJNHFXU2X53
 xytcdn.hongmengchuangke.com,Possible Cobalt Strike C2 Fronted Domain,/s3/fiji-static/_/CbirPanel@desktop.en.4307c8d994f7025d1b03bc7987dff5e0.js
 zx.svcregsvr.com,Possible Cobalt Strike C2 Domain,/bg
 zzerxc.com,Possible Cobalt Strike C2 Domain,/Picture/archive/MO08MZ9L0
