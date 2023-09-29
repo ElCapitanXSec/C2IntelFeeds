@@ -80,7 +80,7 @@
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsofthk.com"
 "microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain","149.127.215.132","update.microsoftkernel.com"
 "microsoftser.top","Possible Cobaltstrike DNS C2 Domain","23.95.44.80","exchange1.microsoftser.top exchange2.microsoftser.top"
-"miira.live","Possible Cobaltstrike DNS C2 Domain","139.59.235.156","miira.live web.miira.live"
+"miira.live","Possible Cobaltstrike DNS C2 Domain","139.59.235.156","web.miira.live"
 "mlcr0s0ft.one","Possible Cobaltstrike DNS C2 Domain","45.32.253.112","nc1.mlcr0s0ft.one ns1.mlcr0s0ft.one"
 "mmsy.top","Possible Cobaltstrike DNS C2 Domain","52.253.108.7","v2ray1.mmsy.top v2ray2.mmsy.top"
 "mwam.support","Possible Cobaltstrike DNS C2 Domain","18.184.17.94","contact.mwam.support"
@@ -109,4 +109,3 @@
 "winexmarkets11.com","Possible Cobaltstrike DNS C2 Domain","54.226.51.227","peace.winexmarkets11.com"
 "x7z.mom","Possible Cobaltstrike DNS C2 Domain","199.195.251.219","ns8.x7z.mom"
 "xiaopeng111.com","Possible Cobaltstrike DNS C2 Domain","101.91.154.125","ns1.xiaopeng111.com ns2.xiaopeng111.com ns3.xiaopeng111.com"
-
